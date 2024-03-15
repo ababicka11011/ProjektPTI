@@ -1,0 +1,24 @@
+{
+    "devices": [
+        {
+            "id": "ed00325c144fd5cc0235544a8a51fa525c31e8e2",
+            "is_active": false,
+            "is_private_session": false,
+            "is_restricted": false,
+            "name": "Anna's A34",
+            "supports_volume": false,
+            "type": "Smartphone",
+            "volume_percent": 100
+        },
+        {
+            "id": "c476d4c12c377f4089e7bd6f11af37a77ac2abe9",
+            "is_active": false,
+            "is_private_session": false,
+            "is_restricted": false,
+            "name": "LAPTOP-K23D6U56",
+            "supports_volume": true,
+            "type": "Computer",
+            "volume_percent": 100
+        }
+    ]
+}

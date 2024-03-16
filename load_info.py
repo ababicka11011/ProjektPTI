@@ -2,7 +2,7 @@ import os
 import json
 import spotipy
 from time import time
-from spotify_genres import generate_genres_list, find_genre
+from spotify_genres import generate_genres_list, find_genre, binary_search
 from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.exceptions import SpotifyException
 
@@ -56,24 +56,8 @@ def get_genre(song_genres):
         if not main_genre == 'undefined':
             break
     main_genres[main_genre] += 1
-    # print(f"{main_genre}, {stop - start}")
 
     return main_genre
-    # for genre in song_genres:
-    #     if 'blues' in genre: main_genres.append('blues')
-    #     if 'classical' in genre: main_genres.append('classical')
-    #     if 'country' in genre: main_genres.append('country')
-    #     if 'electro' in genre: main_genres.append('electronic')
-    #     if 'house' in genre: main_genres.append('electronic')
-    #     if 'tech' in genre: main_genres.append('electronic')
-    #     if 'folk' in genre: main_genres.append('folk/acoustic')
-    #     if 'hip hop' in genre: main_genres.append('hip hop')
-    #     if 'rap' in genre: main_genres.append('hip hop')
-    #     if 'metal' in genre: main_genres.append('metal')
-    #     if 'pop' in genre: main_genres.append('pop')
-    #     if 'r&b' in genre: main_genres.append('r&b')
-    #     if 'soul' in genre: main_genres.append('r&b')
-    #     if 'rock' in genre: main_genres.append('rock')
 
 
 t1 = time()
@@ -91,6 +75,8 @@ n = 0
 # 4. clean code
 # 5. stats
 # 6. tests
+# 7. check if already in db
+# 8. multiple genres
 # ############### * * * ###############
 
 with open("testfile02.txt", "r") as f:
@@ -106,7 +92,6 @@ with open("songs_info.txt", "w") as f:
             print(n)
 
         song = sp.search(query.strip(), 1, 0, type="track")["tracks"]["items"][0]
-        # print(json.dumps(song["name"], sort_keys=True, indent=4))
 
         f.write("l;")  # link
         artist = sp.artist(song['artists'][0]['uri'])
@@ -120,7 +105,6 @@ with open("songs_info.txt", "w") as f:
         f.write(f"{mins}:{a}{secs % 60};")
 
         tf = sp.audio_features(tracks=[song['uri']])[0]  # it's track features, guy, chill...
-        # print(json.dumps(tf, sort_keys=True, indent=4))
         if tf['mode'] == 1:
             mode = "Major"
         else:

@@ -4,7 +4,7 @@ from mysql.connector import Error
 
 try:
     cnx = mysql.connector.connect(user="user", password="OdczytDanych", host="projektpti.mysql.database.azure.com",
-                                  port=3306, database="projektpti", ssl_disabled=False)
+                                  port=3306, database="projektpti")
 
     if cnx.is_connected():
         cursor = cnx.cursor()

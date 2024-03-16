@@ -49,21 +49,26 @@ main_genres = {
 
 def get_genre(song_genres):
     if not song_genres:
-        return 'undefined'
-    main_genre = ''
+        return []
+    main_genre_list = []
     for g in song_genres:
         main_genre = find_genre(g)
-        if not main_genre == 'undefined':
-            break
-    main_genres[main_genre] += 1
+        if (not main_genre == 'undefined') and (main_genre not in main_genre_list):
+            main_genre_list.append(main_genre)
+    for i in main_genre_list: main_genres[i] += 1
 
-    return main_genre
+    return main_genre_list
 
 
 t1 = time()
 auth_manager = SpotifyClientCredentials()
 sp = spotipy.Spotify(auth_manager=auth_manager)
 generate_genres_list()
+if os.path.exists("songs_in_db.json"):
+    with open("songs_in_db.json", "r") as f:
+        songs_in_db = json.load(f)
+else:
+    songs_in_db = []
 
 codes = []
 n = 0
@@ -72,14 +77,14 @@ n = 0
 # 1. properties - done
 # 2. keys list - done
 # 3. genres list - done
-# 4. clean code
-# 5. stats
-# 6. tests
-# 7. check if already in db
-# 8. multiple genres
-# ############### * * * ###############
+# 4. clean code - done i guess
+# 5. stats - done
+# 6. tests - will work out
+# 7. check if already in db - done
+# 8. multiple genres - done
+# ############### * * * ############### ale ja dobra w to programowanie jestem
 
-with open("testfile02.txt", "r") as f:
+with open("songs.txt", "r") as f:
     t = f.readlines()
 
 with open("songs_info.txt", "w") as f:
@@ -92,6 +97,10 @@ with open("songs_info.txt", "w") as f:
             print(n)
 
         song = sp.search(query.strip(), 1, 0, type="track")["tracks"]["items"][0]
+        if song["id"] in songs_in_db:
+            continue
+        else:
+            songs_in_db.append(song["id"])
 
         f.write("l;")  # link
         artist = sp.artist(song['artists'][0]['uri'])
@@ -118,4 +127,6 @@ with open("songs_info.txt", "w") as f:
 
 t2 = time()
 print(f"czas dla n = {n}: {t2 - t1}")
+with open("songs_in_db.json", "w") as f:
+    json.dump(songs_in_db, f)
 print(main_genres)

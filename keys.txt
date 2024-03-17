@@ -1,0 +1,1 @@
+(("C Major"),("C Minor"),("C#/Db Major"),("C#/Db Minor"),("D Major"),("D Minor"),("D#/Eb Major"),("D#/Eb Minor"),("E Major"),("E Minor"),("F Major"),("F Minor"),("F#/Gb Major"),("F#/Gb Minor"),("G Major"),("G Minor"),("G#/Ab Major"),("G#/Ab Minor"),("A Major"),("A Minor"),("A#/Bb Major"),("A#/Bb Minor"),("B Major"),("B Minor"))

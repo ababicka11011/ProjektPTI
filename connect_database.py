@@ -8,7 +8,7 @@ try:
 
     if cnx.is_connected():
         cursor = cnx.cursor()
-        cursor.execute("SELECT * FROM artist;")
+        cursor.execute("SELECT * FROM user;")
         record = cursor.fetchall()
         print("You're connected to database: ", record)
         cursor.close()

@@ -93,4 +93,4 @@ def find_genre(name):
 
 
 if __name__ == "__main__":
-    SpotifyGenres.generate_genres_list()
+    generate_genres_list()

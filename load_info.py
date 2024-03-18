@@ -7,16 +7,16 @@ from spotify_genres import generate_genres_list, find_genre
 from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.exceptions import SpotifyException
 
-
 client_id = 'b57f0441009e4576bd35fb6a36cce302'
 client_secret = '2239ed9d1133428bb7b8333c04922424'
 # client_id = 'a35f2af546ee4562b6fb53de3dcfcd3c'
 # client_secret = '4f814bb60ea24a60b10d4aa81acbc6a3'
 url = 'https://accounts.spotify.com/api/token'
 scope = "user-read-playback-state,user-modify-playback-state,user-top-read"
-playlist_link = "https://open.spotify.com/playlist/37i9dQZF1DWZBCPUIUs2iR?si=94471ac501d34470"
+playlist_link = "https://open.spotify.com/playlist/37i9dQZF1DX5KpP2LN299J?si=a100ec7f99a345f4"
 separator = ','
-target_genre = 'country'
+limit = 10
+target_genre = ''
 
 codes = []
 n = 0
@@ -69,6 +69,7 @@ if os.path.exists("songs_in_db.json"):
             songs_in_db = []
 else:
     songs_in_db = []
+print(len(songs_in_db))
 
 
 def get_genre(song_genres):
@@ -143,7 +144,8 @@ with open("songs_info.txt", "a") as f:
     #         "Instrumentalness;Liveness;Speechiness;Explicit\n")
 
     playlist = sp.playlist(playlist_id)
-    pl_length = playlist["tracks"]["total"]
+    if limit > 0: pl_length = limit
+    else: pl_length = playlist["tracks"]["total"]
     print(pl_length)
 
     offset = 0
@@ -151,6 +153,10 @@ with open("songs_info.txt", "a") as f:
         ids = []
         playlist = sp.playlist_tracks(playlist_id, offset=offset)
         offset += 100
+
+        if n >= limit:
+            break
+
         for song in playlist["items"]:
             ids.append(song["track"]["id"])
         try:
@@ -161,6 +167,8 @@ with open("songs_info.txt", "a") as f:
 
         # print({f'offset: {offset}'})
         for song in playlist["items"]:
+            if n >= limit:
+                break
             n += 1
             if n % 20 == 0:
                 print(n, song['track']['name'])

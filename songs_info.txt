@@ -653,3 +653,13 @@ https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT,Vince Gill,When I Call You
 https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT,Shenandoah,Two Dozen Roses,country,3:44,117,E Major,56,0.54,0.69,0.5,0.33,0,0.1,0.03,False
 https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO,Clint Black,Killin' Time,country,2:48,121,G Major,56,0.69,0.71,0.52,0.46,0.0,0.1,0.03,False
 https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR,Collin Raye,Love, Me,country,3:52,107,C Major,56,0.34,0.69,0.23,0.74,0,0.14,0.03,False
+https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr,Taylor Swift,Cruel Summer,pop,2:58,170,A Major,97,0.56,0.55,0.7,0.12,0.0,0.1,0.16,False
+https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K,Taylor Swift,august,pop,4:22,90,F Major,88,0.4,0.53,0.62,0.54,0.0,0.09,0.03,False
+https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu,Taylor Swift,Anti-Hero,pop,3:21,97,E Major,90,0.53,0.64,0.64,0.13,0.0,0.14,0.05,False
+https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz,Taylor Swift,Is It Over Now? (Taylor's Version) (From The Vault),pop,3:49,100,C Major,89,0.18,0.6,0.66,0.05,0,0.13,0.04,False
+https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd,Taylor Swift,cardigan,pop,4:00,130,C Minor,89,0.55,0.61,0.58,0.54,0.0,0.25,0.04,False
+https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf,Taylor Swift,Karma,pop,3:25,90,G#/Ab Major,86,0.1,0.64,0.62,0.07,0,0.48,0.07,True
+https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI,Taylor Swift,Lover,pop,3:41,69,G Major,91,0.45,0.36,0.54,0.49,0.0,0.12,0.09,False
+https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f,Taylor Swift,willow,pop,3:35,81,G Major,82,0.53,0.39,0.57,0.83,0.0,0.14,0.17,False
+https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4,Taylor Swift,You’re Losing Me (From The Vault),pop,4:38,103,C Major,86,0.2,0.75,0.39,0.53,0.0,0.11,0.05,False
+https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf,Taylor Swift,Love Story (Taylor’s Version),pop,3:56,119,D Major,83,0.42,0.63,0.79,0.14,0.0,0.1,0.03,False

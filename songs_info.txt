@@ -1,665 +1,446 @@
-Link;Autor;Tytu�;Rodzaj;Duration;Tempo(BPM);Key;Popularity;Happiness;Danceability;Energy;Acousticness;Instrumentalness;Liveness;Speechiness;Explicit
-https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ,Antonio Vivaldi,The Four Seasons: Concerto No. 4 in F Minor, RV 297 "L'inverno" (winter): I. Allegro non molto,classical,3:22,162,F Minor,65,0.39,0.4,0.25,0.82,0.64,0.12,0.04,False
-https://open.spotify.com/track/0pYNtYPverz3Y2SjEgKYE2,Antonio Vivaldi,Le quattro stagioni (The Four Seasons), Op. 8 - Concerto No. 2 in G Minor, RV 315, "L'estate" (Summer): III. Presto (Tempo impetuoso d'estate),classical,2:51,144,G Minor,0,0.45,0.28,0.46,0.9,0.93,0.38,0.04,False
-https://open.spotify.com/track/3YUmaXADZY1wdTrGCF4Fdw,Sergei Prokofiev,Romeo and Juliet, Op. 64: No. 13 Dance of the Knights,classical,5:45,73,C Major,49,0.12,0.14,0.06,0.89,0.24,0.56,0.05,False
-https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt,Pyotr Ilyich Tchaikovsky,Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato,classical,2:47,58,E Minor,70,0.07,0.14,0.16,0.91,0.92,0.11,0.04,False
-https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx,Giuseppe Verdi,Dies Irae,classical,2:15,80,C Minor,59,0.24,0.27,0.35,0.93,0.93,0.08,0.03,False
-https://open.spotify.com/track/2oLjhx7w8Hyd3gry9cCXr7,Johannes Brahms,21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling),classical,2:19,145,G Minor,63,0.6,0.36,0.17,0.9,0.96,0.1,0.04,False
-https://open.spotify.com/track/7HB1REjjalFLSXgXlAAwFs,Antonio Vivaldi,Concerto for Strings in G Major, RV 151, "Alla Rustica": I. Presto,classical,1:20,107,D Major,64,0.63,0.43,0.29,0.9,0.91,0.37,0.05,False
-https://open.spotify.com/track/2HrDeUcfs5MGPKRo8gD1BI,Antonio Vivaldi,Concerto For 4 Violins In B Minor, Op. 3, No. 10, RV 580 : I. Allegro,classical,3:55,107,B Minor,40,0.63,0.5,0.31,0.8,0.0,0.06,0.07,False
-https://open.spotify.com/track/1IM8x4lxZVOOP9gpQD6c5s,Camille Saint-Sa�ns,Danse macabre in G Minor, Op. 40,classical,7:12,116,G Minor,55,0.17,0.44,0.18,0.91,0.66,0.06,0.04,False
-https://open.spotify.com/track/4EboQ4MODsqFWP00zSnJpf,Leo� Jan��ek,String Quartet No. 2, JW 7/13 "Intimate Letters": II. Adagio,classical,6:09,73,F#/Gb Major,33,0.04,0.17,0.19,0.93,0.85,0.1,0.06,False
-https://open.spotify.com/track/5K8BwPXLN7rdlYsPHFXrY3,Pyotr Ilyich Tchaikovsky,Slavonic March, Op. 31, TH 45,classical,9:16,110,A#/Bb Minor,39,0.07,0.33,0.23,0.87,0.93,0.1,0.04,False
-https://open.spotify.com/track/22NQmi4oHSelAotPM3D4FO,Giuseppe Verdi,Requiem: II. Dies irae "Dies irae",classical,2:00,91,C Minor,39,0.18,0.25,0.28,0.93,0.84,0.1,0.03,False
-https://open.spotify.com/track/3h4elxYZdkZGsNEph9syV8,Manuel de Falla,La vida breve, Act II: Danza,classical,3:35,106,D Minor,29,0.34,0.21,0.14,0.75,0.95,0.15,0.04,False
-https://open.spotify.com/track/2hNhsPZVVOr0SOqShooaEJ,Pyotr Ilyich Tchaikovsky,Valse sentimentale, Op. 51, No. 6,classical,4:44,36,C#/Db Major,45,0.1,0.14,0.23,0.96,0.08,0.11,0.05,False
-https://open.spotify.com/track/6yhioaNcLd5qwei5S0HQsu,Seattle Symphony Orchestra,21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in F-Sharp Minor,classical,2:54,83,G Minor,54,0.26,0.23,0.07,0.83,0.39,0.08,0.04,False
-https://open.spotify.com/track/4oviAMVnj3noW22hfvgFQS,L�o Delibes,Sylvia: Act III: Divertissement: Variation - Valse,classical,1:15,97,D#/Eb Major,62,0.42,0.35,0.06,0.93,0.93,0.21,0.04,False
-https://open.spotify.com/track/03xxnNXmK7lJjW9hV2ldn8,L�o Delibes,Coppelia: Act I - Valse,classical,2:21,89,D#/Eb Major,56,0.19,0.2,0.03,0.9,0.87,0.09,0.04,False
-https://open.spotify.com/track/45eG3JWQSWarZV7SQ8HGqz,Ludwig Minkus,Don Quixote: Act I: Quiteria's Variation,classical,0:47,136,B Minor,38,0.52,0.49,0.07,0.93,0.66,0.19,0.05,False
-https://open.spotify.com/track/4aVQZ6pyDgfxMBVBiJlOtC,Seattle Symphony Orchestra,Etudes symphoniques (Symphonic Etudes), Op. 13, Adagio and Allegro brillante: Variation 11 [arr. P.I. Tchaikovsky for orchestra],classical,1:51,70,A Minor,62,0.05,0.17,0.04,0.98,0.95,0.08,0.04,False
-https://open.spotify.com/track/4iYIRlCTOUE26lYwtvXEDY,Johann Sebastian Bach,Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace,classical,3:52,94,G Minor,42,0.86,0.54,0.38,0.96,0.0,0.47,0.06,False
-https://open.spotify.com/track/04eShjKTWijeJJqGnhxpYK,Nikolai Rimsky-Korsakov,Scheherazade: The Tale of the Kalendar Prince,classical,3:20,121,B Minor,59,0.08,0.23,0.06,0.96,0.6,0.47,0.05,False
-https://open.spotify.com/track/4GdHkkbUtc63Jr3JI5Pm19,Anton�n Dvo��k,Symphony No. 9 in E Minor, Op. 95 "From the New World": IV. Allegro con fuoco,classical,12:15,133,E Minor,53,0.12,0.24,0.11,0.89,0.9,0.71,0.04,False
-https://open.spotify.com/track/1UvaZaHkh3D9AkmBrrnbFg,Wolfgang Amadeus Mozart,Lacrimosa,classical,3:25,84,D Minor,61,0.08,0.08,0.09,0.96,0.59,0.29,0.04,False
-https://open.spotify.com/track/1lGZmABQXTYGYY5MZb9SJY,Fr�d�ric Chopin,12 �tudes, Op. 25: No. 11 in A Minor "Winter Wind",classical,3:33,120,C Major,39,0.07,0.3,0.34,0.99,0.87,0.1,0.04,False
-https://open.spotify.com/track/31phRRDd6MwLhE88ZXt8hn,Antonio Vivaldi,Sonata "La Follia" Op. 1 n. 12 RV 63,classical,9:49,148,C#/Db Minor,39,0.28,0.36,0.25,0.57,0.0,0.1,0.05,False
-https://open.spotify.com/track/0lAzlYb7HRIka9Zi38QR3j,Dmitri Shostakovich,Jazz Suite No. 2: II. Lyric Waltz,classical,2:09,100,C Minor,51,0.27,0.31,0.14,0.95,0.73,0.17,0.03,False
-https://open.spotify.com/track/2f2egGUYIOUjcFG3EDFg2F,St. Petersburg State Symphony Orchestra,Masquerade Suite: Maskarad (Masquerade): I. Waltz,classical,4:22,94,C Major,54,0.2,0.3,0.26,0.84,0.95,0.1,0.03,False
-https://open.spotify.com/track/6nqHzwOdGIaX57U6VU6kMO,Anton�n Dvo��k,Symphony No. 9 in E Minor, Op. 95, B. 178 "From the New World": IV. Allegro con fuoco,classical,11:25,136,E Minor,57,0.11,0.25,0.16,0.9,0.74,0.12,0.04,False
-https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS,Baroque Festival Orchestra,Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate),,2:56,140,C Minor,61,0.57,0.3,0.17,0.96,0.9,0.1,0.04,False
-https://open.spotify.com/track/3sAYxq1986j3ydqLv6jwUJ,Anton�n Dvo��k,Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse,classical,7:13,0,A Major,66,0,0,0.08,0.76,0.89,0.26,0,False
-https://open.spotify.com/track/20ZYjuXxzdfpCnYf6MXPjO,Anton�n Dvo��k,8 Slavonic Dances, Op. 72: No. 2 in E Minor (Allegretto grazioso),classical,1:19,80,E Minor,42,0.17,0.18,0.06,0.88,0.88,0.13,0.04,False
-https://open.spotify.com/track/5K8jqeLAxZIqHR6e5w5so1,L�o Delibes,Flower Duet,classical,0:59,72,C Major,61,0.07,0.18,0.03,0.99,0.91,0.12,0.04,False
-https://open.spotify.com/track/62dD6AMgEvZq5OCHAZ7d9a,Pyotr Ilyich Tchaikovsky,Piano Concerto No. 1 in B-Flat Minor, Op. 23, TH. 55: I. Allegro non troppo e molto maestoso - Allegro con spirito - Live at Philharmonie, Berlin,classical,23:41,76,A#/Bb Minor,49,0.04,0.23,0.08,0.98,0.91,0.17,0.04,False
-https://open.spotify.com/track/1IRqLBc1JAKIsLcOKwIMyY,https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL,Claude Debussy,Clair de Lune, L. 32,classical,4:28,66,C#/Db Major,69,0.04,0.34,0.01,0.99,0.91,0.06,0.04,False
-https://open.spotify.com/track/4JOEMgLkrHp8K1XNmyNffH,Maurice Ravel,Miroirs: III. Une barque sur l'oc�an,classical,7:08,76,D Major,59,0.03,0.17,0.05,0.98,0.91,0.08,0.04,False
-https://open.spotify.com/track/28XMNc5If5BmJWYDU42gkw,Johann Sebastian Bach,Violin Concerto No. 1 in A minor, BWV 1041: I. (Allegro moderato),classical,3:56,91,A Minor,57,0.62,0.5,0.35,0.95,0.0,0.12,0.04,False
-https://open.spotify.com/track/3ReGInIb9KW3DL6a1cNDOv,Luke Faulkner,Pas de deux (from the Nutcracker, Tchaikovsky Arr. Pletnev),[],5:32,102,G Major,33,0.08,0.23,0.02,0.98,0.9,0.06,0.04,False
-https://open.spotify.com/track/703iyFFCGrfBxVIFQ1MZ7O,Ludwig van Beethoven,Piano Sonata No. 17 In D Minor, Op. 31, No. 2 -"The Tempest": 3. Allegretto,classical,6:57,115,G Minor,37,0.32,0.27,0.13,0.99,0.9,0.07,0.04,False
-https://open.spotify.com/track/3kvBEbswxMAx6QKc10SCon,Johann Sebastian Bach,Overture (Suite) No. 2 in B Minor, BWV 1067: VII. Badinerie,classical,1:30,131,B Minor,60,0.96,0.52,0.27,0.85,0.09,0.08,0.04,False
-https://open.spotify.com/track/3jRW4o7TpIjA6KCnpqIeR6,Ludwig Minkus,Paquita: Variation 5: Allegro non troppo (by Cherepnin),classical,1:06,140,E Minor,58,0.48,0.44,0.08,0.93,0.92,0.09,0.05,False
-https://open.spotify.com/track/0Ee9oam0N0ZzxZSN9nogTQ,Maurice Ravel,Antar (After N. Rimsky-Korsakov): No. 7. Ravel: Allegretto,classical,1:06,138,F Major,62,0.04,0.15,0.01,0.75,0.85,0.29,0.04,False
-https://open.spotify.com/track/7AI7PbU2zIJfDV9qDNlhZX,Vittorio Monti,Csardas,classical,4:46,175,D Major,50,0.22,0.31,0.14,0.93,0.07,0.12,0.06,False
-https://open.spotify.com/track/4sCgQZkwhYlB1a8ocpiWRr,Antonio Vivaldi,Cello Concerto in E Minor, RV 409: II. Allegro,classical,1:01,145,E Minor,60,0.83,0.4,0.23,0.99,0.65,0.15,0.04,False
-https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL,Etta James,I'd Rather Go Blind,blues*r&b*jazz,2:37,83,B Minor,79,0.61,0.48,0.43,0.69,0.0,0.15,0.02,False
-https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo,Stevie Ray Vaughan,Pride and Joy,rock*blues,3:40,127,G#/Ab Major,68,0.74,0.43,0.63,0.03,0.0,0.11,0.04,False
-https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si,Bobby "Blue" Bland,Ain't No Love In The Heart Of The City - Single Version,blues*r&b,3:54,158,A Minor,66,0.74,0.52,0.38,0.93,0.86,0.1,0.04,False
-https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM,B.B. King,The Thrill Is Gone,blues*rock,5:25,91,B Minor,65,0.54,0.55,0.46,0.34,0.44,0.1,0.03,False
-https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T,Muddy Waters,Mannish Boy,blues*rock*r&b,5:21,111,D Major,64,0.61,0.6,0.73,0.44,0.0,0.68,0.1,False
-https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp,Howlin' Wolf,Smokestack Lightnin',blues,3:08,146,A Minor,64,0.59,0.66,0.34,0.84,0.0,0.26,0.04,False
-https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw,John Lee Hooker,Boom Boom,blues*rock,2:32,161,A#/Bb Major,63,0.92,0.44,0.46,0.62,0.0,0.14,0.05,False
-https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU,Little Walter,My Babe,blues,2:42,158,F Major,60,0.87,0.68,0.33,0.86,0,0.32,0.05,False
-https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR,Jimi Hendrix,Red House,rock*metal,3:50,54,F Minor,60,0.48,0.28,0.48,0.58,0.02,0.16,0.05,False
-https://open.spotify.com/track/3ocm1Cf1Dk1ODrdBdybh82,Albert King,Born Under A Bad Sign - Mono Mix,blues*rock*r&b,2:50,92,B Major,60,0.88,0.71,0.48,0.43,0.01,0.03,0.03,False
-https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7,Freddie King,Going Down,blues*rock,3:24,168,C Major,59,0.64,0.56,0.53,0.03,0.0,0.11,0.04,False
-https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt,Big Mama Thornton,Hound Dog,blues,3:01,133,A Major,57,0.79,0.56,0.54,0.71,0.0,0.35,0.1,False
-https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ,Bo Diddley,I'm A Man,blues*rock,2:45,86,C Major,57,0.83,0.51,0.55,0.33,0,0.17,0.04,False
-https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw,Buddy Guy,Feels Like Rain (feat. Bonnie Raitt),blues*rock,4:35,73,C Major,56,0.34,0.57,0.35,0.44,0.0,0.23,0.03,False
-https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW,B.B. King,Chains And Things,blues*rock,4:54,80,E Minor,56,0.34,0.56,0.24,0.59,0.2,0.12,0.03,False
-https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di,Fenton Robinson,Somebody Loan Me A Dime - Remastered,blues,2:57,118,D#/Eb Major,56,0.78,0.56,0.78,0.64,0.0,0.33,0.1,False
-https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD,Stevie Ray Vaughan,Love Struck Baby,rock*blues,2:22,172,G#/Ab Major,55,0.97,0.55,0.87,0.28,0.05,0.17,0.05,False
-https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd,Derek & The Dominos,Have You Ever Loved A Woman?,rock*blues*folk/acoustic,6:53,170,C Major,55,0.64,0.3,0.65,0.64,0.05,0.41,0.05,False
-https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl,Albert Collins,Cold, Cold Feeling,blues*rock,5:19,148,D#/Eb Minor,55,0.4,0.71,0.28,0.14,0.03,0.11,0.04,False
-https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf,Etta James,Do Right Woman, Do Right Man,blues*r&b*jazz,2:58,144,D Major,55,0.43,0.45,0.41,0.58,0.0,0.45,0.03,False
-https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul,Taj Mahal,Leaving Trunk,blues*folk/acoustic,4:50,174,D#/Eb Minor,54,0.95,0.54,0.5,0.2,0.01,0.17,0.05,False
-https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk,Bonnie Raitt,Love Me Like a Man - 2008 Remaster,rock*blues*folk/acoustic,3:12,125,B Minor,54,0.83,0.59,0.53,0.3,0.0,0.2,0.05,False
-https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z,Johnny Winter,Be Careful With a Fool,blues*rock,5:15,209,G Minor,54,0.75,0.29,0.74,0.28,0.04,0.1,0.15,False
-https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f,Buddy Guy,Damn Right, I've Got the Blues,blues*rock,4:32,146,D Major,55,0.53,0.35,0.92,0.05,0.07,0.31,0.08,False
-https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0,Sam Maghett,All Your Love - Stereo,[],3:33,107,D Minor,54,0.78,0.32,0.62,0.49,0.0,0.34,0.03,False
-https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem,Muddy Waters,Rollin' Stone,blues*rock*r&b,3:08,169,E Major,53,0.34,0.63,0.02,0.99,0.0,0.11,0.08,False
-https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7,Fleetwood Mac,Black Magic Woman - 2018 Master,rock,2:53,129,G Minor,53,0.44,0.46,0.41,0.05,0.0,0.28,0.04,False
-https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm,B.B. King,Why I Sing The Blues,blues*rock,8:37,118,C Major,53,0.72,0.79,0.49,0.24,0.0,0.07,0.05,False
-https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW,Otis Rush,Working Man,blues,2:28,103,C Major,53,0.84,0.63,0.62,0.49,0.0,0.2,0.04,False
-https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2,The Fabulous Thunderbirds,Scratch My Back,blues*rock,3:53,121,E Major,52,0.86,0.78,0.5,0.5,0.02,0.11,0.04,False
-https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy,Freddie King,I'm Tore Down,blues*rock,4:13,117,D Major,52,0.95,0.64,0.5,0.62,0.0,0.18,0.04,False
-https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq,Cream,Crossroads - Live,rock*blues*folk/acoustic,4:16,132,G Major,52,0.84,0.38,0.76,0.44,0.04,0.87,0.07,False
-https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg,John Lee Hooker,Boogie Chillen',blues*rock,3:11,149,B Major,52,0.39,0.67,0.17,0.84,0.01,0.12,0.06,False
-https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf,Muddy Waters,Got My Mojo Working,blues*rock*r&b,2:52,114,E Major,53,0.88,0.52,0.8,0.58,0.0,0.23,0.06,False
-https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK,Elmore James,The Sky Is Crying,blues,2:46,178,D Major,52,0.57,0.29,0.61,0.02,0.43,0.11,0.03,False
-https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM,Albert Collins,T-Bone Shuffle,blues*rock,4:56,131,B Major,51,0.77,0.54,0.69,0.0,0.19,0.08,0.04,False
-https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY,B.B. King,To Know You Is To Love You,blues*rock,8:35,103,C Major,53,0.94,0.87,0.38,0.42,0.32,0.07,0.04,False
-https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ,Champion Jack Dupree,Junker's Blues,blues,3:13,103,F Major,51,0.7,0.78,0.15,0.86,0.0,0.1,0.11,False
-https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT,Luther Allison,Bad News Is Coming,blues,7:26,140,C#/Db Minor,51,0.47,0.64,0.5,0.71,0.25,0.05,0.04,False
-https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI,Freddie King,Stumble,blues*rock,3:37,118,E Major,50,0.86,0.68,0.61,0.1,0.32,0.16,0.03,False
-https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3,Little Walter,Juke,blues,2:45,145,E Major,50,0.64,0.57,0.66,0.75,0.9,0.16,0.07,False
-https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w,Koko Taylor,Wang Dang Doodle,blues,3:03,153,C#/Db Major,50,0.62,0.65,0.54,0.34,0.0,0.09,0.18,False
-https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S,Albert King,Crosscut Saw - Mono Mix,blues*rock*r&b,2:36,123,C#/Db Major,50,0.96,0.84,0.41,0.02,0.78,0.04,0.06,False
-https://open.spotify.com/track/36ccrof5DFicLrejE4hEye,Jimmy Rogers,Walking By Myself,blues,2:47,117,B Minor,49,0.78,0.62,0.52,0.84,0.0,0.16,0.1,False
-https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1,T-Bone Walker,Mean Old World,blues,4:07,87,C Major,49,0.62,0.73,0.23,0.53,0.01,0.07,0.04,False
-https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ,Allman Brothers Band,Trouble No More,rock*blues*country*folk/acoustic,3:48,141,A Minor,49,0.86,0.56,0.57,0.06,0.0,0.09,0.03,False
-https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J,Willie Dixon,I Can't Quit You Baby,blues,6:39,82,G Major,49,0.41,0.47,0.24,0.41,0.04,0.21,0.04,False
-https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft,Buddy Guy,Stone Crazy,blues*rock,7:12,175,D Major,48,0.62,0.45,0.46,0.81,0.0,0.25,0.12,False
-https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX,Professor Longhair,Big Chief - Remastered,blues*r&b,3:15,152,C#/Db Major,48,0.96,0.56,0.73,0.22,0.14,0.18,0.04,False
-https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa,T-Bone Walker,Call It Stormy Monday,blues,3:08,101,C Major,48,0.46,0.61,0.3,0.55,0.0,0.04,0.04,False
-https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF,Son Seals,Sadie,blues,6:08,123,B Minor,47,0.93,0.5,0.75,0.14,0.01,0.09,0.04,False
-https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola,Koko Taylor,I'm A Woman - Remastered,blues,4:34,110,A#/Bb Major,48,0.63,0.49,0.75,0.07,0.0,0.04,0.1,False
-https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa,Junior Wells,She's A Sweet One,blues,3:02,123,C#/Db Major,47,0.71,0.7,0.48,0.15,0.03,0.2,0.05,False
-https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu,Clarence Carter,Part Time Love,r&b,2:42,93,C Major,47,0.95,0.69,0.59,0.47,0.0,0.35,0.06,False
-https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj,Magic Sam,All Your Love,blues,2:56,81,B Major,47,0.8,0.43,0.7,0.84,0.32,0.1,0.16,False
-https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS,Hound Dog Taylor,Ain't Got Nobody,blues,3:30,127,G#/Ab Minor,47,0.92,0.54,0.72,0.17,0.01,0.29,0.04,False
-https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby,Willie Dixon,Little Red Rooster,blues,3:35,82,E Major,47,0.75,0.58,0.28,0.55,0.21,0.26,0.03,False
-https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM,Mike Bloomfield,Albert's Shuffle,blues*rock,6:55,200,C Major,46,0.68,0.3,0.49,0.2,0.63,0.29,0.04,False
-https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR,Slim Harpo,I'm A King Bee,blues*rock,3:03,112,A#/Bb Minor,46,0.91,0.69,0.45,0.42,0.0,0.16,0.03,False
-https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF,Lafayette Leake,Short Dressed Woman,blues,4:12,111,A#/Bb Major,46,0.75,0.77,0.5,0.24,0.07,0.09,0.03,False
-https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4,Son Seals,Now That I'm Down,blues,6:02,141,D Major,45,0.46,0.49,0.34,0.47,0.0,0.11,0.2,False
-https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw,Earl Hooker,Two Bugs and a Roach,blues,4:20,135,A Major,45,0.81,0.52,0.57,0.65,0.01,0.1,0.08,False
-https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx,Otis Rush,Double Trouble,blues,2:43,106,G Minor,45,0.43,0.57,0.42,0.67,0.0,0.17,0.04,False
-https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp,Johnny Winter,Mean Mistreater,blues*rock,3:52,68,A Major,45,0.58,0.55,0.49,0.74,0.01,0.33,0.03,False
-https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi,Lowell Fulson,Reconsider Baby,blues,3:09,95,C Major,45,0.67,0.64,0.67,0.75,0.0,0.06,0.06,False
-https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq,Luther Allison,Should I Wait,blues,5:05,104,A Major,45,0.82,0.64,0.74,0.03,0.0,0.21,0.03,False
-https://open.spotify.com/track/50y6y3iwBlKKev2U4a6GK5,Louis Jordan & His Tympany Five,Let The Good Times Roll,blues,2:47,105,A Minor,44,0.65,0.7,0.4,0.81,0,0.32,0.05,False
-https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb,Hound Dog Taylor & The HouseRockers,Give Me Back My Wig,[],3:36,108,A Major,44,0.78,0.64,0.71,0.03,0.01,0.08,0.05,False
-https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9,Larry Davis,Texas Flood,blues,2:43,100,G#/Ab Major,44,0.54,0.47,0.28,0.89,0.0,0.2,0.03,False
-https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX,Guitar Slim,The Things That I Used To Do,blues,3:00,98,F Major,44,0.64,0.48,0.3,0.81,0,0.09,0.04,False
-https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG,Zach Bryan,I Remember Everything (feat. Kacey Musgraves),country,3:47,78,C Major,92,0.15,0.43,0.45,0.55,0.0,0.1,0.05,False
-https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn,Morgan Wallen,Last Night,country,2:44,204,F#/Gb Major,85,0.48,0.49,0.68,0.47,0,0.14,0.04,True
-https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn,Dolly Parton,Jolene,pop*country,2:42,111,C#/Db Minor,76,0.81,0.67,0.54,0.57,0,0.13,0.04,False
-https://open.spotify.com/track/4VGR3mr2WbiD0splKGasFc,Poor Man's Poison,Providence,country,3:04,105,E Minor,66,0.88,0.5,0.52,0.18,0.0,0.08,0.05,False
-https://open.spotify.com/track/103u49mLoJUge83B1CnLxI,HARDY,TRUCK BED,country*pop,2:48,132,C Major,79,0.77,0.66,0.77,0.09,0,0.35,0.04,True
-https://open.spotify.com/track/0qczuXyZQElZLvOnMYKnqm,Nic D,It's Going Down,pop,2:10,90,C Major,63,0.3,0.73,0.55,0.03,0,0.28,0.03,False
-https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d,Geoff Castellucci,Sixteen Tons,[],2:51,140,C#/Db Major,63,0.6,0.72,0.3,0.77,0.16,0.1,0.06,False
-https://open.spotify.com/track/7yyRhjoCsdt5dDpFz2CImD,Bryan Martin,Wolves Cry,pop,2:44,77,F#/Gb Major,73,0.52,0.64,0.74,0.06,0.0,0.1,0.04,False
-https://open.spotify.com/track/2Gr99w5DxfeymoohLaUfyj,Poor Man's Poison,Crown Vic Headlights,country,2:43,124,A Minor,48,0.97,0.51,0.65,0.16,0.01,0.06,0.03,False
-https://open.spotify.com/track/2mAznWMYehmj1bfiqvHHsK,Cooper Alan,To the Bar,pop,2:32,90,E Major,63,0.67,0.69,0.8,0.12,0.0,0.05,0.03,False
-https://open.spotify.com/track/1kmbMgdH81XirPnEuGQ2by,Blues Saraceno,The River,rock*blues,3:36,74,B Minor,55,0.37,0.55,0.44,0.05,0.0,0.24,0.04,False
-https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2,Kelsea Ballerini,Miss Me More,country,3:13,96,D Major,63,0.49,0.64,0.72,0.01,0,0.08,0.05,False
-https://open.spotify.com/track/6Mbf7uOjXUA0S48jsOl3NO,Noah Hicks,Dirt On It,pop,2:34,88,C#/Db Major,58,0.6,0.62,0.87,0.12,0,0.11,0.05,False
-https://open.spotify.com/track/2OqfU8bYXte0FVWEKL10KC,Poor Man's Poison,C'mon Down,country,2:37,187,A Minor,61,0.96,0.61,0.51,0.56,0,0.23,0.21,False
-https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO,Bryan Martin,We Ride,pop,3:08,82,D#/Eb Major,81,0.59,0.62,0.71,0.08,0.0,0.18,0.03,True
-https://open.spotify.com/track/08PjS6opdc0vLlaf0Z7YIl,Blues Saraceno,Dogs of War,rock*blues,2:57,94,F Major,56,0.33,0.47,0.44,0.79,0.46,0.13,0.03,False
-https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF,Austin Snell,Pray All The Way Home,pop,2:24,180,F#/Gb Major,70,0.31,0.43,0.81,0.0,0.0,0.12,0.04,False
-https://open.spotify.com/track/1G3ZlolapryUKQsbXf7kjS,Cory Marks,Devil's Grin,[],2:44,112,D Major,52,0.57,0.58,0.96,0.0,0,0.14,0.06,False
-https://open.spotify.com/track/2Xou1sIpo8mnjzasGefllq,Poor Man's Poison,Change,country,2:28,125,B Minor,53,0.96,0.82,0.59,0.46,0.0,0.16,0.07,False
-https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx,Randy Travis,Forever and Ever, Amen,country,3:33,90,D Major,74,0.7,0.68,0.72,0.14,0.0,0.16,0.02,False
-https://open.spotify.com/track/3cullE25gDxeDvjRxANmDf,Hueston,Joy Ride,pop,2:39,190,B Minor,60,0.15,0.27,0.53,0.23,0.0,0.11,0.05,False
-https://open.spotify.com/track/4NFzce1mEWP01qTtHhsmgo,Blues Saraceno,Grave Digger,rock*blues,3:35,91,E Minor,50,0.35,0.58,0.47,0.22,0.0,0.11,0.03,False
-https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw,Bailey Zimmerman,Where It Ends,country*pop,2:59,170,A Major,80,0.65,0.43,0.84,0.26,0,0.09,0.04,False
-https://open.spotify.com/track/44VMH5NwFMqtmHsUTRVDNb,Poor Man's Poison,Hey Mister,country,2:34,77,A Major,56,0.47,0.59,0.35,0.54,0.0,0.09,0.07,False
-https://open.spotify.com/track/5fyqWpeDtT2vqrT2sg4Ijw,Bryan Martin,Everyone's An Outlaw,pop,3:21,166,C#/Db Major,70,0.68,0.51,0.87,0.02,0,0.13,0.05,False
-https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz,Jessie Murph,Wild Ones (feat. Jelly Roll),pop,2:21,136,C Major,84,0.29,0.65,0.69,0.09,0,0.17,0.04,True
-https://open.spotify.com/track/0LxJRRCfKQ7BKn4jnOWVwb,Sam Grow,Kiss My Ass,pop,2:42,172,B Major,59,0.72,0.54,0.8,0.03,0,0.07,0.07,True
-https://open.spotify.com/track/4wgVwhGGBghHADrwfgOBEX,Blues Saraceno,Devils Got You Beat,rock*blues,3:33,116,A#/Bb Minor,48,0.8,0.55,0.85,0.0,0.01,0.44,0.05,False
-https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT,Poor Man's Poison,Hell's Comin' with Me,country,3:33,130,E Minor,74,0.55,0.58,0.57,0.33,0.0,0.17,0.04,False
-https://open.spotify.com/track/6W2k8I5gQGFZNQ1n97sCFV,LECADE,Sober Me Up,pop,2:27,198,A Minor,67,0.54,0.46,0.33,0.85,0,0.11,0.05,False
-https://open.spotify.com/track/46G8X46RVsqg0I57DjP8qh,Austin Williams,Wanna Be Saved,pop,3:08,142,C Minor,61,0.48,0.6,0.66,0.05,0,0.18,0.04,False
-https://open.spotify.com/track/0ZyATfTcQN9uXNbdJEDlAP,Cody Johnson,Welcome to the Show,country*pop,2:41,91,F#/Gb Major,69,0.64,0.59,0.86,0.03,0,0.11,0.04,False
-https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR,Billy Currington,Good Directions,country,3:36,123,F Major,73,0.46,0.72,0.72,0.31,0,0.14,0.03,False
-https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1,Poor Man's Poison,The Mask And The Mirror,country,3:10,90,G#/Ab Minor,53,0.35,0.57,0.54,0.44,0,0.44,0.03,False
-https://open.spotify.com/track/6JlGSLAAQQD2H4pQc1yRjW,Cooper Alan,This Ain't Country,pop,2:47,88,C Major,55,0.78,0.61,0.56,0.03,0,0.09,0.04,True
-https://open.spotify.com/track/4ObFZEXHQJcc8WQtqbCupZ,LECADE,When Im Gone,pop,2:11,179,G#/Ab Minor,73,0.5,0.45,0.39,0.64,0,0.11,0.28,False
-https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd,Nate Smith,World on Fire,country*pop,3:10,96,B Minor,78,0.41,0.46,0.89,0.0,0,0.1,0.04,False
-https://open.spotify.com/track/3xNF87Kg13WsLDnpRETYAB,Jay Webb,Yee-Haw,pop,2:07,115,E Major,60,0.63,0.68,0.61,0.11,0,0.06,0.07,True
-https://open.spotify.com/track/6tjbiaMtDqBFY2eadAIGPP,Poor Man's Poison,Pressure Cracks,country,3:11,188,C#/Db Major,52,0.82,0.59,0.51,0.1,0.0,0.13,0.16,False
-https://open.spotify.com/track/2z3sXsuy0b6AGubJoTHZF6,Ryan Jesse,Outrunning.,[],3:26,160,D#/Eb Minor,58,0.24,0.31,0.93,0.0,0.0,0.11,0.08,False
-https://open.spotify.com/track/7kTV0hr6wnq7qfrAqbgy7N,Paul Cauthen,Everybody Walkin' This Land,rock*folk/acoustic,3:06,96,G Major,46,0.36,0.7,0.42,0.84,0.01,0.2,0.04,False
-https://open.spotify.com/track/7aHzBx4XwGc0e1d7sKd5Md,Justin Champagne,When I Pull Up,pop*hip hop,2:27,180,F#/Gb Major,65,0.56,0.58,0.7,0.03,0.04,0.16,0.08,False
-https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX,Morgan Wallen,Ain�t That Some,country,2:38,121,F#/Gb Minor,79,0.67,0.64,0.8,0.0,0.0,0.36,0.03,True
-https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21,Prismo,Home,hip hop,2:50,https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21,Prismo,Home,hip hop,2:50,https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21,Prismo,Home,hip hop,2:50,https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21,Prismo,Home,hip hop,2:50,https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21,Prismo,Home,hip hop,2:50,https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21,Prismo,Home,hip hop,2:50,https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21,Prismo,Home,hip hop,2:50,https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21,Prismo,Home,hip hop,2:50,90,A Minor,48,0.23,0.45,0.78,0.0,0.0,0.38,0.09,False
-https://open.spotify.com/track/665AK0ovB11McZRwfa852G,Vicetone,Astronomia,electronic,3:18,126,F Major,59,0.33,0.65,0.94,0.01,0.92,0.44,0.1,False
-https://open.spotify.com/track/6Z4oCaL8tQBGQRUJRh2Gua,K-391,Earth,electronic,3:53,167,A#/Bb Major,54,0.09,0.55,0.8,0.09,0.01,0.1,0.05,False
-https://open.spotify.com/track/1j3N4TCykSmXy12iUiMQWk,Vosai,Crossed The Line,r&b,2:27,176,D Minor,57,0.39,0.53,0.72,0.02,0.01,0.3,0.2,False
-https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN,Ti�sto,The Business,electronic,2:44,120,G#/Ab Minor,77,0.23,0.8,0.62,0.41,0.02,0.11,0.23,False
-https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R,Daft Punk,Lose Yourself to Dance (feat. Pharrell Williams),hip hop*electronic*rock,5:54,100,A#/Bb Minor,69,0.67,0.83,0.66,0.08,0.0,0.08,0.06,False
-https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6,Daft Punk,Instant Crush (feat. Julian Casablancas),hip hop*electronic*rock,5:38,110,A#/Bb Minor,77,0.52,0.78,0.58,0.04,0.62,0.08,0.03,False
-https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq,Daft Punk,Get Lucky (feat. Pharrell Williams and Nile Rodgers),hip hop*electronic*rock,6:10,116,F#/Gb Minor,75,0.86,0.81,0.79,0.04,0.0,0.07,0.04,False
-https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV,Daft Punk,One More Time,hip hop*electronic*rock,5:20,123,D Major,78,0.48,0.61,0.7,0.02,0,0.33,0.13,False
-https://open.spotify.com/track/247OK7W7ke06iripfvHDiw,Daft Punk,Robot Rock,hip hop*electronic*rock,4:48,112,G Major,41,0.6,0.59,0.79,0.0,0.84,0.03,0.05,False
-https://open.spotify.com/track/2FTxc9WUZcKFQtFrT1oOVd,Daft Punk,Human After All,hip hop*electronic*rock,5:20,136,C Major,31,0.8,0.61,0.72,0.0,0.05,0.08,0.34,False
-https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu,Daft Punk,Digital Love,hip hop*electronic*rock,5:01,125,A Major,38,0.53,0.64,0.66,0.05,0.86,0.34,0.03,False
-https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN,Daft Punk,Around the World,hip hop*electronic*rock,7:10,121,G Major,73,0.84,0.96,0.8,0.0,0.89,0.09,0.15,False
-https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn,Daft Punk,Harder, Better, Faster, Stronger,hip hop*electronic*rock,3:45,123,F#/Gb Minor,72,0.69,0.82,0.72,0.04,0.0,0.36,0.14,False
-https://open.spotify.com/track/4RepvCWqsP6zBuzvwYibAS,The Weeknd,I Feel It Coming,r&b*pop,4:29,93,C Minor,0,0.57,0.77,0.81,0.43,0,0.1,0.14,False
-https://open.spotify.com/track/0oks4FnzhNp5QPTZtoet7c,Daft Punk,Giorgio by Moroder,hip hop*electronic*rock,9:05,113,A Minor,64,0.41,0.74,0.68,0.07,0.53,0.38,0.05,False
-https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds,Daft Punk,Veridis Quo,hip hop*electronic*rock,5:45,107,A Minor,68,0.12,0.6,0.69,0.48,0.95,0.1,0.04,False
-https://open.spotify.com/track/37YWwmlRl1GonSwjRuOiEq,Daft Punk,Aerodynamic - Daft Punk Remix,hip hop*electronic*rock,6:11,123,B Minor,45,0.18,0.57,0.93,0.41,0.57,0.11,0.07,False
-https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof,Daft Punk,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],hip hop*electronic*rock,4:08,116,F#/Gb Minor,81,0.86,0.79,0.81,0.04,0.0,0.1,0.04,False
-https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT,Depeche Mode,Just Can't Get Enough,rock*pop,3:41,128,C Major,74,0.92,0.77,0.77,0.4,0.06,0.18,0.04,False
-https://open.spotify.com/track/2G2PdkATB8EADrjHhXQuPP,Depeche Mode,A Pain That I'm Used To,rock*pop,4:11,108,A#/Bb Major,48,0.15,0.56,0.77,0.33,0.06,0.15,0.03,False
-https://open.spotify.com/track/4UCTgh5jvtqoaMX6MAhUNn,Depeche Mode,Personal Jesus - Single Version,rock*pop,3:45,130,B Major,69,0.79,0.67,0.9,0.09,0.02,0.05,0.04,False
-https://open.spotify.com/track/1cBxAm8a0fENn2ix3Dfm3u,Depeche Mode,Precious,rock*pop,4:10,105,C#/Db Major,66,0.86,0.57,0.88,0.1,0.05,0.1,0.03,False
-https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP,Depeche Mode,Never Let Me Down Again,rock*pop,4:48,106,C Major,65,0.58,0.58,0.9,0.3,0.03,0.7,0.04,False
-https://open.spotify.com/track/0Mb20VmqR2lvtgbEermW2v,Depeche Mode,Policy of Truth,rock*pop,4:54,114,G#/Ab Major,65,0.37,0.69,0.64,0.01,0.2,0.13,0.03,False
-https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa,Depeche Mode,Enjoy the Silence,rock*pop,6:13,113,C Minor,61,0.22,0.38,0.59,0.35,0.02,0.12,0.03,False
-https://open.spotify.com/track/7HDWE2Ib7cjkhzULV4K8y3,Depeche Mode,It's No Good,rock*pop,5:59,99,A#/Bb Minor,63,0.18,0.6,0.76,0.01,0.05,0.08,0.03,False
-https://open.spotify.com/track/6ZCyDN2ArlWB4GKAj644Cd,Depeche Mode,Strangelove,rock*pop,3:46,119,E Minor,63,0.87,0.57,0.96,0.04,0.0,0.35,0.04,False
-https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac,Marshmello,Here With Me,electronic*pop,2:36,100,F Minor,74,0.18,0.79,0.56,0.06,0,0.16,0.04,False
-https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99,Marshmello,Happier,electronic*pop,3:34,100,F Major,35,0.67,0.69,0.79,0.19,0,0.17,0.05,False
-https://open.spotify.com/track/12mGwph2YzDIlChtq3EdXP,Marshmello,Alone,electronic*pop,4:34,142,D Major,0,0.4,0.64,0.95,0.02,0.02,0.11,0.04,False
-https://open.spotify.com/track/1Hk0QRlUFCHYG6zIvUh0Xd,Marshmello,Summer,electronic*pop,3:53,142,F#/Gb Major,56,0.25,0.58,0.75,0.01,0.02,0.22,0.03,False
-https://open.spotify.com/track/6Hx9gLuAKkOfoZoL79OSI1,DJ Snake,Let Me Love You - Marshmello Remix,electronic*hip hop*pop,3:00,120,G#/Ab Major,49,0.25,0.66,0.81,0.02,0,0.14,0.04,False
-https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR,Marshmello,FRIENDS - Acoustic,electronic*pop,3:29,93,A Minor,45,0.68,0.73,0.46,0.79,0,0.21,0.09,False
-https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU,Marshmello,Silence,electronic*pop,3:01,142,E Major,82,0.29,0.52,0.76,0.26,0.0,0.17,0.09,False
-https://open.spotify.com/track/7EmGUiUaOSGDnUUQUDrOXC,Selena Gomez,Wolves,pop,3:18,125,B Minor,0,0.33,0.71,0.8,0.14,0,0.18,0.04,False
-https://open.spotify.com/track/6TdweeWiGv35hKXn3tARjA,Marshmello,You & Me,electronic*pop,3:11,156,C Major,48,0.93,0.6,0.9,0.23,0,0.55,0.04,False
-https://open.spotify.com/track/6Ehy8wRUYjAZcMMRCxMZVM,Marshmello,Moving On,electronic*pop,2:59,142,C Major,54,0.67,0.69,0.8,0.0,0.06,0.21,0.04,False
-https://open.spotify.com/track/2HO0uCyq8jOveEzvmo4JEu,Marshmello,Fly,electronic*pop,3:14,135,E Major,58,0.15,0.63,0.9,0.0,0.85,0.2,0.04,False
-https://open.spotify.com/track/6kwH41LJ6hfxlGn2c4oh6Y,Marshmello,Together,electronic*pop,4:07,142,A#/Bb Minor,46,0.31,0.57,0.7,0.0,0.92,0.1,0.03,False
-https://open.spotify.com/track/6pbhkfdG5RvTJaC3VKPaJn,Marshmello,Rooftops,electronic*pop,2:57,142,A#/Bb Minor,48,0.66,0.7,0.91,0.03,0,0.2,0.07,False
-https://open.spotify.com/track/4wXum3jZgEGLxScTygQ5US,Marshmello,Blocks,electronic*pop,3:30,142,A Minor,46,0.56,0.56,0.84,0.0,0.01,0.43,0.07,False
-https://open.spotify.com/track/6GRMKQ3RrivYgLEO6h7ebu,Marshmello,Stars,electronic*pop,4:07,142,G#/Ab Major,57,0.8,0.51,0.96,0.01,0.97,0.07,0.04,False
-https://open.spotify.com/track/2D6VbgcGFSBhhZJHbVAN1Q,Marshmello,Take It Back,electronic*pop,3:53,142,G Minor,44,0.19,0.59,0.91,0.02,0.69,0.74,0.05,False
-https://open.spotify.com/track/1VxogbO6bfygdfaCnE9oLb,Marshmello,Chasing Colors (feat. Noah Cyrus),electronic*pop,3:15,150,D#/Eb Minor,52,0.41,0.57,0.95,0.0,0.0,0.17,0.04,False
-https://open.spotify.com/track/4Y96sBPDQARk39recOzBo9,Marshmello,Love U,electronic*pop,3:28,142,D Minor,40,0.77,0.53,0.95,0.1,0.01,0.29,0.04,False
-https://open.spotify.com/track/68pL3hokJXKJ1vJSaEhKr7,Marshmello,Home,electronic*pop,3:48,145,G#/Ab Major,42,0.69,0.56,0.89,0.01,0.81,0.06,0.04,False
-https://open.spotify.com/track/5UthTi0MlB4K0TznWFynNn,Marshmello,Imagine,electronic*pop,3:51,110,G#/Ab Major,40,0.23,0.7,0.93,0.0,0.05,0.42,0.03,False
-https://open.spotify.com/track/7fEfIU4ZVvB5Wb6xg2zcvx,Marshmello,Paralyzed,electronic*pop,3:40,142,A Minor,42,0.12,0.5,0.96,0.01,0.0,0.53,0.05,False
-https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G,Marshmello,FRIENDS,electronic*pop,3:23,95,A Minor,79,0.53,0.63,0.88,0.2,0,0.13,0.05,True
-https://open.spotify.com/track/1LwVrOwwPJPU5lVuQDPnGA,Marshmello,Check This Out,electronic*pop,3:40,142,C Major,44,0.87,0.62,0.97,0.0,0.55,0.55,0.08,False
-https://open.spotify.com/track/1V3BpCUSyBt9PDZ309652A,Marshmello,Want U 2,electronic*pop,3:03,142,C Major,42,0.73,0.71,0.94,0.01,0.95,0.19,0.04,False
-https://open.spotify.com/track/6aWiGv6hPG0o3ri7QHNs8t,Marshmello,Find Me,electronic*pop,3:00,142,C Major,48,0.17,0.56,0.89,0.0,0.0,0.33,0.05,False
-https://open.spotify.com/track/621yo2vtUSnmTfmENTKoNm,Marshmello,Power,electronic*pop,3:42,140,C#/Db Minor,41,0.97,0.58,0.9,0.0,0.73,0.08,0.04,False
-https://open.spotify.com/track/6E8UKOaI2A1LQjWYMFLyJI,Marshmello,Alone - MRVLZ Remix,electronic*pop,2:46,100,D Major,41,0.49,0.62,0.92,0.04,0.0,0.08,0.03,False
-https://open.spotify.com/track/72J8O7kyKTicwoUxuu0eYy,Marshmello,FRIENDS - Justin Caruso Remix,electronic*pop,3:15,95,A Minor,29,0.73,0.69,0.73,0.02,0,0.09,0.07,True
-https://open.spotify.com/track/6IQPHQf50A6ejwaTUMUQya,Marshmello,Colour,electronic*pop,3:08,135,F#/Gb Major,40,0.41,0.65,0.88,0.0,0.91,0.24,0.03,False
-https://open.spotify.com/track/0gsDBm94QELEJAcGS59f1b,Marshmello,Flashbacks,electronic*pop,2:46,142,C Major,41,0.43,0.58,0.9,0.01,0.7,0.11,0.03,False
-https://open.spotify.com/track/0JiVRyTJcJnmlwCZ854K4p,Alan Walker,Alone,electronic,2:41,97,A#/Bb Major,62,0.16,0.68,0.93,0.19,0.0,0.12,0.05,False
-https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ,Alan Walker,The Spectre,electronic,3:14,128,C#/Db Minor,75,0.2,0.65,0.71,0.02,0.0,0.09,0.04,False
-https://open.spotify.com/track/7gHs73wELdeycvS48JfIos,Alan Walker,Faded,electronic,3:33,90,F#/Gb Major,72,0.17,0.59,0.65,0.03,0.0,0.11,0.03,False
-https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58,Alan Walker,Ignite,electronic,3:30,90,G#/Ab Minor,71,0.48,0.68,0.86,0.02,0.0,0.19,0.12,False
-https://open.spotify.com/track/4heFQCyiW0RUEX1Q1lb008,Alan Walker,Different World (feat. CORSAK),electronic,3:23,130,G Minor,60,0.33,0.6,0.75,0.06,0,0.13,0.04,False
-https://open.spotify.com/track/5yFSF6qQA1rcLsQRnBsZgb,Alan Walker,All Falls Down (feat. Juliander),electronic,3:19,98,C#/Db Major,63,0.66,0.66,0.68,0.3,0,0.36,0.06,False
-https://open.spotify.com/track/4s6PYL51msvsxDjME9i6OM,Alok,Headlights (feat. KIDDO),electronic*pop,2:38,100,D Minor,64,0.3,0.63,0.75,0.01,0.0,0.16,0.03,False
-https://open.spotify.com/track/2Fjz5ZC5BvFdCqcnTZ3ilH,Alan Walker,Sing Me to Sleep,electronic,3:09,176,E Minor,60,0.17,0.49,0.61,0.01,0.0,0.29,0.07,False
-https://open.spotify.com/track/5GDpODnukzZZIXXjPWOrDQ,Alan Walker,Sky,electronic,3:23,130,G Minor,1,0.18,0.7,0.84,0.0,0.8,0.16,0.04,False
-https://open.spotify.com/track/1snWlbcbgQpJfknoI30DWG,Alan Walker,Darkside,electronic,3:32,170,E Minor,61,0.11,0.42,0.64,0.16,0,0.12,0.05,False
-https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT,Alan Walker,Diamond Heart,electronic,4:00,90,C Major,59,0.25,0.5,0.64,0.13,0,0.63,0.04,False
-https://open.spotify.com/track/4YhITuwINLCfXYB2WCXbCZ,Various Artists,,[],0:00,105,C#/Db Minor,0,0.26,0.6,0.54,0.0,0.06,0.07,0.06,False
-https://open.spotify.com/track/4m63ZA9od3vICn0AOEG5qo,Alan Walker,Sheep (Alan Walker Relift),electronic,2:36,90,F#/Gb Minor,51,0.26,0.69,0.67,0.03,0.0,0.35,0.04,False
-https://open.spotify.com/track/7kVDkZkZc8qBUBsF6klUoY,Alan Walker,I Don't Wanna Go,electronic,2:42,149,B Major,57,0.52,0.42,0.75,0.14,0,0.24,0.27,False
-https://open.spotify.com/track/6SDQETfHW9JT9p99S3nB44,Alan Walker,Time - Alan Walker Remix - Extended Version,electronic,3:36,128,G Major,49,0.04,0.51,0.65,0.29,0.81,0.08,0.05,False
-https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46,Sia,Move Your Body - Alan Walker Remix,electronic*pop,3:38,128,A#/Bb Minor,67,0.4,0.64,0.79,0.08,0.0,0.39,0.09,False
-https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml,K-391,Play,electronic,2:48,102,F#/Gb Minor,71,0.17,0.52,0.8,0.1,0,0.09,0.04,False
-https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf,K-391,End of Time,electronic,3:08,116,E Minor,66,0.19,0.81,0.7,0.27,0.0,0.14,0.04,False
-https://open.spotify.com/track/4dPjk0ZHgfeEzDyh2YT6jO,Alan Walker,Sorry,electronic,2:45,176,F Minor,49,0.17,0.55,0.56,0.44,0.07,0.12,0.05,False
-https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR,VIZE,Space Melody (Edward Artemyev) (feat. Leony),electronic,3:00,128,G Major,60,0.24,0.9,0.76,0.23,0.0,0.1,0.11,False
-https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3,Alan Walker,Alone, Pt. II,electronic,2:59,88,D#/Eb Minor,72,0.61,0.67,0.67,0.54,0,0.13,0.04,False
-https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq,Alan Walker,On My Way,electronic,3:14,170,C#/Db Minor,73,0.3,0.51,0.69,0.02,0,0.3,0.1,True
-https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp,Alan Walker,Sweet Dreams,electronic,2:19,125,G Major,73,0.43,0.77,0.82,0.02,0.0,0.16,0.04,False
-https://open.spotify.com/track/4QwNKEWMM7dyLB7Ew9DHHg,Avicii,Lonely Together - (feat. Rita Ora) Alan Walker Remix,pop*electronic,3:00,103,F Major,57,0.43,0.64,0.79,0.29,0,0.23,0.05,False
-https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr,Alan Walker,Dreamer,electronic,2:35,122,A#/Bb Minor,61,0.33,0.66,0.6,0.02,0.09,0.11,0.13,False
-https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F,Alan Walker,Hero,electronic,2:55,126,F Major,68,0.07,0.59,0.68,0.05,0.0,0.15,0.03,False
-https://open.spotify.com/track/5M4fVUCKf3nFN1hbQEuFwA,Alan Walker,Better Off (Alone, Pt. III),electronic,2:32,130,A Minor,65,0.38,0.51,0.69,0.03,0,0.15,0.05,False
-https://open.spotify.com/track/6IE6DtVDkPotP6rApA7a10,Vicetone,Animal,electronic,3:18,124,E Minor,57,0.14,0.6,0.92,0.02,0.0,0.36,0.03,False
-https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn,Twenty One Pilots,Stressed Out,rock*pop,3:22,170,E Minor,87,0.65,0.73,0.64,0.05,0.0,0.06,0.14,False
-https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW,Twenty One Pilots,Ride,rock*pop,3:35,75,F#/Gb Major,83,0.57,0.65,0.71,0.01,0,0.11,0.04,False
-https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ,Twenty One Pilots,Jumpsuit,rock*pop,3:59,127,B Minor,70,0.23,0.62,0.61,0.01,0.16,0.2,0.04,False
-https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD,Twenty One Pilots,My Blood,rock*pop,3:49,109,C#/Db Major,71,0.67,0.75,0.72,0.06,0.02,0.1,0.04,False
-https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau,Twenty One Pilots,Chlorine,rock*pop,5:24,90,A#/Bb Minor,77,0.32,0.61,0.67,0.07,0.06,0.34,0.05,False
-https://open.spotify.com/track/7I3skNaQdvZSS7zXY2VHId,Twenty One Pilots,The Hype,rock*pop,4:25,87,A Major,66,0.37,0.53,0.82,0.01,0.0,0.38,0.05,False
-https://open.spotify.com/track/5G6Gt9RtNaeIE418pd4yre,Twenty One Pilots,Smithereens,rock*pop,2:57,151,F#/Gb Major,65,0.52,0.76,0.55,0.3,0.0,0.08,0.14,False
-https://open.spotify.com/track/7daBwTiPNOVgoMUG4SICgh,Twenty One Pilots,Pet Cheetah,rock*pop,3:18,110,G Minor,62,0.35,0.65,0.68,0.06,0.0,0.27,0.2,False
-https://open.spotify.com/track/1CDVadnneswMxi6gBqJTtC,Twenty One Pilots,Legend,rock*pop,2:53,86,C Major,62,0.8,0.72,0.57,0.09,0.0,0.08,0.04,False
-https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx,Twenty One Pilots,Choker,rock*pop,3:43,142,G Major,64,0.58,0.7,0.66,0.31,0.0,0.25,0.04,False
-https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi,Twenty One Pilots,Shy Away,rock*pop,2:55,97,A Minor,71,0.64,0.59,0.86,0.0,0.07,0.24,0.03,False
-https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj,Twenty One Pilots,Mulberry Street,rock*pop,3:44,170,D Major,66,0.72,0.67,0.54,0.01,0,0.33,0.05,False
-https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr,Twenty One Pilots,Heathens,rock*pop,3:16,90,E Minor,82,0.55,0.73,0.4,0.08,0.0,0.1,0.03,False
-https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8,Twenty One Pilots,Level of Concern,rock*pop,3:40,122,E Minor,66,0.77,0.75,0.58,0.32,0.0,0.14,0.04,False
-https://open.spotify.com/track/4rfaoyaZvNa60cj3OKSQV9,Twenty One Pilots,Migraine,rock*pop,3:59,174,C Major,69,0.41,0.69,0.68,0.11,0,0.25,0.15,False
-https://open.spotify.com/track/3C3cr2JQwXIhqAHqOardVO,Twenty One Pilots,Holding on to You,rock*pop,4:24,90,B Major,68,0.81,0.61,0.78,0.24,0,0.07,0.05,False
-https://open.spotify.com/track/2P61EK6DMGyVyssLWS4fKy,Twenty One Pilots,Lane Boy,rock*pop,4:13,160,G Major,68,0.91,0.62,0.81,0.06,0.0,0.06,0.06,False
-https://open.spotify.com/track/22OqansuvEMQu9W0EfiGTI,Twenty One Pilots,We Don't Believe What's on TV,rock*pop,2:57,120,A Major,65,0.64,0.55,0.94,0.23,0.0,0.17,0.1,False
-https://open.spotify.com/track/7qxjGHW485TL8ciwkHD5MK,Twenty One Pilots,Not Today,rock*pop,3:58,115,D Major,63,0.53,0.77,0.71,0.06,0.0,0.1,0.03,False
-https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt,Twenty One Pilots,Nico and the Niners,rock*pop,3:45,140,A Minor,70,0.33,0.73,0.6,0.07,0.0,0.32,0.18,False
-https://open.spotify.com/track/6gFtgkh8ShkrJn52Cbdhxy,Twenty One Pilots,Cut My Lip,rock*pop,4:43,112,E Major,63,0.68,0.64,0.56,0.12,0.0,0.36,0.04,False
-https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4,Twenty One Pilots,Tear in My Heart,rock*pop,3:08,120,D Major,77,0.45,0.66,0.63,0.02,0,0.07,0.05,False
-https://open.spotify.com/track/6gDTyTnFxpvQtkgGuNWGbE,Twenty One Pilots,Friend, Please,rock*pop,4:13,110,G Minor,60,0.2,0.23,0.52,0.39,0,0.29,0.04,False
-https://open.spotify.com/track/77vDHmiANW3JS2gNN5q7pI,Twenty One Pilots,Fall Away,rock*pop,3:02,120,F Major,63,0.7,0.82,0.77,0.24,0.01,0.09,0.06,False
-https://open.spotify.com/track/2hUFjIbpKaRqs97OjUAmXb,Twenty One Pilots,Johnny Boy,rock*pop,4:39,115,C Major,60,0.36,0.56,0.84,0.01,0.0,0.24,0.05,False
-https://open.spotify.com/track/4XvPIfb0MW8bdBuYkdk8wP,Twenty One Pilots,Glowing Eyes,rock*pop,4:26,170,D#/Eb Major,0,0.81,0.58,0.59,0.34,0,0.1,0.05,False
-https://open.spotify.com/track/6cHYuLc3W90bBlpgCQv2bs,Twenty One Pilots,Fake You Out,rock*pop,3:51,115,F#/Gb Major,40,0.73,0.84,0.61,0.25,0.0,0.09,0.05,False
-https://open.spotify.com/track/2EDI0r2F9Qhvi7XiEoctHH,Twenty One Pilots,Trees,rock*pop,4:27,140,F#/Gb Major,39,0.32,0.58,0.83,0.0,0.0,0.17,0.04,False
-https://open.spotify.com/track/3qb6rXjIeCQl1br4JBYHYs,Twenty One Pilots,Lovely - Bonus Track,rock*pop,4:19,120,G Major,39,0.53,0.68,0.77,0.14,0,0.09,0.04,False
-https://open.spotify.com/track/60U90nlaUsfUJtUF0AhVwB,Twenty One Pilots,Semi-Automatic,rock*pop,4:14,105,F#/Gb Minor,39,0.36,0.78,0.72,0.05,0.0,0.07,0.04,False
-https://open.spotify.com/track/2jfyY5GIc7wsYVIrCnjblC,Twenty One Pilots,Formidable,rock*pop,2:56,137,F#/Gb Minor,61,0.73,0.65,0.56,0.01,0.0,0.06,0.03,False
-https://open.spotify.com/track/1edgaGx2x2AQeWtL2OPEMW,Twenty One Pilots,Never Take It,rock*pop,3:33,118,A Major,58,0.78,0.75,0.73,0.01,0.0,0.07,0.03,False
-https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J,Twenty One Pilots,The Outside,rock*pop,3:37,101,B Major,67,0.71,0.79,0.62,0.05,0.12,0.05,0.04,False
-https://open.spotify.com/track/2uBhGx3m5iJrtsql8Qk00j,Twenty One Pilots,Levitate,rock*pop,2:26,93,F#/Gb Minor,66,0.22,0.7,0.93,0.09,0.23,0.11,0.17,False
-https://open.spotify.com/track/773xZHHSHJvC1z3AAtWgH6,Twenty One Pilots,Ode to Sleep,rock*pop,5:08,150,G Major,64,0.51,0.45,0.76,0.01,0.0,0.23,0.05,False
-https://open.spotify.com/track/4RdRa3qq0GBSKjomxrkh5K,Twenty One Pilots,Guns for Hands,rock*pop,4:33,130,C#/Db Major,66,0.52,0.68,0.86,0.01,0.0,0.08,0.03,False
-https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y,Twenty One Pilots,Morph,rock*pop,4:19,90,G#/Ab Minor,67,0.52,0.73,0.61,0.07,0.0,0.1,0.08,False
-https://open.spotify.com/track/1lguQJjlNrIOoOylYVZN3M,Twenty One Pilots,The Judge,rock*pop,4:58,83,C Major,66,0.59,0.42,0.8,0.18,0,0.14,0.12,False
-https://open.spotify.com/track/2XPmTamsj7d9i3gzLCL4JI,Twenty One Pilots,Redecorate,rock*pop,4:06,83,G#/Ab Minor,65,0.4,0.63,0.65,0.16,0.0,0.07,0.08,False
-https://open.spotify.com/track/2GkmE8BrD00ngyjs2PT9Fp,Twenty One Pilots,Bounce Man,rock*pop,3:05,142,E Minor,59,0.58,0.7,0.7,0.27,0.0,0.33,0.06,False
-https://open.spotify.com/track/1pKmfhwbZvsyYUP2eOGdw5,Twenty One Pilots,Screen,rock*pop,3:49,150,C Major,61,0.84,0.72,0.71,0.1,0,0.14,0.06,False
-https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P,Twenty One Pilots,Car Radio,rock*pop,4:28,130,A Minor,72,0.61,0.77,0.52,0.1,0,0.09,0.04,False
-https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP,Twenty One Pilots,Hometown,rock*pop,3:55,120,D Minor,69,0.39,0.68,0.75,0.06,0.0,0.36,0.03,False
-https://open.spotify.com/track/6GmkJJMe9U1tEcrJ3Hq3A1,Twenty One Pilots,Polarize,rock*pop,3:47,165,F#/Gb Minor,65,0.63,0.6,0.67,0.12,0.0,0.1,0.04,False
-https://open.spotify.com/track/6QOZWUCG5vq4xtU3mW2ZA2,Twenty One Pilots,The Pantaloon,rock*pop,3:33,100,A Major,59,0.59,0.73,0.64,0.16,0,0.32,0.03,False
-https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp,Twenty One Pilots,Bandito,rock*pop,5:31,127,B Minor,63,0.43,0.66,0.52,0.26,0.02,0.1,0.03,False
-https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy,Twenty One Pilots,Heavydirtysoul,rock*pop,3:55,130,G Minor,73,0.39,0.61,0.87,0.0,0.0,0.37,0.04,False
-https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp,Twenty One Pilots,House of Gold,rock*pop,2:44,115,C Major,72,0.85,0.68,0.69,0.45,0,0.21,0.04,False
-https://open.spotify.com/track/5bPBJbixO0yYYvm4bjtRup,Twenty One Pilots,Lane Boy / Redecorate / Chlorine - Livestream Version,rock*pop,6:03,90,A Minor,46,0.56,0.47,0.77,0.04,0.0,0.07,0.25,False
-https://open.spotify.com/track/70oK6ePjILgOuBUzRDOfCR,Twenty One Pilots,Air Catcher,rock*pop,4:14,110,G#/Ab Major,55,0.13,0.52,0.44,0.07,0,0.11,0.03,False
-https://open.spotify.com/track/7CdYyn6uUyzysY5z7gubZq,Twenty One Pilots,Can't Help Falling in Love,rock*pop,2:39,119,C Major,37,0.37,0.5,0.27,0.85,0,0.11,0.04,False
-https://open.spotify.com/track/5P3yUXUC9rZPJPNmYGKEAz,Twenty One Pilots,Goner,rock*pop,3:57,96,F#/Gb Minor,63,0.22,0.56,0.44,0.19,0.0,0.07,0.04,False
-https://open.spotify.com/track/4Oyl6oYSNeeZZP0OAxPVaU,Twenty One Pilots,Message Man,rock*pop,4:00,120,D Minor,66,0.5,0.71,0.84,0.09,0,0.15,0.12,False
-https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn,Morgan Wallen,Last Night,country,2:44,204,F#/Gb Major,85,0.48,0.49,0.68,0.47,0,0.14,0.04,True
-https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn,Dolly Parton,Jolene,pop*country,2:42,111,C#/Db Minor,76,0.81,0.67,0.54,0.57,0,0.13,0.04,False
-https://open.spotify.com/track/4VGR3mr2WbiD0splKGasFc,Poor Man's Poison,Providence,country,3:04,105,E Minor,66,0.88,0.5,0.52,0.18,0.0,0.08,0.05,False
-https://open.spotify.com/track/103u49mLoJUge83B1CnLxI,HARDY,TRUCK BED,country*pop,2:48,132,C Major,79,0.77,0.66,0.77,0.09,0,0.35,0.04,True
-https://open.spotify.com/track/0qczuXyZQElZLvOnMYKnqm,Nic D,It's Going Down,pop,2:10,90,C Major,63,0.3,0.73,0.55,0.03,0,0.28,0.03,False
-https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d,Geoff Castellucci,Sixteen Tons,[],2:51,140,C#/Db Major,63,0.6,0.72,0.3,0.77,0.16,0.1,0.06,False
-https://open.spotify.com/track/7yyRhjoCsdt5dDpFz2CImD,Bryan Martin,Wolves Cry,pop,2:44,77,F#/Gb Major,73,0.52,0.64,0.74,0.06,0.0,0.1,0.04,False
-https://open.spotify.com/track/2Gr99w5DxfeymoohLaUfyj,Poor Man's Poison,Crown Vic Headlights,country,2:43,124,A Minor,47,0.97,0.51,0.65,0.16,0.01,0.06,0.03,False
-https://open.spotify.com/track/2mAznWMYehmj1bfiqvHHsK,Cooper Alan,To the Bar,pop,2:32,90,E Major,63,0.67,0.69,0.8,0.12,0.0,0.05,0.03,False
-https://open.spotify.com/track/1kmbMgdH81XirPnEuGQ2by,Blues Saraceno,The River,rock*blues,3:36,74,B Minor,55,0.37,0.55,0.44,0.05,0.0,0.24,0.04,False
-https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2,Kelsea Ballerini,Miss Me More,country,3:13,96,D Major,63,0.49,0.64,0.72,0.01,0,0.08,0.05,False
-https://open.spotify.com/track/6Mbf7uOjXUA0S48jsOl3NO,Noah Hicks,Dirt On It,pop,2:34,88,C#/Db Major,58,0.6,0.62,0.87,0.12,0,0.11,0.05,False
-https://open.spotify.com/track/2OqfU8bYXte0FVWEKL10KC,Poor Man's Poison,C'mon Down,country,2:37,187,A Minor,61,0.96,0.61,0.51,0.56,0,0.23,0.21,False
-https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO,Bryan Martin,We Ride,pop,3:08,82,D#/Eb Major,81,0.59,0.62,0.71,0.08,0.0,0.18,0.03,True
-https://open.spotify.com/track/08PjS6opdc0vLlaf0Z7YIl,Blues Saraceno,Dogs of War,rock*blues,2:57,94,F Major,56,0.33,0.47,0.44,0.79,0.46,0.13,0.03,False
-https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF,Austin Snell,Pray All The Way Home,pop,2:24,180,F#/Gb Major,70,0.31,0.43,0.81,0.0,0.0,0.12,0.04,False
-https://open.spotify.com/track/1G3ZlolapryUKQsbXf7kjS,Cory Marks,Devil's Grin,[],2:44,112,D Major,52,0.57,0.58,0.96,0.0,0,0.14,0.06,False
-https://open.spotify.com/track/2Xou1sIpo8mnjzasGefllq,Poor Man's Poison,Change,country,2:28,125,B Minor,53,0.96,0.82,0.59,0.46,0.0,0.16,0.07,False
-https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx,Randy Travis,Forever and Ever, Amen,country,3:33,90,D Major,74,0.7,0.68,0.72,0.14,0.0,0.16,0.02,False
-https://open.spotify.com/track/3cullE25gDxeDvjRxANmDf,Hueston,Joy Ride,pop,2:39,190,B Minor,60,0.15,0.27,0.53,0.23,0.0,0.11,0.05,False
-https://open.spotify.com/track/4NFzce1mEWP01qTtHhsmgo,Blues Saraceno,Grave Digger,rock*blues,3:35,91,E Minor,50,0.35,0.58,0.47,0.22,0.0,0.11,0.03,False
-https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw,Bailey Zimmerman,Where It Ends,country*pop,2:59,170,A Major,80,0.65,0.43,0.84,0.26,0,0.09,0.04,False
-https://open.spotify.com/track/44VMH5NwFMqtmHsUTRVDNb,Poor Man's Poison,Hey Mister,country,2:34,77,A Major,56,0.47,0.59,0.35,0.54,0.0,0.09,0.07,False
-https://open.spotify.com/track/5fyqWpeDtT2vqrT2sg4Ijw,Bryan Martin,Everyone's An Outlaw,pop,3:21,166,C#/Db Major,70,0.68,0.51,0.87,0.02,0,0.13,0.05,False
-https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz,Jessie Murph,Wild Ones (feat. Jelly Roll),pop,2:21,136,C Major,84,0.29,0.65,0.69,0.09,0,0.17,0.04,True
-https://open.spotify.com/track/0LxJRRCfKQ7BKn4jnOWVwb,Sam Grow,Kiss My Ass,pop,2:42,172,B Major,59,0.72,0.54,0.8,0.03,0,0.07,0.07,True
-https://open.spotify.com/track/4wgVwhGGBghHADrwfgOBEX,Blues Saraceno,Devils Got You Beat,rock*blues,3:33,116,A#/Bb Minor,48,0.8,0.55,0.85,0.0,0.01,0.44,0.05,False
-https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT,Poor Man's Poison,Hell's Comin' with Me,country,3:33,130,E Minor,74,0.55,0.58,0.57,0.33,0.0,0.17,0.04,False
-https://open.spotify.com/track/6W2k8I5gQGFZNQ1n97sCFV,LECADE,Sober Me Up,pop,2:27,198,A Minor,67,0.54,0.46,0.33,0.85,0,0.11,0.05,False
-https://open.spotify.com/track/46G8X46RVsqg0I57DjP8qh,Austin Williams,Wanna Be Saved,pop,3:08,142,C Minor,61,0.48,0.6,0.66,0.05,0,0.18,0.04,False
-https://open.spotify.com/track/0ZyATfTcQN9uXNbdJEDlAP,Cody Johnson,Welcome to the Show,country*pop,2:41,91,F#/Gb Major,69,0.64,0.59,0.86,0.03,0,0.11,0.04,False
-https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR,Billy Currington,Good Directions,country,3:36,123,F Major,73,0.46,0.72,0.72,0.31,0,0.14,0.03,False
-https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1,Poor Man's Poison,The Mask And The Mirror,country,3:10,90,G#/Ab Minor,53,0.35,0.57,0.54,0.44,0,0.44,0.03,False
-https://open.spotify.com/track/6JlGSLAAQQD2H4pQc1yRjW,Cooper Alan,This Ain't Country,pop,2:47,88,C Major,55,0.78,0.61,0.56,0.03,0,0.09,0.04,True
-https://open.spotify.com/track/4ObFZEXHQJcc8WQtqbCupZ,LECADE,When Im Gone,pop,2:11,179,G#/Ab Minor,73,0.5,0.45,0.39,0.64,0,0.11,0.28,False
-https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd,Nate Smith,World on Fire,country*pop,3:10,96,B Minor,78,0.41,0.46,0.89,0.0,0,0.1,0.04,False
-https://open.spotify.com/track/3xNF87Kg13WsLDnpRETYAB,Jay Webb,Yee-Haw,pop,2:07,115,E Major,60,0.63,0.68,0.61,0.11,0,0.06,0.07,True
-https://open.spotify.com/track/6tjbiaMtDqBFY2eadAIGPP,Poor Man's Poison,Pressure Cracks,country,3:11,188,C#/Db Major,52,0.82,0.59,0.51,0.1,0.0,0.13,0.16,False
-https://open.spotify.com/track/2z3sXsuy0b6AGubJoTHZF6,Ryan Jesse,Outrunning.,[],3:26,160,D#/Eb Minor,58,0.24,0.31,0.93,0.0,0.0,0.11,0.08,False
-https://open.spotify.com/track/7kTV0hr6wnq7qfrAqbgy7N,Paul Cauthen,Everybody Walkin' This Land,folk/acoustic,3:06,96,G Major,46,0.36,0.7,0.42,0.84,0.01,0.2,0.04,False
-https://open.spotify.com/track/7aHzBx4XwGc0e1d7sKd5Md,Justin Champagne,When I Pull Up,pop*hip hop,2:27,180,F#/Gb Major,65,0.56,0.58,0.7,0.03,0.04,0.16,0.08,False
-https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX,Morgan Wallen,Ain�t That Some,country,2:38,121,F#/Gb Minor,79,0.67,0.64,0.8,0.0,0.0,0.36,0.03,True
-https://open.spotify.com/track/1hnfPh6AhAmp1Oyk6hgtq1,Poor Man's Poison,Devils Price,country,4:41,177,D Major,55,0.81,0.61,0.43,0.58,0.0,0.11,0.06,False
-https://open.spotify.com/track/1ZUCZo5YNf1VEfvrr4vTk4,LECADE,Backroad,pop,2:38,127,C#/Db Minor,66,0.34,0.68,0.83,0.42,0,0.08,0.03,True
-https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE,Rodney Atkins,Caught Up In The Country,country,2:41,124,G Major,72,0.69,0.6,0.81,0.01,0,0.54,0.04,False
-https://open.spotify.com/track/2VrxL3FS3m7KLzfOHUPqOx,Corey Kent,Something's Gonna Kill Me,pop*country,3:04,113,E Minor,69,0.41,0.66,0.82,0.02,0.0,0.11,0.04,False
-https://open.spotify.com/track/7pvy3nhtBIQUakHS4OjFqB,Chase Matthew,Love You Again,pop,2:54,132,A#/Bb Minor,72,0.47,0.56,0.82,0.21,0,0.43,0.03,False
-https://open.spotify.com/track/1Nri5Jx2GJp320o9j8kIb3,Poor Man's Poison,Black Sheep,country,4:01,138,E Minor,54,0.75,0.43,0.49,0.29,0.0,0.16,0.04,False
-https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn,Michael Marcagi,Scared To Start,[],2:40,148,G Major,90,0.44,0.53,0.55,0.38,0.0,0.4,0.03,False
-https://open.spotify.com/track/6wt8KAK3PEPAixC4aqlHNt,Miracle Of Sound,Valhalla Calling,pop*metal,3:43,76,B Minor,62,0.67,0.56,0.61,0.43,0.0,0.1,0.03,False
-https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf,X Ambassadors,Renegades,rock*pop,3:15,90,D Major,79,0.53,0.53,0.86,0.01,0.06,0.23,0.09,False
-https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI,Hozier,Take Me To Church,folk/acoustic*rock*pop,4:02,129,E Minor,85,0.44,0.57,0.66,0.63,0,0.12,0.05,False
-https://open.spotify.com/track/0cc6vT6QJA8e39CiCGmA8B,Perly I Lotry,Song of the Vikings (My Mother Told Me),,2:07,140,F Minor,58,0.35,0.54,0.35,0.78,0,0.22,0.07,False
-https://open.spotify.com/track/0eUgkunDciOOiao9Sjw3PW,Barns Courtney,Sinners,rock,2:54,95,G Minor,58,0.41,0.51,0.86,0.11,0,0.08,0.11,False
-https://open.spotify.com/track/0x64vgR9XXJStiX3Rj3IJw,Miracle Of Sound,Skal,pop*metal,2:49,84,G Major,63,0.59,0.62,0.67,0.28,0.0,0.31,0.03,False
-https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p,Henrik,Half of forever,[],2:33,77,A Major,76,0.48,0.75,0.31,0.73,0.0,0.26,0.03,False
-https://open.spotify.com/track/5Ua7JMWHaHTvYnvUgcyilk,Shawn James,Ain't No Sunshine,country,2:57,144,E Minor,54,0.46,0.35,0.41,0.78,0,0.12,0.03,False
-https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj,Barns Courtney,Fire,rock,3:18,108,A#/Bb Minor,68,0.39,0.55,0.64,0.21,0.0,0.08,0.03,False
-https://open.spotify.com/track/2H0RTZvOwdFcpf8GWattYH,Colm R. McGuinness,Hoist the Colours,,2:03,91,C Major,61,0.24,0.23,0.32,0.8,0,0.17,0.04,False
-https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd,KALEO,I Can't Go on Without You,classical*rock,6:17,92,G#/Ab Minor,63,0.19,0.37,0.27,0.66,0.0,0.08,0.04,False
-https://open.spotify.com/track/0IBegAy0X5uzEBgtQOSdDD,Miracle Of Sound,Onwards We Row,pop*metal,2:33,179,D Major,57,0.69,0.61,0.36,0.85,0,0.09,0.04,False
-https://open.spotify.com/track/6YowAxI2HIbhAwumOqpldE,Shawn James,Through the Valley,country,3:40,114,D#/Eb Minor,57,0.36,0.47,0.48,0.25,0.0,0.08,0.04,False
-https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1,Barns Courtney,Glitter & Gold,rock,2:56,170,G#/Ab Major,71,0.35,0.49,0.62,0.37,0,0.23,0.04,False
-https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc,Neoni,Carry on Wayward Son,[],2:59,180,G Minor,51,0.13,0.32,0.27,0.09,0.0,0.13,0.03,False
-https://open.spotify.com/track/6Wk6A8k7NjjSsPQT9Z3FXM,Asaf Avidan,Reckoning Song,pop*rock,2:47,106,D#/Eb Minor,65,0.28,0.61,0.28,0.78,0,0.08,0.2,False
-https://open.spotify.com/track/2KMLGJ1mPfRE4GNdL92rl3,Sonya Belousova,Toss A Coin To Your Witcher,,3:10,103,F Minor,57,0.48,0.47,0.42,0.92,0.0,0.14,0.03,False
-https://open.spotify.com/track/5kvDeLfKhTbCXiElGeX0bG,Poor Man's Poison,Let's Go!,country,2:51,160,F#/Gb Minor,58,0.86,0.62,0.55,0.62,0.0,0.12,0.08,False
-https://open.spotify.com/track/2Nfl9Z37KVuVtao3utRNjc,Miracle Of Sound,Ode to Fury,pop*metal,3:38,184,E Minor,58,0.69,0.42,0.68,0.23,0.03,0.2,0.04,False
-https://open.spotify.com/track/6xF1XzjKzFIZvxjNDFUAyx,Alpine Universe,The Empire of Winds - Acoustic,[],1:48,100,G#/Ab Minor,56,0.69,0.81,0.37,0.93,0.0,0.12,0.04,False
-https://open.spotify.com/track/3BsoE7SgveujY2jeV2rVRw,KALEO,Break My Baby,classical*rock,4:26,74,A#/Bb Minor,59,0.38,0.53,0.76,0.11,0.0,0.16,0.04,False
-https://open.spotify.com/track/1HkOPLwAJH3kE8UnqgxF4s,Bon Iver,Skinny Love,pop*folk/acoustic*rock,3:59,76,E Minor,69,0.1,0.59,0.26,0.84,0.0,0.09,0.04,False
-https://open.spotify.com/track/0SenduipYMDtp044j75PV3,Miracle Of Sound,To Be Better,pop*metal,3:30,87,C#/Db Major,54,0.46,0.54,0.64,0.32,0,0.2,0.03,False
-https://open.spotify.com/track/5uhQ01fZuuqP4azjUjwEUG,Alpine Universe,United States of a Miracle - Acoustic,[],1:21,82,F Minor,52,0.32,0.53,0.42,0.9,0,0.15,0.03,False
-https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6,KALEO,Broken Bones,classical*rock,4:06,124,F Major,67,0.65,0.78,0.49,0.8,0.0,0.1,0.19,False
-https://open.spotify.com/track/6ruydMg4OckIN2kxCvGaHz,Shawn James,The Curse of the Fold,country,5:19,113,C#/Db Minor,51,0.21,0.3,0.49,0.15,0.0,0.13,0.03,False
-https://open.spotify.com/track/4pZos1A9cAsvHx5kj1O38W,Poor Man's Poison,Give and Take,country,3:17,95,G Major,63,0.82,0.67,0.6,0.64,0,0.25,0.03,False
-https://open.spotify.com/track/4Lfp5tapFcY87K1z5s8d4E,mehro,pirate song,,3:11,180,E Minor,56,0.26,0.5,0.4,0.51,0.07,0.13,0.04,False
-https://open.spotify.com/track/6UtLHCRVVflLgQ0hDZQkpQ,The Brothers Bright,Me and Mine,[],2:53,160,D Major,50,0.45,0.51,0.69,0.1,0.0,0.15,0.04,False
-https://open.spotify.com/track/5aGh0VbtaYaJBcf33nPByK,Edwin Raphael,Thinking About You,folk/acoustic*pop,1:08,145,A Major,65,0.35,0.36,0.11,0.79,0.0,0.13,0.04,False
-https://open.spotify.com/track/59A9K2G7qofpffWeT9p1hA,WILD,Silver & Gold,pop,3:00,174,C Major,54,0.58,0.47,0.52,0.03,0,0.09,0.03,False
-https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe,Wye Oak,Civilian,rock*pop,3:41,91,G#/Ab Minor,58,0.41,0.39,0.7,0.0,0.22,0.14,0.03,False
-https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31,KALEO,Backbone,classical*rock,3:53,128,A#/Bb Minor,54,0.12,0.54,0.31,0.47,0.0,0.19,0.03,False
-https://open.spotify.com/track/5EmnML3A4xDb5aI9iWY23F,Lissom,Your Name,folk/acoustic,2:43,108,D Minor,58,0.22,0.46,0.15,0.97,0.23,0.13,0.03,False
-https://open.spotify.com/track/5FaWtN7Z1o1LzkyHi6q4xq,Younger Hunger,Dead Inside - (Stripped),pop,2:10,120,B Minor,50,0.55,0.75,0.45,0.85,0,0.22,0.03,False
-https://open.spotify.com/track/2hhk7nZsDBQe4UlBR6o2PY,Fish in a Birdcage,Rule #27 - Drunk on Pride,pop,2:35,148,B Minor,56,0.87,0.59,0.41,0.75,0.0,0.39,0.03,False
-https://open.spotify.com/track/4jB3Mw900goYibsFAueHph,Brent Cobb,Black Creek,rock*folk/acoustic*country,3:32,81,C Major,71,0.44,0.54,0.36,0.56,0.04,0.12,0.03,False
-https://open.spotify.com/track/6KDAI3ZUhTTHCF6aYXNQ0X,Alpine Universe,The Saptan - Acoustic,[],1:13,115,F Minor,55,0.17,0.59,0.58,0.83,0,0.19,0.05,False
-https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS,Harrison Storm,Feeling You,folk/acoustic,3:21,104,C#/Db Minor,65,0.16,0.64,0.5,0.66,0.16,0.12,0.03,False
-https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD,Richy Mitch & The Coal Miners,Evergreen,rock,1:27,79,D#/Eb Major,89,0.5,0.56,0.22,0.56,0.0,0.11,0.07,False
-https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe,Frank Sinatra,My Way,,4:37,75,D Major,74,0.23,0.4,0.38,0.7,0,0.12,0.03,False
-https://open.spotify.com/track/5EIXjYOsrrqf2VYmL9GReV,Frank Sinatra,Theme From New York, New York,,3:26,108,D Major,0,0.56,0.44,0.41,0.28,0,0.12,0.03,False
-https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB,Frank Sinatra,Fly Me To The Moon (In Other Words),,2:30,118,F Major,56,0.25,0.61,0.2,0.46,0.0,0.05,0.04,False
-https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp,Frank Sinatra,I've Got You Under My Skin - Remastered 1998,,3:44,127,C#/Db Major,67,0.59,0.58,0.25,0.45,0.0,0.11,0.04,False
-https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo,Frank Sinatra,The Way You Look Tonight,,3:22,132,F Minor,70,0.59,0.62,0.24,0.8,0,0.14,0.04,False
-https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x,Frank Sinatra,Strangers In The Night,,2:38,90,F Major,73,0.54,0.26,0.47,0.59,0,0.2,0.03,False
-https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2,Frank Sinatra,The Lady Is A Tramp - Remastered 1998,,3:14,128,G#/Ab Minor,58,0.65,0.55,0.14,0.52,0,0.19,0.04,False
-https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R,Frank Sinatra,You Make Me Feel So Young - Remastered 1998,,2:57,125,A Major,65,0.57,0.58,0.31,0.38,0,0.18,0.04,False
-https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU,Frank Sinatra,I've Got The World On A String,,2:10,123,D Major,49,0.5,0.57,0.37,0.81,0,0.3,0.05,False
-https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3,Frank Sinatra,Chicago - Remastered,,2:14,148,F Major,53,0.79,0.51,0.46,0.61,0,0.4,0.07,False
-https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm,Frank Sinatra,That's Life,,3:07,113,E Minor,72,0.66,0.56,0.43,0.55,0,0.35,0.07,False
-https://open.spotify.com/track/1id6N5Y8662aKNlmR5eM92,Ant�nio Carlos Jobim,The Girl From Ipanema,jazz*classical*latin,3:15,134,F Major,0,0.39,0.54,0.26,0.82,0.0,0.15,0.04,False
-https://open.spotify.com/track/6fiFNYu2041YiEqSijti88,Frank Sinatra,Witchcraft - Remastered 2000,,2:53,116,C Major,45,0.43,0.5,0.25,0.71,0,0.16,0.03,False
-https://open.spotify.com/track/0UgJXbeHm3KBKRaRyh7Tc2,Frank Sinatra,I Get A Kick Out Of You - Remastered,,2:53,144,A#/Bb Minor,49,0.53,0.48,0.21,0.89,0,0.19,0.03,False
-https://open.spotify.com/track/3F3j5eNCH4O4cyQ3O90zgT,Frank Sinatra,Young At Heart,,2:49,85,G#/Ab Major,39,0.43,0.28,0.25,0.78,0,0.38,0.03,False
-https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV,Frank Sinatra,Somethin' Stupid,,2:42,207,E Major,80,0.54,0.26,0.34,0.74,0,0.25,0.04,False
-https://open.spotify.com/track/78r8EbYoIeO4xDz2pwIuAh,Frank Sinatra,(Love Is) The Tender Trap,,2:56,120,D Minor,39,0.55,0.56,0.33,0.71,0,0.21,0.04,False
-https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7,Frank Sinatra,Luck Be A Lady,,5:14,151,G#/Ab Major,55,0.5,0.36,0.4,0.74,0,0.28,0.05,False
-https://open.spotify.com/track/1GcPhT7osBb4LEJnQ0tmfj,Frank Sinatra,Come Fly With Me,,3:16,134,B Major,50,0.48,0.47,0.44,0.71,0,0.14,0.04,False
-https://open.spotify.com/track/2cI7j96n1rfv4RNKuri4or,Frank Sinatra,Summer Wind,,2:58,87,F Minor,60,0.52,0.44,0.36,0.37,0,0.18,0.03,False
-https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P,Frank Sinatra,All The Way - 2006 Digital Remaster/24 Bit Mastering,,2:53,75,C#/Db Major,48,0.17,0.17,0.31,0.51,0.0,0.29,0.04,False
-https://open.spotify.com/track/3sklrjBEkPUaSy0zfkdnOY,Frank Sinatra,The Best Is Yet To Come,,2:55,109,G#/Ab Major,42,0.41,0.68,0.22,0.47,0,0.13,0.04,False
-https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly,Frank Sinatra,Nice 'n' Easy - Remastered 1999,,2:46,109,C Major,55,0.51,0.54,0.15,0.77,0,0.1,0.03,False
-https://open.spotify.com/track/2kKvwBX4Qsn1CpbqjtNyad,Frank Sinatra,Love And Marriage,,2:38,111,A#/Bb Major,47,0.63,0.71,0.23,0.86,0,0.12,0.03,False
-https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf,Frank Sinatra,Come Dance With Me - 1998 Remastered,,2:31,141,A Major,48,0.74,0.63,0.19,0.36,0,0.11,0.08,False
-https://open.spotify.com/track/3u7jQn9a8xrplb4wqFQIZL,Frank Sinatra,One For My Baby (And One More For The Road) - Remastered,,4:26,136,E Major,0,0.21,0.42,0.01,0.97,0.0,0.11,0.04,False
-https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y,Frank Sinatra,It Was A Very Good Year,,4:27,80,G Minor,53,0.13,0.21,0.14,0.86,0,0.11,0.03,False
-https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof,Frank Sinatra,My Funny Valentine - Remastered,,2:31,85,B Minor,59,0.24,0.26,0.12,0.89,0,0.11,0.03,False
-https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy,Frank Sinatra,My Kind Of Town,,3:08,77,F Major,54,0.26,0.39,0.43,0.67,0,0.13,0.03,False
-https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj,Frank Sinatra,In The Wee Small Hours Of The Morning - Remastered 1998,,3:01,115,C Major,56,0.07,0.29,0.09,0.86,0.0,0.11,0.03,False
-https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp,Steve Lacy,Infrunami,r&b,2:58,97,A Major,82,0.21,0.83,0.3,0.31,0.1,0.08,0.04,False
-https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX,Steve Lacy,C U Girl,r&b,2:10,100,B Minor,83,0.41,0.41,0.47,0.66,0.05,0.13,0.12,False
-https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0,Steve Lacy,N Side,r&b,3:44,120,B Minor,72,0.89,0.84,0.54,0.07,0.0,0.21,0.04,False
-https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN,Steve Lacy,Give You the World,r&b,4:34,73,C Minor,67,0.41,0.57,0.37,0.83,0.23,0.1,0.03,True
-https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa,Steve Lacy,Dark Red,r&b,2:53,172,F#/Gb Major,88,0.77,0.6,0.78,0.45,0.0,0.12,0.06,False
-https://open.spotify.com/track/3NOIkyNWG0fEjkPkq9HVMW,Steve Lacy,Basement Jack,r&b,1:50,175,G#/Ab Minor,67,0.91,0.64,0.93,0.15,0.05,0.39,0.07,True
-https://open.spotify.com/track/5Ha9IheRrkDyr7ZdhaRsWb,Steve Lacy,Ryd,r&b,2:20,137,A Minor,70,0.98,0.79,0.94,0.07,0.0,0.13,0.05,False
-https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem,Steve Lacy,Static,r&b,2:37,79,C#/Db Major,78,0.21,0.34,0.3,0.43,0.63,0.1,0.07,True
-https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2,Steve Lacy,Helmet,r&b,3:22,97,A Minor,66,0.76,0.61,0.68,0.1,0,0.22,0.02,True
-https://open.spotify.com/track/3YBfHJTZPHn5DqgMnD6g5g,Steve Lacy,Atomic Vomit,r&b,1:30,87,D Major,68,0.88,0.67,0.53,0.46,0.01,0.12,0.18,False
-https://open.spotify.com/track/4QUsmmXmINYXwh7UsiMX2j,Steve Lacy,When I,r&b,1:01,126,F Major,68,0.67,0.82,0.68,0.03,0.83,0.07,0.05,False
-https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd,Steve Lacy,Some,r&b,1:58,104,G Major,84,0.63,0.78,0.55,0.01,0.25,0.1,0.03,True
-https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,r&b,3:52,169,C#/Db Major,81,0.7,0.69,0.49,0.61,0.0,0.4,0.04,True
-https://open.spotify.com/track/2kk2trjT2JXhEHtCnz9FWA,Steve Lacy,Cody Freestyle,r&b,4:00,80,C Major,55,0.06,0.21,0.3,0.18,0.76,0.12,0.03,True
-https://open.spotify.com/track/3wV010RuCRcsqNFFJszc6u,Steve Lacy,Playground,r&b,3:34,192,G Major,32,0.85,0.48,0.79,0.12,0.0,0.34,0.04,False
-https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa,Steve Lacy,Sunshine (feat. Foushe�),r&b,4:53,93,C#/Db Minor,56,0.74,0.69,0.69,0.03,0.7,0.11,0.02,False
-https://open.spotify.com/track/7wNAM0qzErN5Dr9uV6B3fW,Steve Lacy,Only If,r&b,1:41,86,E Major,65,0.81,0.81,0.4,0.1,0,0.08,0.04,False
-https://open.spotify.com/track/3XvVsoJmlfBfLFXGR57DeK,Steve Lacy,Looks,r&b,1:31,94,F Major,58,0.8,0.75,0.7,0.26,0.15,0.1,0.08,False
-https://open.spotify.com/track/2mqXKSieDASoq4N5739wCz,Steve Lacy,Donchano,r&b,1:39,208,B Minor,59,0.77,0.67,0.49,0.62,0.0,0.24,0.12,False
-https://open.spotify.com/track/67DGJfTDDLYqx9377joNdN,Steve Lacy,Hate CD,r&b,2:40,108,C Major,51,0.77,0.82,0.72,0.0,0.01,0.3,0.05,False
-https://open.spotify.com/track/2QBTZXuc6t4TqqN2W5gUhF,Steve Lacy,In Lust We Trust,r&b,2:01,121,A Minor,48,0.49,0.61,0.43,0.98,0.0,0.44,0.03,True
-https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x,Steve Lacy,Mercury,r&b,4:55,151,A Minor,65,0.89,0.7,0.75,0.54,0.01,0.33,0.05,True
-https://open.spotify.com/track/7c0Q2pl81oeMwc9Yhc9WxF,Miles Davis,On The Champs Elysees,jazz*r&b,2:52,109,A Minor,33,0.35,0.51,0.1,0.91,0.78,0.24,0.04,False
-https://open.spotify.com/track/0AMye8ukFtoSi4qmYJkFu1,Miles Davis,Summertime,jazz*r&b,3:21,108,F Minor,0,0.42,0.47,0.14,0.69,0,0.09,0.03,False
-https://open.spotify.com/track/4AvBfNYgmgr1slawgbnrCS,Miles Davis,Lift To The Scaffold,jazz*r&b,2:50,68,A Minor,32,0.15,0.32,0.12,0.96,0.94,0.26,0.03,False
-https://open.spotify.com/track/3rWBDik1VBZWkEJrAMB1x3,Miles Davis,Godchild,jazz*r&b,3:10,173,G#/Ab Major,28,0.64,0.41,0.33,0.85,0.02,0.12,0.05,False
-https://open.spotify.com/track/4OtXw7fTLV53s7kYlhqUDP,Miles Davis,What's New,jazz*r&b,3:40,173,D Major,31,0.13,0.34,0.05,0.99,0.33,0.14,0.04,False
-https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV,Miles Davis,Tutu,jazz*r&b,5:17,71,G Minor,42,0.5,0.63,0.42,0.12,0.59,0.11,0.05,False
-https://open.spotify.com/track/0YyFtU5ZicYiCGxUxLF4JY,Miles Davis,Petit Bac Blues,jazz*r&b,2:54,127,D Minor,30,0.42,0.48,0.29,0.73,0.94,0.13,0.04,False
-https://open.spotify.com/track/58j7DzsKSoDMzhDTZVsTnG,Miles Davis,Jeru,jazz*r&b,3:14,176,D#/Eb Major,26,0.69,0.4,0.29,0.78,0.15,0.14,0.05,False
-https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi,Miles Davis,Blue in Green (feat. John Coltrane & Bill Evans),jazz*r&b,5:38,110,D Minor,66,0.15,0.42,0.02,0.81,0.0,0.1,0.04,False
-https://open.spotify.com/track/7BLPUR7CU0O4YFqIVCYgIS,Miles Davis,Someday My Prince Will Come,jazz*r&b,5:42,154,C Minor,0,0.35,0.51,0.28,0.71,0.0,0.1,0.05,False
-https://open.spotify.com/track/3HYgDhbalObcbMM9zzZpP6,Miles Davis,Budo,jazz*r&b,2:36,121,G#/Ab Major,24,0.76,0.52,0.35,0.86,0.01,0.13,0.06,False
-https://open.spotify.com/track/5xweKGXJSwNpu8SgVoN6Zu,Miles Davis,So What,jazz*r&b,9:25,136,C Major,0,0.24,0.54,0.22,0.64,0.0,0.12,0.04,False
-https://open.spotify.com/track/7841hHRDFkpQBGLlXb3pGl,Miles Davis,But Not For Me,jazz*r&b,4:37,100,D#/Eb Major,24,0.81,0.57,0.53,0.79,0.01,0.19,0.03,False
-https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz,Miles Davis,Human Nature (2022 Remaster),jazz*r&b,4:29,91,B Minor,40,0.57,0.66,0.32,0.49,0.06,0.08,0.03,False
-https://open.spotify.com/track/06QM3t6hCjTWMSYR32JVcG,Miles Davis,Bags Groove,jazz*r&b,7:02,136,G Major,27,0.49,0.59,0.32,0.92,0.02,0.33,0.05,False
-https://open.spotify.com/track/5OmIuplwp4x5LT8HXPq6wP,Miles Davis,Doxy,jazz*r&b,4:56,121,F Major,22,0.48,0.65,0.35,0.89,0.05,0.13,0.04,False
-https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9,Miles Davis,I Loves You, Porgy (From "Porgy & Bess"),jazz*r&b,4:14,125,F Major,34,0.17,0.25,0.03,0.96,0.0,0.08,0.04,False
-https://open.spotify.com/track/5WZ4lFiVN6Kq1XmWXmpn1d,Miles Davis,Oleo,jazz*r&b,5:16,112,F Major,22,0.74,0.59,0.38,0.8,0.02,0.1,0.05,False
-https://open.spotify.com/track/4aeS75mjv4XA9iklcIvsV4,Miles Davis,A Dinner In Town,jazz*r&b,3:59,76,G#/Ab Major,25,0.63,0.64,0.43,0.06,0.0,0.42,0.15,False
-https://open.spotify.com/track/7aWJjMNh1UjaC59uAj7AHE,Miles Davis,All of You,jazz*r&b,7:03,82,G#/Ab Major,0,0.6,0.64,0.25,0.42,0.0,0.23,0.04,False
-https://open.spotify.com/track/6FqTlRhmQpU8zN6D4TrBax,Miles Davis,A Leu Cha,jazz*r&b,5:53,122,D Minor,20,0.86,0.55,0.56,0.43,0,0.31,0.04,False
-https://open.spotify.com/track/2DZRzRFNjVqSgZZE2hXalf,Miles Davis,Woodyn You,jazz*r&b,4:57,113,G Major,24,0.7,0.46,0.6,0.82,0.0,0.26,0.07,False
-https://open.spotify.com/track/2nCQllprSAOvFtOOAf4315,Miles Davis,All Blues,jazz*r&b,11:35,140,C Major,0,0.36,0.49,0.2,0.78,0.0,0.07,0.03,False
-https://open.spotify.com/track/3G8WAU91lwkBtncfikyVI4,Miles Davis,Boplicity,jazz*r&b,3:02,136,F Major,19,0.45,0.48,0.25,0.94,0.13,0.07,0.04,False
-https://open.spotify.com/track/2PQURzvp6lfldGIqzGkc0W,Miles Davis,S'il Vous Plait,jazz*r&b,4:28,124,G#/Ab Major,23,0.72,0.44,0.5,0.93,0.93,0.36,0.05,False
-https://open.spotify.com/track/6lSkdQFwWz0PRCPs5lbR6o,Miles Davis,Two Bass Hit,jazz*r&b,3:45,116,G#/Ab Major,19,0.85,0.55,0.49,0.67,0.0,0.35,0.05,False
-https://open.spotify.com/track/69t8gyzP5HnvFeKvIw0rZA,Miles Davis,Round' Midnight,jazz*r&b,5:58,114,A#/Bb Minor,0,0.21,0.5,0.17,0.78,0.0,0.14,0.04,False
-https://open.spotify.com/track/3abEv6s9C36cc9MMaP1aDj,Miles Davis,Airegin,jazz*r&b,5:03,119,F Minor,18,0.74,0.57,0.55,0.82,0.0,0.22,0.03,False
-https://open.spotify.com/track/66vrjgMvWOLyeKBuMGA0Cz,Miles Davis,Love For Sale,jazz*r&b,11:47,106,F Minor,41,0.67,0.66,0.44,0.7,0.0,0.17,0.05,False
-https://open.spotify.com/track/5uuf6yveViRjGEzok0aR23,Miles Davis,Rocker,jazz*r&b,3:07,72,C Minor,18,0.45,0.4,0.32,0.74,0,0.22,0.04,False
-https://open.spotify.com/track/2TuP4hlHJ8At1s1vl85tmd,Miles Davis,On The Highway,jazz*r&b,2:19,170,G#/Ab Major,22,0.78,0.48,0.55,0.21,0.02,0.29,0.32,False
-https://open.spotify.com/track/1LK1RNKeWIEAbPDSwgb6vP,Miles Davis,Move,jazz*r&b,2:34,137,D#/Eb Major,17,0.84,0.49,0.42,0.7,0.0,0.11,0.06,False
-https://open.spotify.com/track/2kEGpbtAKJTm4XRyMgpV1K,Miles Davis,The Photographer,jazz*r&b,3:55,64,D Minor,22,0.24,0.38,0.07,0.81,0.0,0.11,0.04,False
-https://open.spotify.com/track/3Zo7tyMiBpBb679tc0eXHr,Miles Davis,My Funny Valentine,jazz*r&b,6:03,69,C Minor,0,0.25,0.49,0.1,0.9,0.0,0.12,0.04,False
-https://open.spotify.com/track/6M4SSaWKlNr9Bgpe5q0Lgt,Miles Davis,Milestones,jazz*r&b,5:46,117,A Minor,0,0.69,0.55,0.52,0.47,0.0,0.1,0.03,False
-https://open.spotify.com/track/2hJOsrtmtyZvDaiyFa8bsm,Miles Davis,Rouge,jazz*r&b,3:15,170,G Major,17,0.53,0.35,0.38,0.89,0.05,0.13,0.05,False
-https://open.spotify.com/track/5bPB6QHQUpsJZ0R3UISW7h,Miles Davis,I'll Remember April,jazz*r&b,7:55,126,G Major,0,0.7,0.61,0.47,0.65,0.0,0.07,0.04,False
-https://open.spotify.com/track/5ge2Uzj6OYdqKtcS4HhJ02,Miles Davis,Moon Dreams,jazz*r&b,3:20,107,E Minor,17,0.08,0.29,0.08,0.98,0.7,0.11,0.03,False
-https://open.spotify.com/track/1b611xqy4nUI0qIqe3vE6f,Miles Davis,Bye Bye Blackbird,jazz*r&b,7:57,122,C Major,0,0.36,0.62,0.3,0.55,0.0,0.09,0.05,False
-https://open.spotify.com/track/2nQ6aYZnTVL3teNRyY0e3p,Miles Davis,It Ain't Necessarily So,jazz*r&b,4:25,136,G Major,0,0.56,0.43,0.26,0.48,0.0,0.07,0.03,False
-https://open.spotify.com/track/6jeOujBsRITJjGzrLqUhiE,Miles Davis,Well You Needn't,jazz*r&b,5:25,122,F Major,0,0.55,0.54,0.42,0.45,0,0.07,0.04,False
-https://open.spotify.com/track/1HJRXJAxT9gzQ8J9GN7LbG,Miles Davis,Nature Boy,jazz*r&b,6:15,123,D#/Eb Major,0,0.09,0.35,0.07,0.95,0.0,0.12,0.04,False
-https://open.spotify.com/track/3STNtYUBO8PM8bitMHA8zw,Miles Davis,There Is a Boat That's Leavin Soon for New York,jazz*r&b,3:26,180,A#/Bb Major,0,0.42,0.33,0.52,0.69,0.24,0.1,0.07,False
-https://open.spotify.com/track/2xocr7vtcKEYbgFZKMSD19,Miles Davis,But Not For Me,jazz*r&b,6:36,76,G Major,21,0.64,0.57,0.27,0.83,0.0,0.46,0.05,False
-https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo,Tracy Chapman,Fast Car,folk/acoustic,4:57,104,E Minor,84,0.19,0.71,0.29,0.31,0,0.13,0.04,False
-https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J,Gregory Alan Isakov,San Luis,folk/acoustic,4:32,82,G Minor,73,0.25,0.57,0.43,0.86,0.26,0.12,0.03,False
-https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk,Caamp,Vagabond,folk/acoustic,2:09,142,E Major,74,0.61,0.57,0.4,0.77,0.01,0.09,0.04,False
-https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe,Crosby, Stills & Nash,Helplessly Hoping - 2005 Remaster,rock*folk/acoustic,2:38,147,G Major,69,0.42,0.48,0.16,0.91,0,0.11,0.04,False
-https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb,Peter, Paul and Mary,Don't Think Twice, It's All Right,folk/acoustic*rock,3:16,102,D#/Eb Major,57,0.54,0.44,0.1,0.89,0.0,0.11,0.03,False
-https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e,Jim Croce,Walkin� Back to Georgia,rock*folk/acoustic,2:52,128,F#/Gb Minor,71,0.79,0.68,0.31,0.82,0.0,0.09,0.05,False
-https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH,Gregory Alan Isakov,Big Black Car,folk/acoustic,3:37,110,D#/Eb Major,77,0.47,0.6,0.19,0.91,0.0,0.1,0.03,False
-https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb,Joan Baez,Diamonds And Rust,folk/acoustic*rock,4:46,130,F Minor,60,0.27,0.51,0.34,0.24,0,0.14,0.03,False
-https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll,Jos� Gonz�lez,Heartbeats,pop*electronic*folk/acoustic,2:42,88,D#/Eb Major,67,0.31,0.59,0.18,0.98,0.71,0.1,0.03,False
-https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj,Jim Croce,I�ll Have to Say I Love You in a Song,rock*folk/acoustic,2:35,134,A Major,69,0.72,0.54,0.45,0.83,0.01,0.11,0.03,False
-https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U,Gregory Alan Isakov,Amsterdam,folk/acoustic,3:19,152,D#/Eb Major,74,0.53,0.55,0.43,0.92,0.14,0.12,0.03,False
-https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6,Don McLean,Vincent,rock*folk/acoustic,4:03,92,G Major,71,0.46,0.42,0.09,0.91,0.0,0.34,0.04,False
-https://open.spotify.com/track/6uHvbKL0Yi37AuvNRmUfMw,The Paper Kites,Paint,folk/acoustic,3:12,73,E Major,75,0.39,0.36,0.31,0.9,0.0,0.12,0.04,False
-https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU,Gregory Alan Isakov,The Stable Song,folk/acoustic,6:01,138,D Major,66,0.36,0.63,0.43,0.63,0.0,0.13,0.03,False
-https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA,Yusuf / Cat Stevens,Father And Son,folk/acoustic*rock,3:41,136,G Major,77,0.37,0.49,0.33,0.54,0.0,0.1,0.04,False
-https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6,Bob Dylan,The Times They Are A-Changin',rock*folk/acoustic,3:12,172,G Major,67,0.58,0.39,0.4,0.89,0,0.08,0.03,False
-https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie,Townes Van Zandt,Waiting Around to Die,country*folk/acoustic*rock,2:45,90,F#/Gb Minor,56,0.66,0.55,0.23,0.71,0.0,0.11,0.03,False
-https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO,James Taylor,Fire and Rain - 2019 Remaster,rock*folk/acoustic,3:24,76,F Major,73,0.34,0.6,0.27,0.77,0.01,0.09,0.04,False
-https://open.spotify.com/track/6Wu19AEKVNs5bJFuhZb4EZ,Gregory Alan Isakov,Second Chances,folk/acoustic,3:49,154,E Major,63,0.21,0.38,0.33,0.95,0.09,0.11,0.03,False
-https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH,Nick Drake,Northern Sky,folk/acoustic,3:44,90,F Minor,64,0.49,0.53,0.26,0.55,0.69,0.13,0.04,False
-https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9,Yusuf / Cat Stevens,Wild World,folk/acoustic*rock,3:21,153,C Major,79,0.57,0.48,0.54,0.34,0.0,0.11,0.03,False
-https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj,Iron & Wine,Call It Dreaming,pop*folk/acoustic*rock,3:52,80,F Major,68,0.73,0.51,0.5,0.61,0.0,0.1,0.03,False
-https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3,Bob Dylan,Don't Think Twice, It's All Right,rock*folk/acoustic,3:37,111,E Major,66,0.47,0.6,0.24,0.89,0.0,0.25,0.04,False
-https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx,John Vincent III,Next to You,folk/acoustic,4:17,132,G Major,74,0.07,0.44,0.42,0.63,0.0,0.4,0.03,False
-https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0,Simon & Garfunkel,The Boxer,rock*folk/acoustic,5:09,93,B Major,71,0.63,0.44,0.49,0.7,0.0,0.16,0.06,False
-https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq,Novo Amor,Anchor,folk/acoustic,4:18,117,A Major,80,0.13,0.46,0.41,0.81,0.88,0.13,0.03,False
-https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh,Hazlett,Blame The Moon,rock*folk/acoustic,3:44,75,A#/Bb Major,69,0.05,0.5,0.11,0.81,0.0,0.07,0.03,False
-https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER,John Denver,Rocky Mountain High,pop*folk/acoustic*rock,4:44,81,E Major,68,0.72,0.46,0.44,0.31,0,0.5,0.03,False
-https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS,Bob Dylan,Girl from the North Country,rock*folk/acoustic,3:40,119,G Major,66,0.3,0.61,0.14,0.84,0.0,0.12,0.04,False
-https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe,Old Sea Brigade,Love Brought Weight,folk/acoustic,3:06,117,G Major,65,0.07,0.37,0.33,0.7,0.36,0.08,0.03,False
-https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6,Van Morrison,Into the Mystic - 2013 Remaster,rock*folk/acoustic,3:26,86,G#/Ab Major,75,0.8,0.61,0.52,0.37,0.0,0.12,0.03,False
-https://open.spotify.com/track/2tTFLd7fZCB2yCQM2fhJ8s,Hazlett,My Skin,rock*folk/acoustic,3:37,164,G#/Ab Major,60,0.33,0.56,0.34,0.86,0.0,0.09,0.04,False
-https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI,Ziggy Alberts,Runaway,folk/acoustic*pop,4:33,110,F Major,62,0.51,0.75,0.5,0.33,0.0,0.35,0.04,False
-https://open.spotify.com/track/5UDoMj8EIEXrQ4N0UR0nos,John Prine,Clay Pigeons,folk/acoustic*rock,4:27,141,A#/Bb Major,56,0.48,0.58,0.23,0.89,0.0,0.11,0.03,False
-https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R,Iron & Wine,Naked as We Came,pop*folk/acoustic*rock,2:33,172,E Major,68,0.62,0.39,0.2,0.65,0.04,0.11,0.04,False
-https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc,SYML,You and I,folk/acoustic*pop,3:13,100,F Major,65,0.42,0.72,0.27,0.91,0.0,0.09,0.03,False
-https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK,Jim Croce,I Got a Name (Stereo Version),rock*folk/acoustic,3:14,87,E Major,68,0.65,0.55,0.65,0.81,0.0,0.12,0.04,False
-https://open.spotify.com/track/2mEVBiiVvOAYjvzM3OED0T,Yusuf / Cat Stevens,Trouble,folk/acoustic*rock,2:53,140,F#/Gb Major,57,0.23,0.54,0.17,0.71,0,0.08,0.06,False
-https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK,Simon & Garfunkel,The Sound of Silence - Acoustic Version,rock*folk/acoustic,3:05,107,F#/Gb Major,75,0.33,0.53,0.22,0.84,0,0.11,0.03,False
-https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9,Louis Armstrong,What A Wonderful World,jazz*r&b,2:19,77,F Major,79,0.2,0.27,0.17,0.73,0.0,0.12,0.04,False
-https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,Take Five,jazz,5:24,174,G#/Ab Minor,70,0.6,0.45,0.26,0.54,0.0,0.07,0.04,False
-https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z,Stan Getz,The Girl From Ipanema,jazz,5:20,130,A#/Bb Minor,69,0.48,0.65,0.15,0.87,0.0,0.1,0.04,False
-https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5,Billie Holiday,I'll Be Seeing You,jazz*blues*r&b,3:32,90,C#/Db Major,69,0.19,0.35,0.03,0.99,0.06,0.12,0.04,False
-https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt,Louis Armstrong,La vie en rose - Single Version,jazz*r&b,3:24,70,C Major,71,0.28,0.52,0.04,0.88,0.0,0.08,0.06,False
-https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc,Chet Baker,I Fall In Love Too Easily,jazz,3:21,129,C Minor,68,0.29,0.53,0.07,0.94,0.0,0.09,0.04,False
-https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe,Ella Fitzgerald,Dream A Little Dream Of Me - Single Version,jazz*blues*r&b,3:05,76,C Major,66,0.39,0.44,0.1,0.91,0,0.19,0.1,False
-https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC,Astrud Gilberto,Fly Me To The Moon,jazz,2:23,134,G Major,65,0.46,0.59,0.31,0.88,0.0,0.07,0.03,False
-https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T,Louis Armstrong,A Kiss To Build A Dream On - Single Version,jazz*r&b,3:01,88,C Major,64,0.36,0.72,0.08,0.78,0,0.51,0.06,False
-https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW,Chet Baker,My Funny Valentine,jazz,2:21,133,C Minor,67,0.28,0.44,0.01,0.94,0.01,0.11,0.04,False
-https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50,John Coltrane,My One And Only Love,jazz,4:55,116,A Minor,64,0.25,0.47,0.07,0.96,0.0,0.14,0.04,False
-https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D,Billie Holiday,Blue Moon,jazz*blues*r&b,3:28,125,G#/Ab Major,68,0.54,0.64,0.27,0.98,0.12,0.14,0.07,False
-https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2,Stan Getz,Corcovado (Quiet Nights Of Quiet Stars),jazz,4:17,127,C Major,64,0.38,0.52,0.13,0.92,0.0,0.25,0.05,False
-https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9,Louis Armstrong,What A Wonderful World,jazz*r&b,2:19,77,F Major,79,0.2,0.27,0.17,0.73,0.0,0.12,0.04,False
-https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,Take Five,jazz,5:24,174,G#/Ab Minor,70,0.6,0.45,0.26,0.54,0.0,0.07,0.04,False
-https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z,Stan Getz,The Girl From Ipanema,jazz,5:20,130,A#/Bb Minor,69,0.48,0.65,0.15,0.87,0.0,0.1,0.04,False
-https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5,Billie Holiday,I'll Be Seeing You,jazz*blues*r&b,3:32,90,C#/Db Major,69,0.19,0.35,0.03,0.99,0.06,0.12,0.04,False
-https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt,Louis Armstrong,La vie en rose - Single Version,jazz*r&b,3:24,70,C Major,71,0.28,0.52,0.04,0.88,0.0,0.08,0.06,False
-https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc,Chet Baker,I Fall In Love Too Easily,jazz,3:21,129,C Minor,68,0.29,0.53,0.07,0.94,0.0,0.09,0.04,False
-https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe,Ella Fitzgerald,Dream A Little Dream Of Me - Single Version,jazz*blues*r&b,3:05,76,C Major,66,0.39,0.44,0.1,0.91,0,0.19,0.1,False
-https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC,Astrud Gilberto,Fly Me To The Moon,jazz,2:23,134,G Major,65,0.46,0.59,0.31,0.88,0.0,0.07,0.03,False
-https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T,Louis Armstrong,A Kiss To Build A Dream On - Single Version,jazz*r&b,3:01,88,C Major,64,0.36,0.72,0.08,0.78,0,0.51,0.06,False
-https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW,Chet Baker,My Funny Valentine,jazz,2:21,133,C Minor,67,0.28,0.44,0.01,0.94,0.01,0.11,0.04,False
-https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50,John Coltrane,My One And Only Love,jazz,4:55,116,A Minor,64,0.25,0.47,0.07,0.96,0.0,0.14,0.04,False
-https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D,Billie Holiday,Blue Moon,jazz*blues*r&b,3:28,125,G#/Ab Major,68,0.54,0.64,0.27,0.98,0.12,0.14,0.07,False
-https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2,Stan Getz,Corcovado (Quiet Nights Of Quiet Stars),jazz,4:17,127,C Major,64,0.38,0.52,0.13,0.92,0.0,0.25,0.05,False
-https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq,Miles Davis,So What (feat. John Coltrane, Cannonball Adderley & Bill Evans),jazz*r&b,9:23,137,C Major,63,0.21,0.53,0.15,0.71,0.0,0.12,0.04,False
-https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH,Ella Fitzgerald,Summertime,jazz*blues*r&b,4:58,168,B Minor,65,0.1,0.17,0.07,0.92,0.0,0.14,0.03,False
-https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ,Billie Holiday,Solitude,jazz*blues*r&b,3:28,99,G#/Ab Major,66,0.19,0.46,0.15,0.98,0.0,0.1,0.05,False
-https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe,Herbie Hancock,Cantaloupe Island - Remastered 1999/Rudy Van Gelder Edition,jazz*r&b,5:34,116,C Minor,62,0.41,0.52,0.58,0.75,0.0,0.12,0.03,False
-https://open.spotify.com/track/6MN6yRVriszuyAVlyF8ndB,Galt MacDermot,Coffee Cold,[],3:26,80,A Minor,62,0.47,0.69,0.47,0.79,0.28,0.22,0.03,False
-https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o,Glenn Miller,In the Mood - Live,jazz,3:30,175,G#/Ab Major,62,0.59,0.46,0.65,0.82,0.92,0.37,0.07,False
-https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE,Oscar Peterson Trio,I Got It Bad And That Ain't Good,jazz,5:06,50,F Major,61,0.19,0.49,0.05,0.97,0.91,0.09,0.05,False
-https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD,Billie Holiday,All of Me,jazz*blues*r&b,3:01,107,D Minor,65,0.4,0.5,0.06,0.97,0.0,0.17,0.04,False
-https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh,Ella Fitzgerald,Cheek To Cheek,jazz*blues*r&b,5:55,122,C Major,63,0.66,0.66,0.26,0.71,0,0.1,0.09,False
-https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d,Chet Baker,Time After Time - Vocal Version,jazz,2:47,100,C Major,61,0.26,0.5,0.05,0.94,0.0,0.2,0.04,False
-https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA,Lester Young,There Will Never Be Another You,jazz,3:26,83,C Minor,61,0.34,0.59,0.04,0.98,0.82,0.12,0.06,False
-https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU,McCoy Tyner,When Sunny Gets Blue,jazz,4:42,60,D Minor,60,0.11,0.43,0.11,0.84,0.86,0.1,0.05,False
-https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv,Bill Evans,Skating In Central Park,jazz,5:24,124,C Major,60,0.15,0.48,0.03,0.99,0.95,0.1,0.05,False
-https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH,Chet Baker,I Get Along Without You Very Well (Except Sometimes) - Vocal Version,jazz,3:00,103,A#/Bb Major,60,0.21,0.44,0.03,0.92,0.0,0.15,0.04,False
-https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo,Stan Getz,But Beautiful,jazz,4:41,73,B Major,59,0.32,0.5,0.05,0.97,0.03,0.08,0.04,False
-https://open.spotify.com/track/7Kc3hZoCRTs5dNHU7GqT9x,Lorez Alexandria,Give Me The Simple Life,jazz,2:21,62,C Major,59,0.55,0.72,0.13,0.88,0,0.1,0.04,False
-https://open.spotify.com/track/6cU4urQRUieTBH08yKHAqj,Charlie Parker,Summertime,jazz,2:47,133,G Minor,58,0.39,0.34,0.34,0.96,0.32,0.16,0.03,False
-https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf,Lou Donaldson,Autumn Nocturne,jazz,4:55,124,C Major,58,0.26,0.54,0.07,0.97,0.17,0.11,0.05,False
-https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD,Bill Evans,Gary's Theme - Remastered,jazz,4:18,122,G Major,59,0.05,0.42,0.08,0.9,0.86,0.14,0.04,False
-https://open.spotify.com/track/3pfbQmD5xGH9Tcc7GqGfSL,Chet Baker,But Not For Me - Vocal Version,jazz,3:04,82,F Minor,58,0.55,0.63,0.15,0.93,0.0,0.12,0.04,False
-https://open.spotify.com/track/0f2489MzoisF9pKduawvce,Ella Fitzgerald,Autumn In New York,jazz*blues*r&b,5:57,135,G Minor,58,0.15,0.42,0.05,0.95,0,0.14,0.04,False
-https://open.spotify.com/track/6CDQBADsdzJwc3qZ3OPDHH,Red Garland,Almost Like Being In Love,jazz,4:50,94,C Minor,57,0.7,0.56,0.35,0.87,0.4,0.1,0.04,False
-https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM,Stan Getz,A Nightingale Sang In Berkeley Square,jazz,7:00,96,C#/Db Major,58,0.26,0.42,0.04,0.95,0.02,0.15,0.04,False
-https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt,Art Blakey,Moanin' - Remastered 1998/Rudy Van Gelder Edition,jazz,9:31,126,F Minor,57,0.48,0.61,0.49,0.8,0.27,0.2,0.05,False
-https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g,Benny Goodman,Stompin At The Savoy,jazz,3:16,156,A#/Bb Minor,57,0.65,0.53,0.22,0.84,0.08,0.05,0.04,False
-https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7,Cannonball Adderley,Autumn Leaves,jazz*blues,11:00,111,G Minor,57,0.28,0.54,0.26,0.77,0.0,0.12,0.03,False
-https://open.spotify.com/track/5DIVWgTeJ2fPIxaY9e7ZKn,Ella Fitzgerald,I've Got A Crush On You,jazz*blues*r&b,3:16,67,D Major,57,0.26,0.46,0.11,0.99,0,0.12,0.04,False
-https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6,Louis Armstrong,Mack the Knife,jazz*r&b,3:21,89,C Major,57,0.71,0.67,0.38,0.59,0,0.33,0.07,False
-https://open.spotify.com/track/1CDBaGlisZlOJzvx88lL8A,Horace Silver,Song For My Father,jazz,7:18,127,F Minor,57,0.59,0.74,0.67,0.79,0.0,0.12,0.04,False
-https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP,Thelonious Monk,'Round Midnight,jazz,3:14,117,G#/Ab Major,56,0.21,0.54,0.32,0.91,0.65,0.06,0.04,False
-https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw,Sarah Vaughan,Misty,jazz,2:59,84,D Minor,56,0.14,0.22,0.21,0.98,0.0,0.37,0.03,False
-https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN,Etta Jones,Bye Bye Blackbird,jazz,3:14,126,C Minor,56,0.58,0.71,0.32,0.87,0.0,0.17,0.04,False
-https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7,Julie London,I'm Glad There Is You,jazz,2:27,125,A#/Bb Minor,56,0.17,0.49,0.07,0.96,0.0,0.11,0.04,False
-https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN,Nancy Wilson,The Masquerade Is Over,jazz,4:18,174,A#/Bb Major,56,0.13,0.34,0.04,0.91,0.01,0.16,0.03,False
-https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU,John Coltrane,Naima - Mono,jazz,4:25,170,A#/Bb Minor,56,0.13,0.29,0.01,0.91,0.16,0.08,0.04,False
-https://open.spotify.com/track/0DuWyzeLH09PQcnOMJiRgE,Billie Holiday,Lover Man,jazz*blues*r&b,3:18,64,C Major,56,0.26,0.36,0.14,0.92,0,0.1,0.04,False
-https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00,Morgan Wallen,Whiskey Glasses,country,3:54,150,F#/Gb Major,81,0.71,0.61,0.68,0.37,0.0,0.12,0.03,False
-https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7,George Strait,Check Yes Or No,country,3:21,111,F Major,75,0.69,0.71,0.52,0.06,0.0,0.04,0.04,False
-https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1,Luke Combs,Hurricane,country,3:43,76,A#/Bb Major,80,0.52,0.46,0.81,0.02,0,0.25,0.04,False
-https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV,Kenny Chesney,American Kids,country*rock,3:03,85,C Major,76,0.85,0.78,0.59,0.05,0.0,0.04,0.08,False
-https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8,Toby Keith,As Good As I Once Was,country,3:48,119,F Major,76,0.65,0.68,0.87,0.27,0,0.11,0.04,False
-https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n,Thomas Rhett,Die A Happy Man,country*rock,3:47,166,D Major,76,0.4,0.59,0.39,0.42,0.0,0.12,0.03,False
-https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n,Shania Twain,You're Still The One,country*pop,3:32,134,D#/Eb Major,72,0.63,0.58,0.49,0.36,0,0.09,0.04,False
-https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm,Alan Jackson,Chattahoochee,country,2:28,175,C Major,74,0.82,0.61,0.71,0.36,0,0.16,0.04,False
-https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy,Waylon Jennings,Mammas Don't Let Your Babies Grow up to Be Cowboys,country,2:33,188,A Major,70,0.61,0.36,0.36,0.62,0.0,0.15,0.05,False
-https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex,The Judds,Why Not Me,country,3:29,126,A#/Bb Major,64,0.73,0.73,0.67,0.5,0.0,0.05,0.03,False
-https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK,Lady A,Need You Now,country*pop,4:38,108,E Major,73,0.23,0.59,0.62,0.09,0.0,0.2,0.03,False
-https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk,Keith Whitley,When You Say Nothing at All,country,3:42,80,D#/Eb Major,58,0.4,0.67,0.35,0.72,0.0,0.05,0.02,False
-https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN,Trisha Yearwood,She's In Love With The Boy - Single Version,country,4:08,125,D#/Eb Major,70,0.76,0.78,0.7,0.52,0.0,0.08,0.03,False
-https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k,Patsy Cline,I Fall To Pieces - Single Version,country,2:51,112,A#/Bb Major,63,0.51,0.54,0.06,0.92,0.0,0.12,0.04,False
-https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz,Shania Twain,Man! I Feel Like A Woman!,country*pop,3:54,125,A#/Bb Major,73,0.67,0.66,0.64,0.58,0,0.28,0.04,False
-https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9,Miranda Lambert,The House That Built Me,country,3:57,81,F Major,67,0.21,0.53,0.3,0.58,0.0,0.12,0.03,False
-https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb,Alan Jackson,It's Five O'Clock Somewhere,country,3:50,125,D Major,66,0.88,0.71,0.77,0.21,0,0.21,0.04,False
-https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo,Gabby Barrett,I Hope,country,3:31,76,F#/Gb Major,72,0.38,0.47,0.54,0.1,0,0.11,0.04,False
-https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy,Florida Georgia Line,Cruise,country*pop*rock,3:29,148,A#/Bb Major,72,0.88,0.46,0.95,0.02,0,0.05,0.04,False
-https://open.spotify.com/track/0FtV0YbnnjD7PXpLHFHPhn,Reba McEntire,Fancy,country,5:00,95,B Major,67,0.48,0.67,0.52,0.23,0,0.07,0.07,False
-https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0,Glen Campbell,Rhinestone Cowboy,country*pop*rock*folk/acoustic,3:14,115,C Major,66,0.65,0.64,0.63,0.1,0.0,0.23,0.03,False
-https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe,Faith Hill,Breathe,country,4:11,137,G Major,67,0.28,0.53,0.5,0.17,0,0.25,0.03,False
-https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y,Dan + Shay,Tequila,country,3:17,86,B Major,71,0.49,0.49,0.58,0.03,0,0.13,0.03,False
-https://open.spotify.com/track/2tpWN4Il5Hk3xPlTQjvkk8,Jo Dee Messina,Heads Carolina, Tails California,country,3:30,137,E Major,53,0.57,0.61,0.81,0.05,0.0,0.11,0.04,False
-https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R,Tim McGraw,I Like It, I Love It,country,3:26,124,C Major,71,0.96,0.64,0.96,0.02,0,0.95,0.03,False
-https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS,Josh Turner,Why Don't We Just Dance,country,3:13,122,F Major,71,0.64,0.68,0.78,0.42,0.0,0.1,0.04,False
-https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU,Little Big Town,Girl Crush,country,3:13,174,C Major,70,0.35,0.5,0.23,0.84,0,0.11,0.03,False
-https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX,The Chicks,Cowboy Take Me Away,country,4:47,164,F#/Gb Major,71,0.46,0.47,0.62,0.36,0.01,0.1,0.03,False
-https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U,Florida Georgia Line,This Is How We Roll,country*pop*rock,3:41,132,G#/Ab Major,71,0.72,0.56,0.93,0.02,0,0.41,0.04,False
-https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v,Deana Carter,Strawberry Wine,country,4:50,122,C#/Db Major,60,0.2,0.56,0.43,0.3,0,0.04,0.03,False
-https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH,George Strait,Carrying Your Love With Me,country,3:52,138,A#/Bb Major,71,0.34,0.63,0.48,0.22,0,0.06,0.03,False
-https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO,Sam Hunt,Body Like A Back Road,country*pop*rock,2:45,99,F Major,70,0.66,0.73,0.46,0.45,0,0.14,0.03,False
-https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD,Tim McGraw,Live Like You Were Dying,country,5:00,160,G Major,70,0.42,0.42,0.55,0.49,0,0.08,0.03,False
-https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9,Keith Urban,Blue Ain't Your Color,country*pop*rock,3:51,82,G Major,70,0.48,0.69,0.42,0.62,0.0,0.1,0.03,False
-https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9,Johnny Cash,Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968,country*rock,2:43,111,C Major,69,0.89,0.62,0.52,0.07,0.0,0.89,0.08,False
-https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB,Faith Hill,This Kiss,country,3:14,187,B Major,69,0.71,0.4,0.8,0.17,0,0.18,0.05,False
-https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT,Brooks & Dunn,My Maria,country,3:28,126,D#/Eb Major,69,0.9,0.67,0.84,0.06,0.0,0.18,0.04,False
-https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5,Rodney Atkins,Watching You,country,3:55,138,D Major,67,0.72,0.62,0.85,0.1,0,0.23,0.03,False
-https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt,Carrie Underwood,Before He Cheats,country*pop,3:20,148,F#/Gb Minor,81,0.29,0.52,0.75,0.27,0,0.12,0.04,False
-https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV,Tim McGraw,Humble And Kind,country,4:19,101,B Major,70,0.14,0.35,0.48,0.68,0.0,0.12,0.03,False
-https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g,Keith Urban,Somebody Like You,country*pop*rock,5:23,111,E Major,70,0.66,0.62,0.84,0.11,0.0,0.14,0.03,False
-https://open.spotify.com/track/32FcjEWPn4aSRqJ6loL01b,Jason Aldean,Burnin' It Down,country*rock,3:39,136,F#/Gb Major,66,0.64,0.68,0.8,0.3,0.0,0.11,0.05,False
-https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY,Hunter Hayes,Wanted,country*rock,3:49,170,C Major,66,0.3,0.42,0.48,0.27,0,0.08,0.03,False
-https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3,Reba McEntire,The Night The Lights Went Out In Georgia,country,4:17,170,G Minor,66,0.39,0.43,0.51,0.52,0.0,0.1,0.1,False
-https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g,Tim McGraw,Just To See You Smile,country,3:35,94,F#/Gb Major,69,0.7,0.49,0.82,0.13,0,0.05,0.03,False
-https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy,Sam Hunt,Take Your Time,country*pop*rock,4:04,158,B Major,65,0.48,0.56,0.72,0.1,0,0.21,0.04,False
-https://open.spotify.com/track/3oyByfBYegVEDwYyqx9pRd,Alan Jackson,Don't Rock the Jukebox,country,2:51,148,G Major,65,0.79,0.64,0.64,0.05,0.0,0.27,0.03,False
-https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87,Carrie Underwood,Jesus, Take the Wheel,country*pop,3:46,77,D Major,63,0.14,0.36,0.52,0.67,0,0.11,0.03,False
-https://open.spotify.com/track/6FHXJu99aQAUnivEjPhuUR,George Strait,I Cross My Heart - Pure Country Soundtrack Version,country,3:32,131,D#/Eb Major,63,0.28,0.53,0.44,0.27,0.0,0.11,0.03,False
-https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF,Blake Shelton,God Gave Me You,country*rock,3:50,152,D Major,63,0.54,0.48,0.84,0.0,0.0,0.41,0.03,False
-https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW,Miranda Lambert,Automatic,country,4:08,96,A#/Bb Major,62,0.4,0.59,0.7,0.04,0.0,0.14,0.03,False
-https://open.spotify.com/track/2nKvLnpExkH7Mfc14c6a7H,Craig Morgan,That's What I Love About Sunday,country,3:21,139,G#/Ab Major,61,0.42,0.6,0.56,0.48,0,0.11,0.03,False
-https://open.spotify.com/track/7wIaLkbQzG6HMnE28etnif,John Michael Montgomery,I Swear,country,4:23,86,C#/Db Major,61,0.27,0.63,0.5,0.24,0.0,0.15,0.02,False
-https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi,George Strait,Love Without End, Amen,country,3:07,88,A Major,62,0.55,0.65,0.44,0.4,0,0.12,0.03,False
-https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV,James Otto,Just Got Started Lovin' You,country,3:55,98,G Major,60,0.88,0.7,0.61,0.16,0.0,0.24,0.02,False
-https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9,Mark Wills,19 Somethin' - Greatest Hits Version,country,3:20,90,E Major,60,0.81,0.58,0.82,0.13,0,0.08,0.07,False
-https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB,Brooks & Dunn,Ain't Nothing 'Bout You,country,3:19,202,C Major,60,0.7,0.33,0.89,0.14,0.0,0.43,0.06,False
-https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb,Martina McBride,This One's for the Girls,country,4:03,127,G#/Ab Major,60,0.61,0.61,0.8,0.06,0.0,0.12,0.04,False
-https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo,Kelsea Ballerini,Peter Pan,country,3:20,76,C#/Db Major,63,0.46,0.51,0.66,0.03,0,0.27,0.03,False
-https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON,Joe Diffie,Pickup Man,country,3:37,141,G Major,59,0.85,0.71,0.76,0.43,0,0.34,0.04,False
-https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi,Buck Owens,Act Naturally,country*pop*rock,2:23,93,G Major,59,0.71,0.56,0.38,0.39,0,0.12,0.03,False
-https://open.spotify.com/track/6reuJxDtjebwc9FB6rNpp0,Kenny Chesney,Don't Blink,country*rock,4:45,148,E Major,58,0.65,0.6,0.6,0.12,0.0,0.3,0.04,False
-https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U,Maren Morris,My Church,country,3:18,77,A Major,68,0.66,0.52,0.74,0.24,0.0,0.11,0.04,False
-https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm,Lonestar,Amazed,country,4:00,140,C#/Db Major,58,0.25,0.56,0.55,0.25,0,0.12,0.03,False
-https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl,Alabama,High Cotton,country*rock,3:00,91,F Major,58,0.86,0.66,0.58,0.42,0,0.11,0.03,False
-https://open.spotify.com/track/7LimFGKop84KMDutqYaNIF,Toby Keith,How Do You Like Me Now?!,country,3:26,109,C Major,58,0.7,0.64,0.83,0.07,0.0,0.13,0.04,False
-https://open.spotify.com/track/32ogrBiK5QBeMwidTdnMoq,Merle Haggard,Fightin' Side of Me,country*rock,2:51,96,E Major,58,0.53,0.73,0.6,0.22,0.0,0.13,0.05,False
-https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ,George Strait,You Look So Good In Love,country,3:13,114,A Major,58,0.33,0.64,0.23,0.43,0,0.1,0.03,False
-https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8,Johnny Cash,Daddy Sang Bass,country*rock,2:20,97,E Major,57,0.68,0.68,0.64,0.7,0.0,0.06,0.04,False
-https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT,Vince Gill,When I Call Your Name,country,4:15,71,F Major,57,0.21,0.51,0.11,0.35,0.0,0.14,0.03,False
-https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT,Shenandoah,Two Dozen Roses,country,3:44,117,E Major,56,0.54,0.69,0.5,0.33,0,0.1,0.03,False
-https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO,Clint Black,Killin' Time,country,2:48,121,G Major,56,0.69,0.71,0.52,0.46,0.0,0.1,0.03,False
-https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR,Collin Raye,Love, Me,country,3:52,107,C Major,56,0.34,0.69,0.23,0.74,0,0.14,0.03,False
-https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr,Taylor Swift,Cruel Summer,pop,2:58,170,A Major,97,0.56,0.55,0.7,0.12,0.0,0.1,0.16,False
-https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K,Taylor Swift,august,pop,4:22,90,F Major,88,0.4,0.53,0.62,0.54,0.0,0.09,0.03,False
-https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu,Taylor Swift,Anti-Hero,pop,3:21,97,E Major,90,0.53,0.64,0.64,0.13,0.0,0.14,0.05,False
-https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz,Taylor Swift,Is It Over Now? (Taylor's Version) (From The Vault),pop,3:49,100,C Major,89,0.18,0.6,0.66,0.05,0,0.13,0.04,False
-https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd,Taylor Swift,cardigan,pop,4:00,130,C Minor,89,0.55,0.61,0.58,0.54,0.0,0.25,0.04,False
-https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf,Taylor Swift,Karma,pop,3:25,90,G#/Ab Major,86,0.1,0.64,0.62,0.07,0,0.48,0.07,True
-https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI,Taylor Swift,Lover,pop,3:41,69,G Major,91,0.45,0.36,0.54,0.49,0.0,0.12,0.09,False
-https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f,Taylor Swift,willow,pop,3:35,81,G Major,82,0.53,0.39,0.57,0.83,0.0,0.14,0.17,False
-https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4,Taylor Swift,You�re Losing Me (From The Vault),pop,4:38,103,C Major,86,0.2,0.75,0.39,0.53,0.0,0.11,0.05,False
-https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf,Taylor Swift,Love Story (Taylor�s Version),pop,3:56,119,D Major,83,0.42,0.63,0.79,0.14,0.0,0.1,0.03,False
+Link∉Autor∉Gatunek∉Duration∉Tempo(BPM)∉Key∉Popularity∉Happiness∉Danceability∉Energy∉Acousticness∉Instrumentalness∉Liveness∉Speechiness∉Explicit∉Tytuł
+https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ∉Antonio Vivaldi∉classical∉3:22∉162∉F Minor∉64∉0.39∉0.4∉0.25∉0.82∉0.64∉0.12∉0.04∉False∉The Four Seasons: Concerto No. 4 in F Minor, RV 297 "L'inverno" (winter): I. Allegro non molto
+https://open.spotify.com/track/0pYNtYPverz3Y2SjEgKYE2∉Antonio Vivaldi∉classical∉2:51∉144∉G Minor∉0∉0.45∉0.28∉0.46∉0.9∉0.93∉0.38∉0.04∉False∉Le quattro stagioni (The Four Seasons), Op. 8 - Concerto No. 2 in G Minor, RV 315, "L'estate" (Summer): III. Presto (Tempo impetuoso d'estate)
+https://open.spotify.com/track/3YUmaXADZY1wdTrGCF4Fdw∉Sergei Prokofiev∉classical∉5:45∉73∉C Major∉48∉0.12∉0.14∉0.06∉0.89∉0.24∉0.56∉0.05∉False∉Romeo and Juliet, Op. 64: No. 13 Dance of the Knights
+https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt∉Pyotr Ilyich Tchaikovsky∉classical∉2:47∉58∉E Minor∉69∉0.07∉0.14∉0.16∉0.91∉0.92∉0.11∉0.04∉False∉Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato
+https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx∉Giuseppe Verdi∉classical∉2:15∉80∉C Minor∉58∉0.24∉0.27∉0.35∉0.93∉0.93∉0.08∉0.03∉False∉Dies Irae
+https://open.spotify.com/track/2oLjhx7w8Hyd3gry9cCXr7∉Johannes Brahms∉classical∉2:19∉145∉G Minor∉62∉0.6∉0.36∉0.17∉0.9∉0.96∉0.1∉0.04∉False∉21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)
+https://open.spotify.com/track/7HB1REjjalFLSXgXlAAwFs∉Antonio Vivaldi∉classical∉1:20∉107∉D Major∉63∉0.63∉0.43∉0.29∉0.9∉0.91∉0.37∉0.05∉False∉Concerto for Strings in G Major, RV 151, "Alla Rustica": I. Presto
+https://open.spotify.com/track/2HrDeUcfs5MGPKRo8gD1BI∉Antonio Vivaldi∉classical∉3:55∉107∉B Minor∉39∉0.63∉0.5∉0.31∉0.8∉0.0∉0.06∉0.07∉False∉Concerto For 4 Violins In B Minor, Op. 3, No. 10, RV 580 : I. Allegro
+https://open.spotify.com/track/1IM8x4lxZVOOP9gpQD6c5s∉Camille Saint-Saëns∉classical∉7:12∉116∉G Minor∉53∉0.17∉0.44∉0.18∉0.91∉0.66∉0.06∉0.04∉False∉Danse macabre in G Minor, Op. 40
+https://open.spotify.com/track/4EboQ4MODsqFWP00zSnJpf∉Leoš Janáček∉classical∉6:09∉73∉F#/Gb Major∉33∉0.04∉0.17∉0.19∉0.93∉0.85∉0.1∉0.06∉False∉String Quartet No. 2, JW 7/13 "Intimate Letters": II. Adagio
+https://open.spotify.com/track/5K8BwPXLN7rdlYsPHFXrY3∉Pyotr Ilyich Tchaikovsky∉classical∉9:16∉110∉A#/Bb Minor∉38∉0.07∉0.33∉0.23∉0.87∉0.93∉0.1∉0.04∉False∉Slavonic March, Op. 31, TH 45
+https://open.spotify.com/track/22NQmi4oHSelAotPM3D4FO∉Giuseppe Verdi∉classical∉2:00∉91∉C Minor∉38∉0.18∉0.25∉0.28∉0.93∉0.84∉0.1∉0.03∉False∉Requiem: II. Dies irae "Dies irae"
+https://open.spotify.com/track/3h4elxYZdkZGsNEph9syV8∉Manuel de Falla∉classical∉3:35∉106∉D Minor∉29∉0.34∉0.21∉0.14∉0.75∉0.95∉0.15∉0.04∉False∉La vida breve, Act II: Danza
+https://open.spotify.com/track/2hNhsPZVVOr0SOqShooaEJ∉Pyotr Ilyich Tchaikovsky∉classical∉4:44∉36∉C#/Db Major∉44∉0.1∉0.14∉0.23∉0.96∉0.08∉0.11∉0.05∉False∉Valse sentimentale, Op. 51, No. 6
+https://open.spotify.com/track/6yhioaNcLd5qwei5S0HQsu∉Seattle Symphony Orchestra∉classical∉2:54∉83∉G Minor∉53∉0.26∉0.23∉0.07∉0.83∉0.39∉0.08∉0.04∉False∉21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in F-Sharp Minor
+https://open.spotify.com/track/4oviAMVnj3noW22hfvgFQS∉Léo Delibes∉classical∉1:15∉97∉D#/Eb Major∉61∉0.42∉0.35∉0.06∉0.93∉0.93∉0.21∉0.04∉False∉Sylvia: Act III: Divertissement: Variation - Valse
+https://open.spotify.com/track/03xxnNXmK7lJjW9hV2ldn8∉Léo Delibes∉classical∉2:21∉89∉D#/Eb Major∉54∉0.19∉0.2∉0.03∉0.9∉0.87∉0.09∉0.04∉False∉Coppelia: Act I - Valse
+https://open.spotify.com/track/45eG3JWQSWarZV7SQ8HGqz∉Ludwig Minkus∉classical∉0:47∉136∉B Minor∉37∉0.52∉0.49∉0.07∉0.93∉0.66∉0.19∉0.05∉False∉Don Quixote: Act I: Quiteria's Variation
+https://open.spotify.com/track/4aVQZ6pyDgfxMBVBiJlOtC∉Seattle Symphony Orchestra∉classical∉1:51∉70∉A Minor∉62∉0.05∉0.17∉0.04∉0.98∉0.95∉0.08∉0.04∉False∉Etudes symphoniques (Symphonic Etudes), Op. 13, Adagio and Allegro brillante: Variation 11 [arr. P.I. Tchaikovsky for orchestra]
+https://open.spotify.com/track/4iYIRlCTOUE26lYwtvXEDY∉Johann Sebastian Bach∉classical∉3:52∉94∉G Minor∉40∉0.86∉0.54∉0.38∉0.96∉0.0∉0.47∉0.06∉False∉Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace
+https://open.spotify.com/track/04eShjKTWijeJJqGnhxpYK∉Nikolai Rimsky-Korsakov∉classical∉3:20∉121∉B Minor∉59∉0.08∉0.23∉0.06∉0.96∉0.6∉0.47∉0.05∉False∉Scheherazade: The Tale of the Kalendar Prince
+https://open.spotify.com/track/4GdHkkbUtc63Jr3JI5Pm19∉Antonín Dvořák∉classical∉12:15∉133∉E Minor∉52∉0.12∉0.24∉0.11∉0.89∉0.9∉0.71∉0.04∉False∉Symphony No. 9 in E Minor, Op. 95 "From the New World": IV. Allegro con fuoco
+https://open.spotify.com/track/1UvaZaHkh3D9AkmBrrnbFg∉Wolfgang Amadeus Mozart∉classical∉3:25∉84∉D Minor∉60∉0.08∉0.08∉0.09∉0.96∉0.59∉0.29∉0.04∉False∉Lacrimosa
+https://open.spotify.com/track/1lGZmABQXTYGYY5MZb9SJY∉Frédéric Chopin∉classical∉3:33∉120∉C Major∉39∉0.07∉0.3∉0.34∉0.99∉0.87∉0.1∉0.04∉False∉12 Études, Op. 25: No. 11 in A Minor "Winter Wind"
+https://open.spotify.com/track/31phRRDd6MwLhE88ZXt8hn∉Antonio Vivaldi∉classical∉9:49∉148∉C#/Db Minor∉39∉0.28∉0.36∉0.25∉0.57∉0.0∉0.1∉0.05∉False∉Sonata "La Follia" Op. 1 n. 12 RV 63
+https://open.spotify.com/track/0lAzlYb7HRIka9Zi38QR3j∉Dmitri Shostakovich∉classical∉2:09∉100∉C Minor∉50∉0.27∉0.31∉0.14∉0.95∉0.73∉0.17∉0.03∉False∉Jazz Suite No. 2: II. Lyric Waltz
+https://open.spotify.com/track/2f2egGUYIOUjcFG3EDFg2F∉St. Petersburg State Symphony Orchestra∉classical∉4:22∉94∉C Major∉53∉0.2∉0.3∉0.26∉0.84∉0.95∉0.1∉0.03∉False∉Masquerade Suite: Maskarad (Masquerade): I. Waltz
+https://open.spotify.com/track/6nqHzwOdGIaX57U6VU6kMO∉Antonín Dvořák∉classical∉11:25∉136∉E Minor∉56∉0.11∉0.25∉0.16∉0.9∉0.74∉0.12∉0.04∉False∉Symphony No. 9 in E Minor, Op. 95, B. 178 "From the New World": IV. Allegro con fuoco
+https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS∉Baroque Festival Orchestra∉classical∉2:56∉140∉C Minor∉61∉0.57∉0.3∉0.17∉0.96∉0.9∉0.1∉0.04∉False∉Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)
+https://open.spotify.com/track/3sAYxq1986j3ydqLv6jwUJ∉Antonín Dvořák∉classical∉7:13∉0∉A Major∉65∉0∉0∉0.08∉0.76∉0.89∉0.26∉0∉False∉Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse
+https://open.spotify.com/track/20ZYjuXxzdfpCnYf6MXPjO∉Antonín Dvořák∉classical∉1:19∉80∉E Minor∉36∉0.17∉0.18∉0.06∉0.88∉0.88∉0.13∉0.04∉False∉8 Slavonic Dances, Op. 72: No. 2 in E Minor (Allegretto grazioso)
+https://open.spotify.com/track/5K8jqeLAxZIqHR6e5w5so1∉Léo Delibes∉classical∉0:59∉72∉C Major∉59∉0.07∉0.18∉0.03∉0.99∉0.91∉0.12∉0.04∉False∉Flower Duet
+https://open.spotify.com/track/62dD6AMgEvZq5OCHAZ7d9a∉Pyotr Ilyich Tchaikovsky∉classical∉23:41∉76∉A#/Bb Minor∉48∉0.04∉0.23∉0.08∉0.98∉0.91∉0.17∉0.04∉False∉Piano Concerto No. 1 in B-Flat Minor, Op. 23, TH. 55: I. Allegro non troppo e molto maestoso - Allegro con spirito - Live at Philharmonie, Berlin
+https://open.spotify.com/track/1IRqLBc1JAKIsLcOKwIMyY∉Niccolò Paganini∉classical∉9:11∉106∉G Major∉48∉0.4∉0.58∉0.15∉0.76∉0.05∉0.66∉0.09∉False∉La Campanella
+https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL∉Claude Debussy∉classical∉4:28∉66∉C#/Db Major∉67∉0.04∉0.34∉0.01∉0.99∉0.91∉0.06∉0.04∉False∉Clair de Lune, L. 32
+https://open.spotify.com/track/4JOEMgLkrHp8K1XNmyNffH∉Maurice Ravel∉classical∉7:08∉76∉D Major∉57∉0.03∉0.17∉0.05∉0.98∉0.91∉0.08∉0.04∉False∉Miroirs: III. Une barque sur l'océan
+https://open.spotify.com/track/28XMNc5If5BmJWYDU42gkw∉Johann Sebastian Bach∉classical∉3:56∉91∉A Minor∉56∉0.62∉0.5∉0.35∉0.95∉0.0∉0.12∉0.04∉False∉Violin Concerto No. 1 in A minor, BWV 1041: I. (Allegro moderato)
+https://open.spotify.com/track/3ReGInIb9KW3DL6a1cNDOv∉Luke Faulkner∉classical∉5:32∉102∉G Major∉32∉0.08∉0.23∉0.02∉0.98∉0.9∉0.06∉0.04∉False∉Pas de deux (from the Nutcracker, Tchaikovsky Arr. Pletnev)
+https://open.spotify.com/track/703iyFFCGrfBxVIFQ1MZ7O∉Ludwig van Beethoven∉classical∉6:57∉115∉G Minor∉36∉0.32∉0.27∉0.13∉0.99∉0.9∉0.07∉0.04∉False∉Piano Sonata No. 17 In D Minor, Op. 31, No. 2 -"The Tempest": 3. Allegretto
+https://open.spotify.com/track/3kvBEbswxMAx6QKc10SCon∉Johann Sebastian Bach∉classical∉1:30∉131∉B Minor∉59∉0.96∉0.52∉0.27∉0.85∉0.09∉0.08∉0.04∉False∉Overture (Suite) No. 2 in B Minor, BWV 1067: VII. Badinerie
+https://open.spotify.com/track/3jRW4o7TpIjA6KCnpqIeR6∉Ludwig Minkus∉classical∉1:06∉140∉E Minor∉57∉0.48∉0.44∉0.08∉0.93∉0.92∉0.09∉0.05∉False∉Paquita: Variation 5: Allegro non troppo (by Cherepnin)
+https://open.spotify.com/track/0Ee9oam0N0ZzxZSN9nogTQ∉Maurice Ravel∉classical∉1:06∉138∉F Major∉62∉0.04∉0.15∉0.01∉0.75∉0.85∉0.29∉0.04∉False∉Antar (After N. Rimsky-Korsakov): No. 7. Ravel: Allegretto
+https://open.spotify.com/track/7AI7PbU2zIJfDV9qDNlhZX∉Vittorio Monti∉classical∉4:46∉175∉D Major∉49∉0.22∉0.31∉0.14∉0.93∉0.07∉0.12∉0.06∉False∉Csardas
+https://open.spotify.com/track/4sCgQZkwhYlB1a8ocpiWRr∉Antonio Vivaldi∉classical∉1:01∉145∉E Minor∉59∉0.83∉0.4∉0.23∉0.99∉0.65∉0.15∉0.04∉False∉Cello Concerto in E Minor, RV 409: II. Allegro
+https://open.spotify.com/track/0dYaZeUGUgjmRnjyvR1RWg∉Felix Mendelssohn∉classical∉9:37∉121∉A Minor∉47∉0.21∉0.33∉0.28∉0.9∉0.92∉0.13∉0.04∉False∉Symphony No. 3 in A Minor, Op. 56, MWV N 18 "Scottish": 4. Allegro vivacissimo - Allegro maestoso assai
+https://open.spotify.com/track/1chTrqszWQEOP4RsNuOZf7∉Gioachino Rossini∉classical∉7:05∉92∉E Major∉51∉0.28∉0.32∉0.14∉0.91∉0.76∉0.12∉0.05∉False∉Il barbiere di Siviglia: Overture (Sinfonia)
+https://open.spotify.com/track/6FIES8iEfuZ6KUQMOs2T92∉Antonio Vivaldi∉classical∉4:15∉109∉D#/Eb Minor∉44∉0.56∉0.41∉0.33∉0.84∉0.25∉0.11∉0.04∉False∉Vivaldi: La stravaganza, Violin Concerto in E Minor, Op. 4 No. 2, RV 279: I. Allegro
+https://open.spotify.com/track/64ta7ZvTJeThz7Ns4LmAHS∉Wolfgang Amadeus Mozart∉classical∉7:40∉80∉G Minor∉59∉0.36∉0.43∉0.24∉0.99∉0.9∉0.08∉0.04∉False∉Symphony No. 25 in G Minor, K. 183: I. Allegro con brio
+https://open.spotify.com/track/0eBr9W1GE5nou99gRdy02J∉Ludwig van Beethoven∉classical∉7:22∉98∉C Minor∉46∉0.17∉0.3∉0.26∉0.94∉0.88∉0.09∉0.04∉False∉Symphony No. 5 in C Minor, Op. 67: 1. Allegro con brio
+https://open.spotify.com/track/6OC0v9yU90ME5DW2o1skKr∉Wolfgang Amadeus Mozart∉classical∉7:13∉114∉G Minor∉52∉0.21∉0.35∉0.19∉0.97∉0.86∉0.12∉0.04∉False∉Mozart: Symphony No. 40 in G Minor, K. 550: I. Molto allegro
+https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL∉Etta James∉blues∉2:37∉83∉B Minor∉78∉0.61∉0.48∉0.43∉0.69∉0.0∉0.15∉0.02∉False∉I'd Rather Go Blind
+https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo∉Stevie Ray Vaughan∉blues∉3:40∉127∉G#/Ab Major∉67∉0.74∉0.43∉0.63∉0.03∉0.0∉0.11∉0.04∉False∉Pride and Joy
+https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si∉Bobby "Blue" Bland∉blues∉3:54∉158∉A Minor∉65∉0.74∉0.52∉0.38∉0.93∉0.86∉0.1∉0.04∉False∉Ain't No Love In The Heart Of The City - Single Version
+https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM∉B.B. King∉blues∉5:25∉91∉B Minor∉64∉0.54∉0.55∉0.46∉0.34∉0.44∉0.1∉0.03∉False∉The Thrill Is Gone
+https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp∉Howlin' Wolf∉blues∉3:08∉146∉A Minor∉62∉0.59∉0.66∉0.34∉0.84∉0.0∉0.26∉0.04∉False∉Smokestack Lightnin'
+https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T∉Muddy Waters∉blues∉5:21∉111∉D Major∉62∉0.61∉0.6∉0.73∉0.44∉0.0∉0.68∉0.1∉False∉Mannish Boy
+https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw∉John Lee Hooker∉blues∉2:32∉161∉A#/Bb Major∉62∉0.92∉0.44∉0.46∉0.62∉0.0∉0.14∉0.05∉False∉Boom Boom
+https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU∉Little Walter∉blues∉2:42∉158∉F Major∉59∉0.87∉0.68∉0.33∉0.86∉0∉0.32∉0.05∉False∉My Babe
+https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR∉Jimi Hendrix∉blues∉3:50∉54∉F Minor∉59∉0.48∉0.28∉0.48∉0.58∉0.02∉0.16∉0.05∉False∉Red House
+https://open.spotify.com/track/3ocm1Cf1Dk1ODrdBdybh82∉Albert King∉blues∉2:50∉92∉B Major∉58∉0.88∉0.71∉0.48∉0.43∉0.01∉0.03∉0.03∉False∉Born Under A Bad Sign - Mono Mix
+https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7∉Freddie King∉blues∉3:24∉168∉C Major∉57∉0.64∉0.56∉0.53∉0.03∉0.0∉0.11∉0.04∉False∉Going Down
+https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt∉Big Mama Thornton∉blues∉3:01∉133∉A Major∉57∉0.79∉0.56∉0.54∉0.71∉0.0∉0.35∉0.1∉False∉Hound Dog
+https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ∉Bo Diddley∉blues∉2:45∉86∉C Major∉56∉0.83∉0.51∉0.55∉0.33∉0∉0.17∉0.04∉False∉I'm A Man
+https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX∉Muddy Waters∉blues∉3:59∉114∉D Major∉56∉0.88∉0.54∉0.59∉0.67∉0.16∉0.24∉0.07∉False∉I'm Your Hoochie Coochie Man
+https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di∉Fenton Robinson∉blues∉2:57∉118∉D#/Eb Major∉56∉0.78∉0.56∉0.78∉0.64∉0.0∉0.33∉0.1∉False∉Somebody Loan Me A Dime - Remastered
+https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW∉B.B. King∉blues∉4:54∉80∉E Minor∉55∉0.34∉0.56∉0.24∉0.59∉0.2∉0.12∉0.03∉False∉Chains And Things
+https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw∉Buddy Guy∉blues∉4:35∉73∉C Major∉55∉0.34∉0.57∉0.35∉0.44∉0.0∉0.23∉0.03∉False∉Feels Like Rain (feat. Bonnie Raitt)
+https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS∉John Lee Hooker∉blues∉2:47∉202∉F Major∉54∉0.66∉0.6∉0.19∉0.51∉0.0∉0.18∉0.06∉False∉I'm In The Mood
+https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd∉Derek & The Dominos∉blues∉6:53∉170∉C Major∉54∉0.64∉0.3∉0.65∉0.64∉0.05∉0.41∉0.05∉False∉Have You Ever Loved A Woman?
+https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD∉Stevie Ray Vaughan∉blues∉2:22∉172∉G#/Ab Major∉54∉0.97∉0.55∉0.87∉0.28∉0.05∉0.17∉0.05∉False∉Love Struck Baby
+https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl∉Albert Collins∉blues∉5:19∉148∉D#/Eb Minor∉53∉0.4∉0.71∉0.28∉0.14∉0.03∉0.11∉0.04∉False∉Cold, Cold Feeling
+https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf∉Etta James∉blues∉2:58∉144∉D Major∉53∉0.43∉0.45∉0.41∉0.58∉0.0∉0.45∉0.03∉False∉Do Right Woman, Do Right Man
+https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul∉Taj Mahal∉blues∉4:50∉174∉D#/Eb Minor∉53∉0.95∉0.54∉0.5∉0.2∉0.01∉0.17∉0.05∉False∉Leaving Trunk
+https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk∉Bonnie Raitt∉blues∉3:12∉125∉B Minor∉53∉0.83∉0.59∉0.53∉0.3∉0.0∉0.2∉0.05∉False∉Love Me Like a Man - 2008 Remaster
+https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f∉Buddy Guy∉blues∉4:32∉146∉D Major∉53∉0.53∉0.35∉0.92∉0.05∉0.07∉0.31∉0.08∉False∉Damn Right, I've Got the Blues
+https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0∉Sam Maghett∉blues∉3:33∉107∉D Minor∉53∉0.78∉0.32∉0.62∉0.49∉0.0∉0.34∉0.03∉False∉All Your Love - Stereo
+https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z∉Johnny Winter∉blues∉5:15∉209∉G Minor∉53∉0.75∉0.29∉0.74∉0.28∉0.04∉0.1∉0.15∉False∉Be Careful With a Fool
+https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf∉Muddy Waters∉blues∉2:52∉114∉E Major∉52∉0.88∉0.52∉0.8∉0.58∉0.0∉0.23∉0.06∉False∉Got My Mojo Working
+https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT∉Sonny Boy Williamson II∉blues∉2:37∉111∉A Major∉52∉0.59∉0.83∉0.4∉0.62∉0.01∉0.13∉0.04∉False∉Bring It On Home
+https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7∉Fleetwood Mac∉blues∉2:53∉129∉G Minor∉52∉0.44∉0.46∉0.41∉0.05∉0.0∉0.28∉0.04∉False∉Black Magic Woman - 2018 Master
+https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY∉B.B. King∉blues∉8:35∉103∉C Major∉52∉0.94∉0.87∉0.38∉0.42∉0.32∉0.07∉0.04∉False∉To Know You Is To Love You
+https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW∉Otis Rush∉blues∉2:28∉103∉C Major∉51∉0.84∉0.63∉0.62∉0.49∉0.0∉0.2∉0.04∉False∉Working Man
+https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem∉Muddy Waters∉blues∉3:08∉169∉E Major∉52∉0.34∉0.63∉0.02∉0.99∉0.0∉0.11∉0.08∉False∉Rollin' Stone
+https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2∉The Fabulous Thunderbirds∉blues∉3:53∉121∉E Major∉51∉0.86∉0.78∉0.5∉0.5∉0.02∉0.11∉0.04∉False∉Scratch My Back
+https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN∉Jimmy Reed∉blues∉2:23∉111∉A Major∉51∉0.57∉0.75∉0.29∉0.66∉0∉0.12∉0.05∉False∉Take Out Some Insurance
+https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg∉John Lee Hooker∉blues∉3:11∉149∉B Major∉51∉0.39∉0.67∉0.17∉0.84∉0.01∉0.12∉0.06∉False∉Boogie Chillen'
+https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy∉Freddie King∉blues∉4:13∉117∉D Major∉51∉0.95∉0.64∉0.5∉0.62∉0.0∉0.18∉0.04∉False∉I'm Tore Down
+https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq∉Cream∉blues∉4:16∉132∉G Major∉50∉0.84∉0.38∉0.76∉0.44∉0.04∉0.87∉0.07∉False∉Crossroads - Live
+https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK∉Elmore James∉blues∉2:46∉178∉D Major∉50∉0.57∉0.29∉0.61∉0.02∉0.43∉0.11∉0.03∉False∉The Sky Is Crying
+https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT∉Luther Allison∉blues∉7:26∉140∉C#/Db Minor∉50∉0.47∉0.64∉0.5∉0.71∉0.25∉0.05∉0.04∉False∉Bad News Is Coming
+https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm∉B.B. King∉blues∉8:37∉118∉C Major∉51∉0.72∉0.79∉0.49∉0.24∉0.0∉0.07∉0.05∉False∉Why I Sing The Blues
+https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM∉Albert Collins∉blues∉4:56∉131∉B Major∉50∉0.77∉0.54∉0.69∉0.0∉0.19∉0.08∉0.04∉False∉T-Bone Shuffle
+https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ∉Champion Jack Dupree∉blues∉3:13∉103∉F Major∉49∉0.7∉0.78∉0.15∉0.86∉0.0∉0.1∉0.11∉False∉Junker's Blues
+https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3∉Little Walter∉blues∉2:45∉145∉E Major∉49∉0.64∉0.57∉0.66∉0.75∉0.9∉0.16∉0.07∉False∉Juke
+https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w∉Koko Taylor∉blues∉3:03∉153∉C#/Db Major∉49∉0.62∉0.65∉0.54∉0.34∉0.0∉0.09∉0.18∉False∉Wang Dang Doodle
+https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx∉John Lee Hooker∉blues∉2:14∉137∉F Major∉49∉0.88∉0.74∉0.51∉0.7∉0.0∉0.14∉0.05∉False∉Dimples
+https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1∉T-Bone Walker∉blues∉4:07∉87∉C Major∉49∉0.62∉0.73∉0.23∉0.53∉0.01∉0.07∉0.04∉False∉Mean Old World
+https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S∉Albert King∉blues∉2:36∉123∉C#/Db Major∉48∉0.96∉0.84∉0.41∉0.02∉0.78∉0.04∉0.06∉False∉Crosscut Saw - Mono Mix
+https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI∉Freddie King∉blues∉3:37∉118∉E Major∉48∉0.86∉0.68∉0.61∉0.1∉0.32∉0.16∉0.03∉False∉Stumble
+https://open.spotify.com/track/36ccrof5DFicLrejE4hEye∉Jimmy Rogers∉blues∉2:47∉117∉B Minor∉48∉0.78∉0.62∉0.52∉0.84∉0.0∉0.16∉0.1∉False∉Walking By Myself
+https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J∉Willie Dixon∉blues∉6:39∉82∉G Major∉48∉0.41∉0.47∉0.24∉0.41∉0.04∉0.21∉0.04∉False∉I Can't Quit You Baby
+https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ∉Lightnin' Hopkins∉blues∉3:00∉147∉B Minor∉47∉0.72∉0.6∉0.55∉0.46∉0.0∉0.33∉0.06∉False∉Mojo Hand
+https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ∉T-Bone Walker∉blues∉3:49∉77∉C Major∉48∉0.56∉0.54∉0.28∉0.81∉0.04∉0.07∉0.05∉False∉T-Bone Blues
+https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT∉Koko Taylor∉blues∉4:35∉109∉C Major∉47∉0.61∉0.56∉0.83∉0.11∉0.0∉0.05∉0.08∉False∉I'm A Woman
+https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ∉Allman Brothers Band∉blues∉3:48∉141∉A Minor∉47∉0.86∉0.56∉0.57∉0.06∉0.0∉0.09∉0.03∉False∉Trouble No More
+https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft∉Buddy Guy∉blues∉7:12∉175∉D Major∉47∉0.62∉0.45∉0.46∉0.81∉0.0∉0.25∉0.12∉False∉Stone Crazy
+https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY∉Nina Simone∉blues∉3:56∉182∉E Major∉47∉0.5∉0.41∉0.41∉0.53∉0∉0.18∉0.03∉False∉Blues for Mama
+https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF∉Son Seals∉blues∉6:08∉123∉B Minor∉46∉0.93∉0.5∉0.75∉0.14∉0.01∉0.09∉0.04∉False∉Sadie
+https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX∉Professor Longhair∉blues∉3:15∉152∉C#/Db Major∉46∉0.96∉0.56∉0.73∉0.22∉0.14∉0.18∉0.04∉False∉Big Chief - Remastered
+https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa∉Junior Wells∉blues∉3:02∉123∉C#/Db Major∉46∉0.71∉0.7∉0.48∉0.15∉0.03∉0.2∉0.05∉False∉She's A Sweet One
+https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa∉T-Bone Walker∉blues∉3:08∉101∉C Major∉47∉0.46∉0.61∉0.3∉0.55∉0.0∉0.04∉0.04∉False∉Call It Stormy Monday
+https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu∉Clarence Carter∉blues∉2:42∉93∉C Major∉45∉0.95∉0.69∉0.59∉0.47∉0.0∉0.35∉0.06∉False∉Part Time Love
+https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj∉Magic Sam∉blues∉2:56∉81∉B Major∉45∉0.8∉0.43∉0.7∉0.84∉0.32∉0.1∉0.16∉False∉All Your Love
+https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS∉Hound Dog Taylor∉blues∉3:30∉127∉G#/Ab Minor∉45∉0.92∉0.54∉0.72∉0.17∉0.01∉0.29∉0.04∉False∉Ain't Got Nobody
+https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM∉Mike Bloomfield∉blues∉6:55∉200∉C Major∉45∉0.68∉0.3∉0.49∉0.2∉0.63∉0.29∉0.04∉False∉Albert's Shuffle
+https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR∉Slim Harpo∉blues∉3:03∉112∉A#/Bb Minor∉45∉0.91∉0.69∉0.45∉0.42∉0.0∉0.16∉0.03∉False∉I'm A King Bee
+https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby∉Willie Dixon∉blues∉3:35∉82∉E Major∉45∉0.75∉0.58∉0.28∉0.55∉0.21∉0.26∉0.03∉False∉Little Red Rooster
+https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF∉Lafayette Leake∉blues∉4:12∉111∉A#/Bb Major∉44∉0.75∉0.77∉0.5∉0.24∉0.07∉0.09∉0.03∉False∉Short Dressed Woman
+https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4∉Son Seals∉blues∉6:02∉141∉D Major∉44∉0.46∉0.49∉0.34∉0.47∉0.0∉0.11∉0.2∉False∉Now That I'm Down
+https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx∉Otis Rush∉blues∉2:43∉106∉G Minor∉43∉0.43∉0.57∉0.42∉0.67∉0.0∉0.17∉0.04∉False∉Double Trouble
+https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG∉Zach Bryan∉country∉3:47∉78∉C Major∉91∉0.15∉0.43∉0.45∉0.55∉0.0∉0.1∉0.05∉False∉I Remember Everything (feat. Kacey Musgraves)
+https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn∉Morgan Wallen∉country∉2:44∉204∉F#/Gb Major∉84∉0.48∉0.49∉0.68∉0.47∉0∉0.14∉0.04∉True∉Last Night
+https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn∉Dolly Parton∉country∉2:42∉111∉C#/Db Minor∉77∉0.81∉0.67∉0.54∉0.57∉0∉0.13∉0.04∉False∉Jolene
+https://open.spotify.com/track/4VGR3mr2WbiD0splKGasFc∉Poor Man's Poison∉country∉3:04∉105∉E Minor∉66∉0.88∉0.5∉0.52∉0.18∉0.0∉0.08∉0.05∉False∉Providence
+https://open.spotify.com/track/103u49mLoJUge83B1CnLxI∉HARDY∉country∉2:48∉132∉C Major∉78∉0.77∉0.66∉0.77∉0.09∉0∉0.35∉0.04∉True∉TRUCK BED
+https://open.spotify.com/track/0qczuXyZQElZLvOnMYKnqm∉Nic D∉country∉2:10∉90∉C Major∉61∉0.3∉0.73∉0.55∉0.03∉0∉0.28∉0.03∉False∉It's Going Down
+https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d∉Geoff Castellucci∉country∉2:51∉140∉C#/Db Major∉62∉0.6∉0.72∉0.3∉0.77∉0.16∉0.1∉0.06∉False∉Sixteen Tons
+https://open.spotify.com/track/7yyRhjoCsdt5dDpFz2CImD∉Bryan Martin∉country∉2:44∉77∉F#/Gb Major∉72∉0.52∉0.64∉0.74∉0.06∉0.0∉0.1∉0.04∉False∉Wolves Cry
+https://open.spotify.com/track/2Gr99w5DxfeymoohLaUfyj∉Poor Man's Poison∉country∉2:43∉124∉A Minor∉47∉0.97∉0.51∉0.65∉0.16∉0.01∉0.06∉0.03∉False∉Crown Vic Headlights
+https://open.spotify.com/track/2mAznWMYehmj1bfiqvHHsK∉Cooper Alan∉country∉2:32∉90∉E Major∉62∉0.67∉0.69∉0.8∉0.12∉0.0∉0.05∉0.03∉False∉To the Bar
+https://open.spotify.com/track/1kmbMgdH81XirPnEuGQ2by∉Blues Saraceno∉country∉3:36∉74∉B Minor∉55∉0.37∉0.55∉0.44∉0.05∉0.0∉0.24∉0.04∉False∉The River
+https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2∉Kelsea Ballerini∉country∉3:13∉96∉D Major∉62∉0.49∉0.64∉0.72∉0.01∉0∉0.08∉0.05∉False∉Miss Me More
+https://open.spotify.com/track/6Mbf7uOjXUA0S48jsOl3NO∉Noah Hicks∉country∉2:34∉88∉C#/Db Major∉57∉0.6∉0.62∉0.87∉0.12∉0∉0.11∉0.05∉False∉Dirt On It
+https://open.spotify.com/track/2OqfU8bYXte0FVWEKL10KC∉Poor Man's Poison∉country∉2:37∉187∉A Minor∉61∉0.96∉0.61∉0.51∉0.56∉0∉0.23∉0.21∉False∉C'mon Down
+https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO∉Bryan Martin∉country∉3:08∉82∉D#/Eb Major∉81∉0.59∉0.62∉0.71∉0.08∉0.0∉0.18∉0.03∉True∉We Ride
+https://open.spotify.com/track/08PjS6opdc0vLlaf0Z7YIl∉Blues Saraceno∉country∉2:57∉94∉F Major∉55∉0.33∉0.47∉0.44∉0.79∉0.46∉0.13∉0.03∉False∉Dogs of War
+https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF∉Austin Snell∉country∉2:24∉180∉F#/Gb Major∉70∉0.31∉0.43∉0.81∉0.0∉0.0∉0.12∉0.04∉False∉Pray All The Way Home
+https://open.spotify.com/track/1G3ZlolapryUKQsbXf7kjS∉Cory Marks∉country∉2:44∉112∉D Major∉51∉0.57∉0.58∉0.96∉0.0∉0∉0.14∉0.06∉False∉Devil's Grin
+https://open.spotify.com/track/2Xou1sIpo8mnjzasGefllq∉Poor Man's Poison∉country∉2:28∉125∉B Minor∉52∉0.96∉0.82∉0.59∉0.46∉0.0∉0.16∉0.07∉False∉Change
+https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx∉Randy Travis∉country∉3:33∉90∉D Major∉73∉0.7∉0.68∉0.72∉0.14∉0.0∉0.16∉0.02∉False∉Forever and Ever, Amen
+https://open.spotify.com/track/3cullE25gDxeDvjRxANmDf∉Hueston∉country∉2:39∉190∉B Minor∉60∉0.15∉0.27∉0.53∉0.23∉0.0∉0.11∉0.05∉False∉Joy Ride
+https://open.spotify.com/track/4NFzce1mEWP01qTtHhsmgo∉Blues Saraceno∉country∉3:35∉91∉E Minor∉49∉0.35∉0.58∉0.47∉0.22∉0.0∉0.11∉0.03∉False∉Grave Digger
+https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw∉Bailey Zimmerman∉country∉2:59∉170∉A Major∉80∉0.65∉0.43∉0.84∉0.26∉0∉0.09∉0.04∉False∉Where It Ends
+https://open.spotify.com/track/44VMH5NwFMqtmHsUTRVDNb∉Poor Man's Poison∉country∉2:34∉77∉A Major∉56∉0.47∉0.59∉0.35∉0.54∉0.0∉0.09∉0.07∉False∉Hey Mister
+https://open.spotify.com/track/5fyqWpeDtT2vqrT2sg4Ijw∉Bryan Martin∉country∉3:21∉166∉C#/Db Major∉70∉0.68∉0.51∉0.87∉0.02∉0∉0.13∉0.05∉False∉Everyone's An Outlaw
+https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz∉Jessie Murph∉country∉2:21∉136∉C Major∉84∉0.29∉0.65∉0.69∉0.09∉0∉0.17∉0.04∉True∉Wild Ones (feat. Jelly Roll)
+https://open.spotify.com/track/0LxJRRCfKQ7BKn4jnOWVwb∉Sam Grow∉country∉2:42∉172∉B Major∉59∉0.72∉0.54∉0.8∉0.03∉0∉0.07∉0.07∉True∉Kiss My Ass
+https://open.spotify.com/track/4wgVwhGGBghHADrwfgOBEX∉Blues Saraceno∉country∉3:33∉116∉A#/Bb Minor∉48∉0.8∉0.55∉0.85∉0.0∉0.01∉0.44∉0.05∉False∉Devils Got You Beat
+https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT∉Poor Man's Poison∉country∉3:33∉130∉E Minor∉73∉0.55∉0.58∉0.57∉0.33∉0.0∉0.17∉0.04∉False∉Hell's Comin' with Me
+https://open.spotify.com/track/6W2k8I5gQGFZNQ1n97sCFV∉LECADE∉country∉2:27∉198∉A Minor∉66∉0.54∉0.46∉0.33∉0.85∉0∉0.11∉0.05∉False∉Sober Me Up
+https://open.spotify.com/track/46G8X46RVsqg0I57DjP8qh∉Austin Williams∉country∉3:08∉142∉C Minor∉61∉0.48∉0.6∉0.66∉0.05∉0∉0.18∉0.04∉False∉Wanna Be Saved
+https://open.spotify.com/track/0ZyATfTcQN9uXNbdJEDlAP∉Cody Johnson∉country∉2:41∉91∉F#/Gb Major∉68∉0.64∉0.59∉0.86∉0.03∉0∉0.11∉0.04∉False∉Welcome to the Show
+https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR∉Billy Currington∉country∉3:36∉123∉F Major∉72∉0.46∉0.72∉0.72∉0.31∉0∉0.14∉0.03∉False∉Good Directions
+https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1∉Poor Man's Poison∉country∉3:10∉90∉G#/Ab Minor∉51∉0.35∉0.57∉0.54∉0.44∉0∉0.44∉0.03∉False∉The Mask And The Mirror
+https://open.spotify.com/track/6JlGSLAAQQD2H4pQc1yRjW∉Cooper Alan∉country∉2:47∉88∉C Major∉55∉0.78∉0.61∉0.56∉0.03∉0∉0.09∉0.04∉True∉This Ain't Country
+https://open.spotify.com/track/4ObFZEXHQJcc8WQtqbCupZ∉LECADE∉country∉2:11∉179∉G#/Ab Minor∉73∉0.5∉0.45∉0.39∉0.64∉0∉0.11∉0.28∉False∉When Im Gone
+https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd∉Nate Smith∉country∉3:10∉96∉B Minor∉78∉0.41∉0.46∉0.89∉0.0∉0∉0.1∉0.04∉False∉World on Fire
+https://open.spotify.com/track/3xNF87Kg13WsLDnpRETYAB∉Jay Webb∉country∉2:07∉115∉E Major∉60∉0.63∉0.68∉0.61∉0.11∉0∉0.06∉0.07∉True∉Yee-Haw
+https://open.spotify.com/track/6tjbiaMtDqBFY2eadAIGPP∉Poor Man's Poison∉country∉3:11∉188∉C#/Db Major∉51∉0.82∉0.59∉0.51∉0.1∉0.0∉0.13∉0.16∉False∉Pressure Cracks
+https://open.spotify.com/track/2z3sXsuy0b6AGubJoTHZF6∉Ryan Jesse∉country∉3:26∉160∉D#/Eb Minor∉56∉0.24∉0.31∉0.93∉0.0∉0.0∉0.11∉0.08∉False∉Outrunning.
+https://open.spotify.com/track/7kTV0hr6wnq7qfrAqbgy7N∉Paul Cauthen∉country∉3:06∉96∉G Major∉48∉0.36∉0.7∉0.42∉0.84∉0.01∉0.2∉0.04∉False∉Everybody Walkin' This Land
+https://open.spotify.com/track/7aHzBx4XwGc0e1d7sKd5Md∉Justin Champagne∉country∉2:27∉180∉F#/Gb Major∉64∉0.56∉0.58∉0.7∉0.03∉0.04∉0.16∉0.08∉False∉When I Pull Up
+https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX∉Morgan Wallen∉country∉2:38∉121∉F#/Gb Minor∉78∉0.67∉0.64∉0.8∉0.0∉0.0∉0.36∉0.03∉True∉Ain’t That Some
+https://open.spotify.com/track/1hnfPh6AhAmp1Oyk6hgtq1∉Poor Man's Poison∉country∉4:41∉177∉D Major∉54∉0.81∉0.61∉0.43∉0.58∉0.0∉0.11∉0.06∉False∉Devils Price
+https://open.spotify.com/track/1ZUCZo5YNf1VEfvrr4vTk4∉LECADE∉country∉2:38∉127∉C#/Db Minor∉65∉0.34∉0.68∉0.83∉0.42∉0∉0.08∉0.03∉True∉Backroad
+https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE∉Rodney Atkins∉country∉2:41∉124∉G Major∉72∉0.69∉0.6∉0.81∉0.01∉0∉0.54∉0.04∉False∉Caught Up In The Country
+https://open.spotify.com/track/2VrxL3FS3m7KLzfOHUPqOx∉Corey Kent∉country∉3:04∉113∉E Minor∉69∉0.41∉0.66∉0.82∉0.02∉0.0∉0.11∉0.04∉False∉Something's Gonna Kill Me
+https://open.spotify.com/track/7pvy3nhtBIQUakHS4OjFqB∉Chase Matthew∉country∉2:54∉132∉A#/Bb Minor∉71∉0.47∉0.56∉0.82∉0.21∉0∉0.43∉0.03∉False∉Love You Again
+https://open.spotify.com/track/1Nri5Jx2GJp320o9j8kIb3∉Poor Man's Poison∉country∉4:01∉138∉E Minor∉53∉0.75∉0.43∉0.49∉0.29∉0.0∉0.16∉0.04∉False∉Black Sheep
+https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn∉Michael Marcagi∉country∉2:40∉148∉G Major∉91∉0.44∉0.53∉0.55∉0.38∉0.0∉0.4∉0.03∉False∉Scared To Start
+https://open.spotify.com/track/6wt8KAK3PEPAixC4aqlHNt∉Miracle Of Sound∉folk/acoustic∉3:43∉76∉B Minor∉60∉0.67∉0.56∉0.61∉0.43∉0.0∉0.1∉0.03∉False∉Valhalla Calling
+https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf∉X Ambassadors∉folk/acoustic∉3:15∉90∉D Major∉78∉0.53∉0.53∉0.86∉0.01∉0.06∉0.23∉0.09∉False∉Renegades
+https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI∉Hozier∉folk/acoustic∉4:02∉129∉E Minor∉84∉0.44∉0.57∉0.66∉0.63∉0∉0.12∉0.05∉False∉Take Me To Church
+https://open.spotify.com/track/0cc6vT6QJA8e39CiCGmA8B∉Perly I Lotry∉folk/acoustic∉2:07∉140∉F Minor∉56∉0.35∉0.54∉0.35∉0.78∉0∉0.22∉0.07∉False∉Song of the Vikings (My Mother Told Me)
+https://open.spotify.com/track/0eUgkunDciOOiao9Sjw3PW∉Barns Courtney∉folk/acoustic∉2:54∉95∉G Minor∉56∉0.41∉0.51∉0.86∉0.11∉0∉0.08∉0.11∉False∉Sinners
+https://open.spotify.com/track/0x64vgR9XXJStiX3Rj3IJw∉Miracle Of Sound∉folk/acoustic∉2:49∉84∉G Major∉62∉0.59∉0.62∉0.67∉0.28∉0.0∉0.31∉0.03∉False∉Skal
+https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p∉Henrik∉folk/acoustic∉2:33∉77∉A Major∉78∉0.48∉0.75∉0.31∉0.73∉0.0∉0.26∉0.03∉False∉Half of forever
+https://open.spotify.com/track/5Ua7JMWHaHTvYnvUgcyilk∉Shawn James∉folk/acoustic∉2:57∉144∉E Minor∉53∉0.46∉0.35∉0.41∉0.78∉0∉0.12∉0.03∉False∉Ain't No Sunshine
+https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj∉Barns Courtney∉folk/acoustic∉3:18∉108∉A#/Bb Minor∉67∉0.39∉0.55∉0.64∉0.21∉0.0∉0.08∉0.03∉False∉Fire
+https://open.spotify.com/track/2H0RTZvOwdFcpf8GWattYH∉Colm R. McGuinness∉folk/acoustic∉2:03∉91∉C Major∉59∉0.24∉0.23∉0.32∉0.8∉0∉0.17∉0.04∉False∉Hoist the Colours
+https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd∉KALEO∉folk/acoustic∉6:17∉92∉G#/Ab Minor∉61∉0.19∉0.37∉0.27∉0.66∉0.0∉0.08∉0.04∉False∉I Can't Go on Without You
+https://open.spotify.com/track/0IBegAy0X5uzEBgtQOSdDD∉Miracle Of Sound∉folk/acoustic∉2:33∉179∉D Major∉56∉0.69∉0.61∉0.36∉0.85∉0∉0.09∉0.04∉False∉Onwards We Row
+https://open.spotify.com/track/6YowAxI2HIbhAwumOqpldE∉Shawn James∉folk/acoustic∉3:40∉114∉D#/Eb Minor∉56∉0.36∉0.47∉0.48∉0.25∉0.0∉0.08∉0.04∉False∉Through the Valley
+https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1∉Barns Courtney∉folk/acoustic∉2:56∉170∉G#/Ab Major∉70∉0.35∉0.49∉0.62∉0.37∉0∉0.23∉0.04∉False∉Glitter & Gold
+https://open.spotify.com/track/34GWfxjJsVNCGrhIHK9wPc∉Neoni∉folk/acoustic∉2:59∉180∉G Minor∉49∉0.13∉0.32∉0.27∉0.09∉0.0∉0.13∉0.03∉False∉Carry on Wayward Son
+https://open.spotify.com/track/6Wk6A8k7NjjSsPQT9Z3FXM∉Asaf Avidan∉folk/acoustic∉2:47∉106∉D#/Eb Minor∉64∉0.28∉0.61∉0.28∉0.78∉0∉0.08∉0.2∉False∉Reckoning Song
+https://open.spotify.com/track/2KMLGJ1mPfRE4GNdL92rl3∉Sonya Belousova∉folk/acoustic∉3:10∉103∉F Minor∉55∉0.48∉0.47∉0.42∉0.92∉0.0∉0.14∉0.03∉False∉Toss A Coin To Your Witcher
+https://open.spotify.com/track/5kvDeLfKhTbCXiElGeX0bG∉Poor Man's Poison∉folk/acoustic∉2:51∉160∉F#/Gb Minor∉57∉0.86∉0.62∉0.55∉0.62∉0.0∉0.12∉0.08∉False∉Let's Go!
+https://open.spotify.com/track/2Nfl9Z37KVuVtao3utRNjc∉Miracle Of Sound∉folk/acoustic∉3:38∉184∉E Minor∉57∉0.69∉0.42∉0.68∉0.23∉0.03∉0.2∉0.04∉False∉Ode to Fury
+https://open.spotify.com/track/6xF1XzjKzFIZvxjNDFUAyx∉Alpine Universe∉folk/acoustic∉1:48∉100∉G#/Ab Minor∉55∉0.69∉0.81∉0.37∉0.93∉0.0∉0.12∉0.04∉False∉The Empire of Winds - Acoustic
+https://open.spotify.com/track/3BsoE7SgveujY2jeV2rVRw∉KALEO∉folk/acoustic∉4:26∉74∉A#/Bb Minor∉60∉0.38∉0.53∉0.76∉0.11∉0.0∉0.16∉0.04∉False∉Break My Baby
+https://open.spotify.com/track/1HkOPLwAJH3kE8UnqgxF4s∉Bon Iver∉folk/acoustic∉3:59∉76∉E Minor∉67∉0.1∉0.59∉0.26∉0.84∉0.0∉0.09∉0.04∉False∉Skinny Love
+https://open.spotify.com/track/0SenduipYMDtp044j75PV3∉Miracle Of Sound∉folk/acoustic∉3:30∉87∉C#/Db Major∉53∉0.46∉0.54∉0.64∉0.32∉0∉0.2∉0.03∉False∉To Be Better
+https://open.spotify.com/track/5uhQ01fZuuqP4azjUjwEUG∉Alpine Universe∉folk/acoustic∉1:21∉82∉F Minor∉51∉0.32∉0.53∉0.42∉0.9∉0∉0.15∉0.03∉False∉United States of a Miracle - Acoustic
+https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6∉KALEO∉folk/acoustic∉4:06∉124∉F Major∉66∉0.65∉0.78∉0.49∉0.8∉0.0∉0.1∉0.19∉False∉Broken Bones
+https://open.spotify.com/track/6ruydMg4OckIN2kxCvGaHz∉Shawn James∉folk/acoustic∉5:19∉113∉C#/Db Minor∉50∉0.21∉0.3∉0.49∉0.15∉0.0∉0.13∉0.03∉False∉The Curse of the Fold
+https://open.spotify.com/track/4pZos1A9cAsvHx5kj1O38W∉Poor Man's Poison∉folk/acoustic∉3:17∉95∉G Major∉62∉0.82∉0.67∉0.6∉0.64∉0∉0.25∉0.03∉False∉Give and Take
+https://open.spotify.com/track/4Lfp5tapFcY87K1z5s8d4E∉mehro∉folk/acoustic∉3:11∉180∉E Minor∉56∉0.26∉0.5∉0.4∉0.51∉0.07∉0.13∉0.04∉False∉pirate song
+https://open.spotify.com/track/6UtLHCRVVflLgQ0hDZQkpQ∉The Brothers Bright∉folk/acoustic∉2:53∉160∉D Major∉48∉0.45∉0.51∉0.69∉0.1∉0.0∉0.15∉0.04∉False∉Me and Mine
+https://open.spotify.com/track/5aGh0VbtaYaJBcf33nPByK∉Edwin Raphael∉folk/acoustic∉1:08∉145∉A Major∉63∉0.35∉0.36∉0.11∉0.79∉0.0∉0.13∉0.04∉False∉Thinking About You
+https://open.spotify.com/track/59A9K2G7qofpffWeT9p1hA∉WILD∉folk/acoustic∉3:00∉174∉C Major∉54∉0.58∉0.47∉0.52∉0.03∉0∉0.09∉0.03∉False∉Silver & Gold
+https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe∉Wye Oak∉folk/acoustic∉3:41∉91∉G#/Ab Minor∉57∉0.41∉0.39∉0.7∉0.0∉0.22∉0.14∉0.03∉False∉Civilian
+https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31∉KALEO∉folk/acoustic∉3:53∉128∉A#/Bb Minor∉54∉0.12∉0.54∉0.31∉0.47∉0.0∉0.19∉0.03∉False∉Backbone
+https://open.spotify.com/track/5EmnML3A4xDb5aI9iWY23F∉Lissom∉folk/acoustic∉2:43∉108∉D Minor∉58∉0.22∉0.46∉0.15∉0.97∉0.23∉0.13∉0.03∉False∉Your Name
+https://open.spotify.com/track/5FaWtN7Z1o1LzkyHi6q4xq∉Younger Hunger∉folk/acoustic∉2:10∉120∉B Minor∉49∉0.55∉0.75∉0.45∉0.85∉0∉0.22∉0.03∉False∉Dead Inside - (Stripped)
+https://open.spotify.com/track/2hhk7nZsDBQe4UlBR6o2PY∉Fish in a Birdcage∉folk/acoustic∉2:35∉148∉B Minor∉55∉0.87∉0.59∉0.41∉0.75∉0.0∉0.39∉0.03∉False∉Rule #27 - Drunk on Pride
+https://open.spotify.com/track/4jB3Mw900goYibsFAueHph∉Brent Cobb∉folk/acoustic∉3:32∉81∉C Major∉71∉0.44∉0.54∉0.36∉0.56∉0.04∉0.12∉0.03∉False∉Black Creek
+https://open.spotify.com/track/6KDAI3ZUhTTHCF6aYXNQ0X∉Alpine Universe∉folk/acoustic∉1:13∉115∉F Minor∉54∉0.17∉0.59∉0.58∉0.83∉0∉0.19∉0.05∉False∉The Saptan - Acoustic
+https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS∉Harrison Storm∉folk/acoustic∉3:21∉104∉C#/Db Minor∉64∉0.16∉0.64∉0.5∉0.66∉0.16∉0.12∉0.03∉False∉Feeling You
+https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD∉Richy Mitch & The Coal Miners∉folk/acoustic∉1:27∉79∉D#/Eb Major∉89∉0.5∉0.56∉0.22∉0.56∉0.0∉0.11∉0.07∉False∉Evergreen
+https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21∉Prismo∉electronic∉2:50∉90∉A Minor∉47∉0.23∉0.45∉0.78∉0.0∉0.0∉0.38∉0.09∉False∉Home
+https://open.spotify.com/track/665AK0ovB11McZRwfa852G∉Vicetone∉electronic∉3:18∉126∉F Major∉58∉0.33∉0.65∉0.94∉0.01∉0.92∉0.44∉0.1∉False∉Astronomia
+https://open.spotify.com/track/6Z4oCaL8tQBGQRUJRh2Gua∉K-391∉electronic∉3:53∉167∉A#/Bb Major∉53∉0.09∉0.55∉0.8∉0.09∉0.01∉0.1∉0.05∉False∉Earth
+https://open.spotify.com/track/1j3N4TCykSmXy12iUiMQWk∉Vosai∉electronic∉2:27∉176∉D Minor∉56∉0.39∉0.53∉0.72∉0.02∉0.01∉0.3∉0.2∉False∉Crossed The Line
+https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN∉Tiësto∉electronic∉2:44∉120∉G#/Ab Minor∉76∉0.23∉0.8∉0.62∉0.41∉0.02∉0.11∉0.23∉False∉The Business
+https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R∉Daft Punk∉electronic∉5:54∉100∉A#/Bb Minor∉68∉0.67∉0.83∉0.66∉0.08∉0.0∉0.08∉0.06∉False∉Lose Yourself to Dance (feat. Pharrell Williams)
+https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6∉Daft Punk∉electronic∉5:38∉110∉A#/Bb Minor∉76∉0.52∉0.78∉0.58∉0.04∉0.62∉0.08∉0.03∉False∉Instant Crush (feat. Julian Casablancas)
+https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq∉Daft Punk∉electronic∉6:10∉116∉F#/Gb Minor∉74∉0.86∉0.81∉0.79∉0.04∉0.0∉0.07∉0.04∉False∉Get Lucky (feat. Pharrell Williams and Nile Rodgers)
+https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV∉Daft Punk∉electronic∉5:20∉123∉D Major∉77∉0.48∉0.61∉0.7∉0.02∉0∉0.33∉0.13∉False∉One More Time
+https://open.spotify.com/track/247OK7W7ke06iripfvHDiw∉Daft Punk∉electronic∉4:48∉112∉G Major∉40∉0.6∉0.59∉0.79∉0.0∉0.84∉0.03∉0.05∉False∉Robot Rock
+https://open.spotify.com/track/2FTxc9WUZcKFQtFrT1oOVd∉Daft Punk∉electronic∉5:20∉136∉C Major∉31∉0.8∉0.61∉0.72∉0.0∉0.05∉0.08∉0.34∉False∉Human After All
+https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu∉Daft Punk∉electronic∉5:01∉125∉A Major∉37∉0.53∉0.64∉0.66∉0.05∉0.86∉0.34∉0.03∉False∉Digital Love
+https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN∉Daft Punk∉electronic∉7:10∉121∉G Major∉73∉0.84∉0.96∉0.8∉0.0∉0.89∉0.09∉0.15∉False∉Around the World
+https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn∉Daft Punk∉electronic∉3:45∉123∉F#/Gb Minor∉71∉0.69∉0.82∉0.72∉0.04∉0.0∉0.36∉0.14∉False∉Harder, Better, Faster, Stronger
+https://open.spotify.com/track/4RepvCWqsP6zBuzvwYibAS∉The Weeknd∉electronic∉4:29∉93∉C Minor∉0∉0.57∉0.77∉0.81∉0.43∉0∉0.1∉0.14∉False∉I Feel It Coming
+https://open.spotify.com/track/0oks4FnzhNp5QPTZtoet7c∉Daft Punk∉electronic∉9:05∉113∉A Minor∉63∉0.41∉0.74∉0.68∉0.07∉0.53∉0.38∉0.05∉False∉Giorgio by Moroder
+https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds∉Daft Punk∉electronic∉5:45∉107∉A Minor∉68∉0.12∉0.6∉0.69∉0.48∉0.95∉0.1∉0.04∉False∉Veridis Quo
+https://open.spotify.com/track/37YWwmlRl1GonSwjRuOiEq∉Daft Punk∉electronic∉6:11∉123∉B Minor∉44∉0.18∉0.57∉0.93∉0.41∉0.57∉0.11∉0.07∉False∉Aerodynamic - Daft Punk Remix
+https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof∉Daft Punk∉electronic∉4:08∉116∉F#/Gb Minor∉80∉0.86∉0.79∉0.81∉0.04∉0.0∉0.1∉0.04∉False∉Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]
+https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT∉Depeche Mode∉electronic∉3:41∉128∉C Major∉73∉0.92∉0.77∉0.77∉0.4∉0.06∉0.18∉0.04∉False∉Just Can't Get Enough
+https://open.spotify.com/track/2G2PdkATB8EADrjHhXQuPP∉Depeche Mode∉electronic∉4:11∉108∉A#/Bb Major∉48∉0.15∉0.56∉0.77∉0.33∉0.06∉0.15∉0.03∉False∉A Pain That I'm Used To
+https://open.spotify.com/track/4UCTgh5jvtqoaMX6MAhUNn∉Depeche Mode∉electronic∉3:45∉130∉B Major∉69∉0.79∉0.67∉0.9∉0.09∉0.02∉0.05∉0.04∉False∉Personal Jesus - Single Version
+https://open.spotify.com/track/1cBxAm8a0fENn2ix3Dfm3u∉Depeche Mode∉electronic∉4:10∉105∉C#/Db Major∉66∉0.86∉0.57∉0.88∉0.1∉0.05∉0.1∉0.03∉False∉Precious
+https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP∉Depeche Mode∉electronic∉4:48∉106∉C Major∉65∉0.58∉0.58∉0.9∉0.3∉0.03∉0.7∉0.04∉False∉Never Let Me Down Again
+https://open.spotify.com/track/0Mb20VmqR2lvtgbEermW2v∉Depeche Mode∉electronic∉4:54∉114∉G#/Ab Major∉64∉0.37∉0.69∉0.64∉0.01∉0.2∉0.13∉0.03∉False∉Policy of Truth
+https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa∉Depeche Mode∉electronic∉6:13∉113∉C Minor∉61∉0.22∉0.38∉0.59∉0.35∉0.02∉0.12∉0.03∉False∉Enjoy the Silence
+https://open.spotify.com/track/7HDWE2Ib7cjkhzULV4K8y3∉Depeche Mode∉electronic∉5:59∉99∉A#/Bb Minor∉62∉0.18∉0.6∉0.76∉0.01∉0.05∉0.08∉0.03∉False∉It's No Good
+https://open.spotify.com/track/6ZCyDN2ArlWB4GKAj644Cd∉Depeche Mode∉electronic∉3:46∉119∉E Minor∉62∉0.87∉0.57∉0.96∉0.04∉0.0∉0.35∉0.04∉False∉Strangelove
+https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac∉Marshmello∉electronic∉2:36∉100∉F Minor∉73∉0.18∉0.79∉0.56∉0.06∉0∉0.16∉0.04∉False∉Here With Me
+https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99∉Marshmello∉electronic∉3:34∉100∉F Major∉27∉0.67∉0.69∉0.79∉0.19∉0∉0.17∉0.05∉False∉Happier
+https://open.spotify.com/track/12mGwph2YzDIlChtq3EdXP∉Marshmello∉electronic∉4:34∉142∉D Major∉0∉0.4∉0.64∉0.95∉0.02∉0.02∉0.11∉0.04∉False∉Alone
+https://open.spotify.com/track/1Hk0QRlUFCHYG6zIvUh0Xd∉Marshmello∉electronic∉3:53∉142∉F#/Gb Major∉54∉0.25∉0.58∉0.75∉0.01∉0.02∉0.22∉0.03∉False∉Summer
+https://open.spotify.com/track/6Hx9gLuAKkOfoZoL79OSI1∉DJ Snake∉electronic∉3:00∉120∉G#/Ab Major∉48∉0.25∉0.66∉0.81∉0.02∉0∉0.14∉0.04∉False∉Let Me Love You - Marshmello Remix
+https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR∉Marshmello∉electronic∉3:29∉93∉A Minor∉44∉0.68∉0.73∉0.46∉0.79∉0∉0.21∉0.09∉False∉FRIENDS - Acoustic
+https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU∉Marshmello∉electronic∉3:01∉142∉E Major∉82∉0.29∉0.52∉0.76∉0.26∉0.0∉0.17∉0.09∉False∉Silence
+https://open.spotify.com/track/7EmGUiUaOSGDnUUQUDrOXC∉Selena Gomez∉electronic∉3:18∉125∉B Minor∉0∉0.33∉0.71∉0.8∉0.14∉0∉0.18∉0.04∉False∉Wolves
+https://open.spotify.com/track/6TdweeWiGv35hKXn3tARjA∉Marshmello∉electronic∉3:11∉156∉C Major∉47∉0.93∉0.6∉0.9∉0.23∉0∉0.55∉0.04∉False∉You & Me
+https://open.spotify.com/track/6Ehy8wRUYjAZcMMRCxMZVM∉Marshmello∉electronic∉2:59∉142∉C Major∉53∉0.67∉0.69∉0.8∉0.0∉0.06∉0.21∉0.04∉False∉Moving On
+https://open.spotify.com/track/2HO0uCyq8jOveEzvmo4JEu∉Marshmello∉electronic∉3:14∉135∉E Major∉57∉0.15∉0.63∉0.9∉0.0∉0.85∉0.2∉0.04∉False∉Fly
+https://open.spotify.com/track/6kwH41LJ6hfxlGn2c4oh6Y∉Marshmello∉electronic∉4:07∉142∉A#/Bb Minor∉46∉0.31∉0.57∉0.7∉0.0∉0.92∉0.1∉0.03∉False∉Together
+https://open.spotify.com/track/6pbhkfdG5RvTJaC3VKPaJn∉Marshmello∉electronic∉2:57∉142∉A#/Bb Minor∉47∉0.66∉0.7∉0.91∉0.03∉0∉0.2∉0.07∉False∉Rooftops
+https://open.spotify.com/track/4wXum3jZgEGLxScTygQ5US∉Marshmello∉electronic∉3:30∉142∉A Minor∉45∉0.56∉0.56∉0.84∉0.0∉0.01∉0.43∉0.07∉False∉Blocks
+https://open.spotify.com/track/6GRMKQ3RrivYgLEO6h7ebu∉Marshmello∉electronic∉4:07∉142∉G#/Ab Major∉56∉0.8∉0.51∉0.96∉0.01∉0.97∉0.07∉0.04∉False∉Stars
+https://open.spotify.com/track/2D6VbgcGFSBhhZJHbVAN1Q∉Marshmello∉electronic∉3:53∉142∉G Minor∉43∉0.19∉0.59∉0.91∉0.02∉0.69∉0.74∉0.05∉False∉Take It Back
+https://open.spotify.com/track/1VxogbO6bfygdfaCnE9oLb∉Marshmello∉electronic∉3:15∉150∉D#/Eb Minor∉51∉0.41∉0.57∉0.95∉0.0∉0.0∉0.17∉0.04∉False∉Chasing Colors (feat. Noah Cyrus)
+https://open.spotify.com/track/4Y96sBPDQARk39recOzBo9∉Marshmello∉electronic∉3:28∉142∉D Minor∉39∉0.77∉0.53∉0.95∉0.1∉0.01∉0.29∉0.04∉False∉Love U
+https://open.spotify.com/track/68pL3hokJXKJ1vJSaEhKr7∉Marshmello∉electronic∉3:48∉145∉G#/Ab Major∉41∉0.69∉0.56∉0.89∉0.01∉0.81∉0.06∉0.04∉False∉Home
+https://open.spotify.com/track/5UthTi0MlB4K0TznWFynNn∉Marshmello∉electronic∉3:51∉110∉G#/Ab Major∉39∉0.23∉0.7∉0.93∉0.0∉0.05∉0.42∉0.03∉False∉Imagine
+https://open.spotify.com/track/7fEfIU4ZVvB5Wb6xg2zcvx∉Marshmello∉electronic∉3:40∉142∉A Minor∉41∉0.12∉0.5∉0.96∉0.01∉0.0∉0.53∉0.05∉False∉Paralyzed
+https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G∉Marshmello∉electronic∉3:23∉95∉A Minor∉78∉0.53∉0.63∉0.88∉0.2∉0∉0.13∉0.05∉True∉FRIENDS
+https://open.spotify.com/track/1LwVrOwwPJPU5lVuQDPnGA∉Marshmello∉electronic∉3:40∉142∉C Major∉43∉0.87∉0.62∉0.97∉0.0∉0.55∉0.55∉0.08∉False∉Check This Out
+https://open.spotify.com/track/1V3BpCUSyBt9PDZ309652A∉Marshmello∉electronic∉3:03∉142∉C Major∉41∉0.73∉0.71∉0.94∉0.01∉0.95∉0.19∉0.04∉False∉Want U 2
+https://open.spotify.com/track/6aWiGv6hPG0o3ri7QHNs8t∉Marshmello∉electronic∉3:00∉142∉C Major∉47∉0.17∉0.56∉0.89∉0.0∉0.0∉0.33∉0.05∉False∉Find Me
+https://open.spotify.com/track/621yo2vtUSnmTfmENTKoNm∉Marshmello∉electronic∉3:42∉140∉C#/Db Minor∉40∉0.97∉0.58∉0.9∉0.0∉0.73∉0.08∉0.04∉False∉Power
+https://open.spotify.com/track/6E8UKOaI2A1LQjWYMFLyJI∉Marshmello∉electronic∉2:46∉100∉D Major∉40∉0.49∉0.62∉0.92∉0.04∉0.0∉0.08∉0.03∉False∉Alone - MRVLZ Remix
+https://open.spotify.com/track/72J8O7kyKTicwoUxuu0eYy∉Marshmello∉electronic∉3:15∉95∉A Minor∉29∉0.73∉0.69∉0.73∉0.02∉0∉0.09∉0.07∉True∉FRIENDS - Justin Caruso Remix
+https://open.spotify.com/track/6IQPHQf50A6ejwaTUMUQya∉Marshmello∉electronic∉3:08∉135∉F#/Gb Major∉39∉0.41∉0.65∉0.88∉0.0∉0.91∉0.24∉0.03∉False∉Colour
+https://open.spotify.com/track/0gsDBm94QELEJAcGS59f1b∉Marshmello∉electronic∉2:46∉142∉C Major∉40∉0.43∉0.58∉0.9∉0.01∉0.7∉0.11∉0.03∉False∉Flashbacks
+https://open.spotify.com/track/0JiVRyTJcJnmlwCZ854K4p∉Alan Walker∉electronic∉2:41∉97∉A#/Bb Major∉61∉0.16∉0.68∉0.93∉0.19∉0.0∉0.12∉0.05∉False∉Alone
+https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ∉Alan Walker∉electronic∉3:14∉128∉C#/Db Minor∉73∉0.2∉0.65∉0.71∉0.02∉0.0∉0.09∉0.04∉False∉The Spectre
+https://open.spotify.com/track/7gHs73wELdeycvS48JfIos∉Alan Walker∉electronic∉3:33∉90∉F#/Gb Major∉71∉0.17∉0.59∉0.65∉0.03∉0.0∉0.11∉0.03∉False∉Faded
+https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58∉Alan Walker∉electronic∉3:30∉90∉G#/Ab Minor∉70∉0.48∉0.68∉0.86∉0.02∉0.0∉0.19∉0.12∉False∉Ignite
+https://open.spotify.com/track/4heFQCyiW0RUEX1Q1lb008∉Alan Walker∉electronic∉3:23∉130∉G Minor∉58∉0.33∉0.6∉0.75∉0.06∉0∉0.13∉0.04∉False∉Different World (feat. CORSAK)
+https://open.spotify.com/track/5yFSF6qQA1rcLsQRnBsZgb∉Alan Walker∉electronic∉3:19∉98∉C#/Db Major∉62∉0.66∉0.66∉0.68∉0.3∉0∉0.36∉0.06∉False∉All Falls Down (feat. Juliander)
+https://open.spotify.com/track/4s6PYL51msvsxDjME9i6OM∉Alok∉electronic∉2:38∉100∉D Minor∉63∉0.3∉0.63∉0.75∉0.01∉0.0∉0.16∉0.03∉False∉Headlights (feat. KIDDO)
+https://open.spotify.com/track/2Fjz5ZC5BvFdCqcnTZ3ilH∉Alan Walker∉electronic∉3:09∉176∉E Minor∉59∉0.17∉0.49∉0.61∉0.01∉0.0∉0.29∉0.07∉False∉Sing Me to Sleep
+https://open.spotify.com/track/5GDpODnukzZZIXXjPWOrDQ∉Alan Walker∉electronic∉3:23∉130∉G Minor∉0∉0.18∉0.7∉0.84∉0.0∉0.8∉0.16∉0.04∉False∉Sky
+https://open.spotify.com/track/1snWlbcbgQpJfknoI30DWG∉Alan Walker∉electronic∉3:32∉170∉E Minor∉60∉0.11∉0.42∉0.64∉0.16∉0∉0.12∉0.05∉False∉Darkside
+https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT∉Alan Walker∉electronic∉4:00∉90∉C Major∉58∉0.25∉0.5∉0.64∉0.13∉0∉0.63∉0.04∉False∉Diamond Heart
+https://open.spotify.com/track/4YhITuwINLCfXYB2WCXbCZ∉Various Artists∉electronic∉0:00∉105∉C#/Db Minor∉0∉0.26∉0.6∉0.54∉0.0∉0.06∉0.07∉0.06∉False∉
+https://open.spotify.com/track/4m63ZA9od3vICn0AOEG5qo∉Alan Walker∉electronic∉2:36∉90∉F#/Gb Minor∉49∉0.26∉0.69∉0.67∉0.03∉0.0∉0.35∉0.04∉False∉Sheep (Alan Walker Relift)
+https://open.spotify.com/track/7kVDkZkZc8qBUBsF6klUoY∉Alan Walker∉electronic∉2:42∉149∉B Major∉56∉0.52∉0.42∉0.75∉0.14∉0∉0.24∉0.27∉False∉I Don't Wanna Go
+https://open.spotify.com/track/6SDQETfHW9JT9p99S3nB44∉Alan Walker∉electronic∉3:36∉128∉G Major∉48∉0.04∉0.51∉0.65∉0.29∉0.81∉0.08∉0.05∉False∉Time - Alan Walker Remix - Extended Version
+https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46∉Sia∉electronic∉3:38∉128∉A#/Bb Minor∉65∉0.4∉0.64∉0.79∉0.08∉0.0∉0.39∉0.09∉False∉Move Your Body - Alan Walker Remix
+https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml∉K-391∉electronic∉2:48∉102∉F#/Gb Minor∉70∉0.17∉0.52∉0.8∉0.1∉0∉0.09∉0.04∉False∉Play
+https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf∉K-391∉electronic∉3:08∉116∉E Minor∉65∉0.19∉0.81∉0.7∉0.27∉0.0∉0.14∉0.04∉False∉End of Time
+https://open.spotify.com/track/4dPjk0ZHgfeEzDyh2YT6jO∉Alan Walker∉electronic∉2:45∉176∉F Minor∉48∉0.17∉0.55∉0.56∉0.44∉0.07∉0.12∉0.05∉False∉Sorry
+https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR∉VIZE∉electronic∉3:00∉128∉G Major∉59∉0.24∉0.9∉0.76∉0.23∉0.0∉0.1∉0.11∉False∉Space Melody (Edward Artemyev) (feat. Leony)
+https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3∉Alan Walker∉electronic∉2:59∉88∉D#/Eb Minor∉70∉0.61∉0.67∉0.67∉0.54∉0∉0.13∉0.04∉False∉Alone, Pt. II
+https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq∉Alan Walker∉electronic∉3:14∉170∉C#/Db Minor∉72∉0.3∉0.51∉0.69∉0.02∉0∉0.3∉0.1∉True∉On My Way
+https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp∉Alan Walker∉electronic∉2:19∉125∉G Major∉72∉0.43∉0.77∉0.82∉0.02∉0.0∉0.16∉0.04∉False∉Sweet Dreams
+https://open.spotify.com/track/4QwNKEWMM7dyLB7Ew9DHHg∉Avicii∉electronic∉3:00∉103∉F Major∉56∉0.43∉0.64∉0.79∉0.29∉0∉0.23∉0.05∉False∉Lonely Together - (feat. Rita Ora) Alan Walker Remix
+https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr∉Alan Walker∉electronic∉2:35∉122∉A#/Bb Minor∉60∉0.33∉0.66∉0.6∉0.02∉0.09∉0.11∉0.13∉False∉Dreamer
+https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F∉Alan Walker∉electronic∉2:55∉126∉F Major∉67∉0.07∉0.59∉0.68∉0.05∉0.0∉0.15∉0.03∉False∉Hero
+https://open.spotify.com/track/5M4fVUCKf3nFN1hbQEuFwA∉Alan Walker∉electronic∉2:32∉130∉A Minor∉63∉0.38∉0.51∉0.69∉0.03∉0∉0.15∉0.05∉False∉Better Off (Alone, Pt. III)
+https://open.spotify.com/track/6IE6DtVDkPotP6rApA7a10∉Vicetone∉electronic∉3:18∉124∉E Minor∉56∉0.14∉0.6∉0.92∉0.02∉0.0∉0.36∉0.03∉False∉Animal
+https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn∉Twenty One Pilots∉electronic∉3:22∉170∉E Minor∉85∉0.65∉0.73∉0.64∉0.05∉0.0∉0.06∉0.14∉False∉Stressed Out
+https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW∉Twenty One Pilots∉electronic∉3:35∉75∉F#/Gb Major∉82∉0.57∉0.65∉0.71∉0.01∉0∉0.11∉0.04∉False∉Ride
+https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ∉Twenty One Pilots∉electronic∉3:59∉127∉B Minor∉68∉0.23∉0.62∉0.61∉0.01∉0.16∉0.2∉0.04∉False∉Jumpsuit
+https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD∉Twenty One Pilots∉electronic∉3:49∉109∉C#/Db Major∉70∉0.67∉0.75∉0.72∉0.06∉0.02∉0.1∉0.04∉False∉My Blood
+https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau∉Twenty One Pilots∉electronic∉5:24∉90∉A#/Bb Minor∉76∉0.32∉0.61∉0.67∉0.07∉0.06∉0.34∉0.05∉False∉Chlorine
+https://open.spotify.com/track/7I3skNaQdvZSS7zXY2VHId∉Twenty One Pilots∉electronic∉4:25∉87∉A Major∉63∉0.37∉0.53∉0.82∉0.01∉0.0∉0.38∉0.05∉False∉The Hype
+https://open.spotify.com/track/5G6Gt9RtNaeIE418pd4yre∉Twenty One Pilots∉electronic∉2:57∉151∉F#/Gb Major∉63∉0.52∉0.76∉0.55∉0.3∉0.0∉0.08∉0.14∉False∉Smithereens
+https://open.spotify.com/track/7daBwTiPNOVgoMUG4SICgh∉Twenty One Pilots∉electronic∉3:18∉110∉G Minor∉60∉0.35∉0.65∉0.68∉0.06∉0.0∉0.27∉0.2∉False∉Pet Cheetah
+https://open.spotify.com/track/1CDVadnneswMxi6gBqJTtC∉Twenty One Pilots∉electronic∉2:53∉86∉C Major∉60∉0.8∉0.72∉0.57∉0.09∉0.0∉0.08∉0.04∉False∉Legend
+https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx∉Twenty One Pilots∉electronic∉3:43∉142∉G Major∉63∉0.58∉0.7∉0.66∉0.31∉0.0∉0.25∉0.04∉False∉Choker
+https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi∉Twenty One Pilots∉electronic∉2:55∉97∉A Minor∉69∉0.64∉0.59∉0.86∉0.0∉0.07∉0.24∉0.03∉False∉Shy Away
+https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj∉Twenty One Pilots∉electronic∉3:44∉170∉D Major∉65∉0.72∉0.67∉0.54∉0.01∉0∉0.33∉0.05∉False∉Mulberry Street
+https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr∉Twenty One Pilots∉electronic∉3:16∉90∉E Minor∉81∉0.55∉0.73∉0.4∉0.08∉0.0∉0.1∉0.03∉False∉Heathens
+https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8∉Twenty One Pilots∉electronic∉3:40∉122∉E Minor∉65∉0.77∉0.75∉0.58∉0.32∉0.0∉0.14∉0.04∉False∉Level of Concern
+https://open.spotify.com/track/4rfaoyaZvNa60cj3OKSQV9∉Twenty One Pilots∉electronic∉3:59∉174∉C Major∉68∉0.41∉0.69∉0.68∉0.11∉0∉0.25∉0.15∉False∉Migraine
+https://open.spotify.com/track/3C3cr2JQwXIhqAHqOardVO∉Twenty One Pilots∉electronic∉4:24∉90∉B Major∉67∉0.81∉0.61∉0.78∉0.24∉0∉0.07∉0.05∉False∉Holding on to You
+https://open.spotify.com/track/2P61EK6DMGyVyssLWS4fKy∉Twenty One Pilots∉electronic∉4:13∉160∉G Major∉66∉0.91∉0.62∉0.81∉0.06∉0.0∉0.06∉0.06∉False∉Lane Boy
+https://open.spotify.com/track/22OqansuvEMQu9W0EfiGTI∉Twenty One Pilots∉electronic∉2:57∉120∉A Major∉64∉0.64∉0.55∉0.94∉0.23∉0.0∉0.17∉0.1∉False∉We Don't Believe What's on TV
+https://open.spotify.com/track/7qxjGHW485TL8ciwkHD5MK∉Twenty One Pilots∉electronic∉3:58∉115∉D Major∉62∉0.53∉0.77∉0.71∉0.06∉0.0∉0.1∉0.03∉False∉Not Today
+https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt∉Twenty One Pilots∉electronic∉3:45∉140∉A Minor∉69∉0.33∉0.73∉0.6∉0.07∉0.0∉0.32∉0.18∉False∉Nico and the Niners
+https://open.spotify.com/track/6gFtgkh8ShkrJn52Cbdhxy∉Twenty One Pilots∉electronic∉4:43∉112∉E Major∉61∉0.68∉0.64∉0.56∉0.12∉0.0∉0.36∉0.04∉False∉Cut My Lip
+https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4∉Twenty One Pilots∉electronic∉3:08∉120∉D Major∉76∉0.45∉0.66∉0.63∉0.02∉0∉0.07∉0.05∉False∉Tear in My Heart
+https://open.spotify.com/track/6gDTyTnFxpvQtkgGuNWGbE∉Twenty One Pilots∉electronic∉4:13∉110∉G Minor∉59∉0.2∉0.23∉0.52∉0.39∉0∉0.29∉0.04∉False∉Friend, Please
+https://open.spotify.com/track/77vDHmiANW3JS2gNN5q7pI∉Twenty One Pilots∉electronic∉3:02∉120∉F Major∉62∉0.7∉0.82∉0.77∉0.24∉0.01∉0.09∉0.06∉False∉Fall Away
+https://open.spotify.com/track/2hUFjIbpKaRqs97OjUAmXb∉Twenty One Pilots∉electronic∉4:39∉115∉C Major∉59∉0.36∉0.56∉0.84∉0.01∉0.0∉0.24∉0.05∉False∉Johnny Boy
+https://open.spotify.com/track/4XvPIfb0MW8bdBuYkdk8wP∉Twenty One Pilots∉electronic∉4:26∉170∉D#/Eb Major∉0∉0.81∉0.58∉0.59∉0.34∉0∉0.1∉0.05∉False∉Glowing Eyes
+https://open.spotify.com/track/6cHYuLc3W90bBlpgCQv2bs∉Twenty One Pilots∉electronic∉3:51∉115∉F#/Gb Major∉40∉0.73∉0.84∉0.61∉0.25∉0.0∉0.09∉0.05∉False∉Fake You Out
+https://open.spotify.com/track/2EDI0r2F9Qhvi7XiEoctHH∉Twenty One Pilots∉electronic∉4:27∉140∉F#/Gb Major∉39∉0.32∉0.58∉0.83∉0.0∉0.0∉0.17∉0.04∉False∉Trees
+https://open.spotify.com/track/3qb6rXjIeCQl1br4JBYHYs∉Twenty One Pilots∉electronic∉4:19∉120∉G Major∉38∉0.53∉0.68∉0.77∉0.14∉0∉0.09∉0.04∉False∉Lovely - Bonus Track
+https://open.spotify.com/track/60U90nlaUsfUJtUF0AhVwB∉Twenty One Pilots∉electronic∉4:14∉105∉F#/Gb Minor∉38∉0.36∉0.78∉0.72∉0.05∉0.0∉0.07∉0.04∉False∉Semi-Automatic
+https://open.spotify.com/track/2jfyY5GIc7wsYVIrCnjblC∉Twenty One Pilots∉electronic∉2:56∉137∉F#/Gb Minor∉60∉0.73∉0.65∉0.56∉0.01∉0.0∉0.06∉0.03∉False∉Formidable
+https://open.spotify.com/track/1edgaGx2x2AQeWtL2OPEMW∉Twenty One Pilots∉electronic∉3:33∉118∉A Major∉57∉0.78∉0.75∉0.73∉0.01∉0.0∉0.07∉0.03∉False∉Never Take It
+https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J∉Twenty One Pilots∉electronic∉3:37∉101∉B Major∉66∉0.71∉0.79∉0.62∉0.05∉0.12∉0.05∉0.04∉False∉The Outside
+https://open.spotify.com/track/2uBhGx3m5iJrtsql8Qk00j∉Twenty One Pilots∉electronic∉2:26∉93∉F#/Gb Minor∉65∉0.22∉0.7∉0.93∉0.09∉0.23∉0.11∉0.17∉False∉Levitate
+https://open.spotify.com/track/773xZHHSHJvC1z3AAtWgH6∉Twenty One Pilots∉electronic∉5:08∉150∉G Major∉63∉0.51∉0.45∉0.76∉0.01∉0.0∉0.23∉0.05∉False∉Ode to Sleep
+https://open.spotify.com/track/4RdRa3qq0GBSKjomxrkh5K∉Twenty One Pilots∉electronic∉4:33∉130∉C#/Db Major∉66∉0.52∉0.68∉0.86∉0.01∉0.0∉0.08∉0.03∉False∉Guns for Hands
+https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y∉Twenty One Pilots∉electronic∉4:19∉90∉G#/Ab Minor∉66∉0.52∉0.73∉0.61∉0.07∉0.0∉0.1∉0.08∉False∉Morph
+https://open.spotify.com/track/1lguQJjlNrIOoOylYVZN3M∉Twenty One Pilots∉electronic∉4:58∉83∉C Major∉64∉0.59∉0.42∉0.8∉0.18∉0∉0.14∉0.12∉False∉The Judge
+https://open.spotify.com/track/2XPmTamsj7d9i3gzLCL4JI∉Twenty One Pilots∉electronic∉4:06∉83∉G#/Ab Minor∉64∉0.4∉0.63∉0.65∉0.16∉0.0∉0.07∉0.08∉False∉Redecorate
+https://open.spotify.com/track/2GkmE8BrD00ngyjs2PT9Fp∉Twenty One Pilots∉electronic∉3:05∉142∉E Minor∉58∉0.58∉0.7∉0.7∉0.27∉0.0∉0.33∉0.06∉False∉Bounce Man
+https://open.spotify.com/track/1pKmfhwbZvsyYUP2eOGdw5∉Twenty One Pilots∉electronic∉3:49∉150∉C Major∉60∉0.84∉0.72∉0.71∉0.1∉0∉0.14∉0.06∉False∉Screen
+https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P∉Twenty One Pilots∉electronic∉4:28∉130∉A Minor∉71∉0.61∉0.77∉0.52∉0.1∉0∉0.09∉0.04∉False∉Car Radio
+https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP∉Twenty One Pilots∉electronic∉3:55∉120∉D Minor∉67∉0.39∉0.68∉0.75∉0.06∉0.0∉0.36∉0.03∉False∉Hometown
+https://open.spotify.com/track/6GmkJJMe9U1tEcrJ3Hq3A1∉Twenty One Pilots∉electronic∉3:47∉165∉F#/Gb Minor∉63∉0.63∉0.6∉0.67∉0.12∉0.0∉0.1∉0.04∉False∉Polarize
+https://open.spotify.com/track/6QOZWUCG5vq4xtU3mW2ZA2∉Twenty One Pilots∉electronic∉3:33∉100∉A Major∉58∉0.59∉0.73∉0.64∉0.16∉0∉0.32∉0.03∉False∉The Pantaloon
+https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp∉Twenty One Pilots∉electronic∉5:31∉127∉B Minor∉61∉0.43∉0.66∉0.52∉0.26∉0.02∉0.1∉0.03∉False∉Bandito
+https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy∉Twenty One Pilots∉electronic∉3:55∉130∉G Minor∉73∉0.39∉0.61∉0.87∉0.0∉0.0∉0.37∉0.04∉False∉Heavydirtysoul
+https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp∉Twenty One Pilots∉electronic∉2:44∉115∉C Major∉70∉0.85∉0.68∉0.69∉0.45∉0∉0.21∉0.04∉False∉House of Gold
+https://open.spotify.com/track/5bPBJbixO0yYYvm4bjtRup∉Twenty One Pilots∉electronic∉6:03∉90∉A Minor∉45∉0.56∉0.47∉0.77∉0.04∉0.0∉0.07∉0.25∉False∉Lane Boy / Redecorate / Chlorine - Livestream Version
+https://open.spotify.com/track/70oK6ePjILgOuBUzRDOfCR∉Twenty One Pilots∉electronic∉4:14∉110∉G#/Ab Major∉54∉0.13∉0.52∉0.44∉0.07∉0∉0.11∉0.03∉False∉Air Catcher
+https://open.spotify.com/track/7CdYyn6uUyzysY5z7gubZq∉Twenty One Pilots∉electronic∉2:39∉119∉C Major∉36∉0.37∉0.5∉0.27∉0.85∉0∉0.11∉0.04∉False∉Can't Help Falling in Love
+https://open.spotify.com/track/5P3yUXUC9rZPJPNmYGKEAz∉Twenty One Pilots∉electronic∉3:57∉96∉F#/Gb Minor∉61∉0.22∉0.56∉0.44∉0.19∉0.0∉0.07∉0.04∉False∉Goner
+https://open.spotify.com/track/4Oyl6oYSNeeZZP0OAxPVaU∉Twenty One Pilots∉electronic∉4:00∉120∉D Minor∉64∉0.5∉0.71∉0.84∉0.09∉0∉0.15∉0.12∉False∉Message Man
+https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe∉Frank Sinatra∉jazz∉4:37∉75∉D Major∉73∉0.23∉0.4∉0.38∉0.7∉0∉0.12∉0.03∉False∉My Way
+https://open.spotify.com/track/5EIXjYOsrrqf2VYmL9GReV∉Frank Sinatra∉jazz∉3:26∉108∉D Major∉0∉0.56∉0.44∉0.41∉0.28∉0∉0.12∉0.03∉False∉Theme From New York, New York
+https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB∉Frank Sinatra∉jazz∉2:30∉118∉F Major∉55∉0.25∉0.61∉0.2∉0.46∉0.0∉0.05∉0.04∉False∉Fly Me To The Moon (In Other Words)
+https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp∉Frank Sinatra∉jazz∉3:44∉127∉C#/Db Major∉66∉0.59∉0.58∉0.25∉0.45∉0.0∉0.11∉0.04∉False∉I've Got You Under My Skin - Remastered 1998
+https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo∉Frank Sinatra∉jazz∉3:22∉132∉F Minor∉69∉0.59∉0.62∉0.24∉0.8∉0∉0.14∉0.04∉False∉The Way You Look Tonight
+https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x∉Frank Sinatra∉jazz∉2:38∉90∉F Major∉72∉0.54∉0.26∉0.47∉0.59∉0∉0.2∉0.03∉False∉Strangers In The Night
+https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2∉Frank Sinatra∉jazz∉3:14∉128∉G#/Ab Minor∉57∉0.65∉0.55∉0.14∉0.52∉0∉0.19∉0.04∉False∉The Lady Is A Tramp - Remastered 1998
+https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R∉Frank Sinatra∉jazz∉2:57∉125∉A Major∉64∉0.57∉0.58∉0.31∉0.38∉0∉0.18∉0.04∉False∉You Make Me Feel So Young - Remastered 1998
+https://open.spotify.com/track/4LfgeOiPsAjDgDYSgmntCU∉Frank Sinatra∉jazz∉2:10∉123∉D Major∉48∉0.5∉0.57∉0.37∉0.81∉0∉0.3∉0.05∉False∉I've Got The World On A String
+https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3∉Frank Sinatra∉jazz∉2:14∉148∉F Major∉52∉0.79∉0.51∉0.46∉0.61∉0∉0.4∉0.07∉False∉Chicago - Remastered
+https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm∉Frank Sinatra∉jazz∉3:07∉113∉E Minor∉71∉0.66∉0.56∉0.43∉0.55∉0∉0.35∉0.07∉False∉That's Life
+https://open.spotify.com/track/1id6N5Y8662aKNlmR5eM92∉Antônio Carlos Jobim∉jazz∉3:15∉134∉F Major∉0∉0.39∉0.54∉0.26∉0.82∉0.0∉0.15∉0.04∉False∉The Girl From Ipanema
+https://open.spotify.com/track/6fiFNYu2041YiEqSijti88∉Frank Sinatra∉jazz∉2:53∉116∉C Major∉43∉0.43∉0.5∉0.25∉0.71∉0∉0.16∉0.03∉False∉Witchcraft - Remastered 2000
+https://open.spotify.com/track/0UgJXbeHm3KBKRaRyh7Tc2∉Frank Sinatra∉jazz∉2:53∉144∉A#/Bb Minor∉48∉0.53∉0.48∉0.21∉0.89∉0∉0.19∉0.03∉False∉I Get A Kick Out Of You - Remastered
+https://open.spotify.com/track/3F3j5eNCH4O4cyQ3O90zgT∉Frank Sinatra∉jazz∉2:49∉85∉G#/Ab Major∉37∉0.43∉0.28∉0.25∉0.78∉0∉0.38∉0.03∉False∉Young At Heart
+https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV∉Frank Sinatra∉jazz∉2:42∉207∉E Major∉79∉0.54∉0.26∉0.34∉0.74∉0∉0.25∉0.04∉False∉Somethin' Stupid
+https://open.spotify.com/track/78r8EbYoIeO4xDz2pwIuAh∉Frank Sinatra∉jazz∉2:56∉120∉D Minor∉37∉0.55∉0.56∉0.33∉0.71∉0∉0.21∉0.04∉False∉(Love Is) The Tender Trap
+https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7∉Frank Sinatra∉jazz∉5:14∉151∉G#/Ab Major∉54∉0.5∉0.36∉0.4∉0.74∉0∉0.28∉0.05∉False∉Luck Be A Lady
+https://open.spotify.com/track/1GcPhT7osBb4LEJnQ0tmfj∉Frank Sinatra∉jazz∉3:16∉134∉B Major∉49∉0.48∉0.47∉0.44∉0.71∉0∉0.14∉0.04∉False∉Come Fly With Me
+https://open.spotify.com/track/2cI7j96n1rfv4RNKuri4or∉Frank Sinatra∉jazz∉2:58∉87∉F Minor∉60∉0.52∉0.44∉0.36∉0.37∉0∉0.18∉0.03∉False∉Summer Wind
+https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P∉Frank Sinatra∉jazz∉2:53∉75∉C#/Db Major∉46∉0.17∉0.17∉0.31∉0.51∉0.0∉0.29∉0.04∉False∉All The Way - 2006 Digital Remaster/24 Bit Mastering
+https://open.spotify.com/track/3sklrjBEkPUaSy0zfkdnOY∉Frank Sinatra∉jazz∉2:55∉109∉G#/Ab Major∉41∉0.41∉0.68∉0.22∉0.47∉0∉0.13∉0.04∉False∉The Best Is Yet To Come
+https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly∉Frank Sinatra∉jazz∉2:46∉109∉C Major∉55∉0.51∉0.54∉0.15∉0.77∉0∉0.1∉0.03∉False∉Nice 'n' Easy - Remastered 1999
+https://open.spotify.com/track/2kKvwBX4Qsn1CpbqjtNyad∉Frank Sinatra∉jazz∉2:38∉111∉A#/Bb Major∉46∉0.63∉0.71∉0.23∉0.86∉0∉0.12∉0.03∉False∉Love And Marriage
+https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf∉Frank Sinatra∉jazz∉2:31∉141∉A Major∉48∉0.74∉0.63∉0.19∉0.36∉0∉0.11∉0.08∉False∉Come Dance With Me - 1998 Remastered
+https://open.spotify.com/track/3u7jQn9a8xrplb4wqFQIZL∉Frank Sinatra∉jazz∉4:26∉136∉E Major∉0∉0.21∉0.42∉0.01∉0.97∉0.0∉0.11∉0.04∉False∉One For My Baby (And One More For The Road) - Remastered
+https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y∉Frank Sinatra∉jazz∉4:27∉80∉G Minor∉51∉0.13∉0.21∉0.14∉0.86∉0∉0.11∉0.03∉False∉It Was A Very Good Year
+https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof∉Frank Sinatra∉jazz∉2:31∉85∉B Minor∉58∉0.24∉0.26∉0.12∉0.89∉0∉0.11∉0.03∉False∉My Funny Valentine - Remastered
+https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy∉Frank Sinatra∉jazz∉3:08∉77∉F Major∉53∉0.26∉0.39∉0.43∉0.67∉0∉0.13∉0.03∉False∉My Kind Of Town
+https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj∉Frank Sinatra∉jazz∉3:01∉115∉C Major∉54∉0.07∉0.29∉0.09∉0.86∉0.0∉0.11∉0.03∉False∉In The Wee Small Hours Of The Morning - Remastered 1998
+https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp∉Steve Lacy∉jazz∉2:58∉97∉A Major∉80∉0.21∉0.83∉0.3∉0.31∉0.1∉0.08∉0.04∉False∉Infrunami
+https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX∉Steve Lacy∉jazz∉2:10∉100∉B Minor∉82∉0.41∉0.41∉0.47∉0.66∉0.05∉0.13∉0.12∉False∉C U Girl
+https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0∉Steve Lacy∉jazz∉3:44∉120∉B Minor∉71∉0.89∉0.84∉0.54∉0.07∉0.0∉0.21∉0.04∉False∉N Side
+https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN∉Steve Lacy∉jazz∉4:34∉73∉C Minor∉65∉0.41∉0.57∉0.37∉0.83∉0.23∉0.1∉0.03∉True∉Give You the World
+https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa∉Steve Lacy∉jazz∉2:53∉172∉F#/Gb Major∉87∉0.77∉0.6∉0.78∉0.45∉0.0∉0.12∉0.06∉False∉Dark Red
+https://open.spotify.com/track/3NOIkyNWG0fEjkPkq9HVMW∉Steve Lacy∉jazz∉1:50∉175∉G#/Ab Minor∉65∉0.91∉0.64∉0.93∉0.15∉0.05∉0.39∉0.07∉True∉Basement Jack
+https://open.spotify.com/track/5Ha9IheRrkDyr7ZdhaRsWb∉Steve Lacy∉jazz∉2:20∉137∉A Minor∉68∉0.98∉0.79∉0.94∉0.07∉0.0∉0.13∉0.05∉False∉Ryd
+https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem∉Steve Lacy∉jazz∉2:37∉79∉C#/Db Major∉77∉0.21∉0.34∉0.3∉0.43∉0.63∉0.1∉0.07∉True∉Static
+https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2∉Steve Lacy∉jazz∉3:22∉97∉A Minor∉65∉0.76∉0.61∉0.68∉0.1∉0∉0.22∉0.02∉True∉Helmet
+https://open.spotify.com/track/3YBfHJTZPHn5DqgMnD6g5g∉Steve Lacy∉jazz∉1:30∉87∉D Major∉66∉0.88∉0.67∉0.53∉0.46∉0.01∉0.12∉0.18∉False∉Atomic Vomit
+https://open.spotify.com/track/4QUsmmXmINYXwh7UsiMX2j∉Steve Lacy∉jazz∉1:01∉126∉F Major∉65∉0.67∉0.82∉0.68∉0.03∉0.83∉0.07∉0.05∉False∉When I
+https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd∉Steve Lacy∉jazz∉1:58∉104∉G Major∉83∉0.63∉0.78∉0.55∉0.01∉0.25∉0.1∉0.03∉True∉Some
+https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy∉Steve Lacy∉jazz∉3:52∉169∉C#/Db Major∉79∉0.7∉0.69∉0.49∉0.61∉0.0∉0.4∉0.04∉True∉Bad Habit
+https://open.spotify.com/track/2kk2trjT2JXhEHtCnz9FWA∉Steve Lacy∉jazz∉4:00∉80∉C Major∉54∉0.06∉0.21∉0.3∉0.18∉0.76∉0.12∉0.03∉True∉Cody Freestyle
+https://open.spotify.com/track/3wV010RuCRcsqNFFJszc6u∉Steve Lacy∉jazz∉3:34∉192∉G Major∉31∉0.85∉0.48∉0.79∉0.12∉0.0∉0.34∉0.04∉False∉Playground
+https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa∉Steve Lacy∉jazz∉4:53∉93∉C#/Db Minor∉56∉0.74∉0.69∉0.69∉0.03∉0.7∉0.11∉0.02∉False∉Sunshine (feat. Fousheé)
+https://open.spotify.com/track/7wNAM0qzErN5Dr9uV6B3fW∉Steve Lacy∉jazz∉1:41∉86∉E Major∉64∉0.81∉0.81∉0.4∉0.1∉0∉0.08∉0.04∉False∉Only If
+https://open.spotify.com/track/3XvVsoJmlfBfLFXGR57DeK∉Steve Lacy∉jazz∉1:31∉94∉F Major∉56∉0.8∉0.75∉0.7∉0.26∉0.15∉0.1∉0.08∉False∉Looks
+https://open.spotify.com/track/2mqXKSieDASoq4N5739wCz∉Steve Lacy∉jazz∉1:39∉208∉B Minor∉57∉0.77∉0.67∉0.49∉0.62∉0.0∉0.24∉0.12∉False∉Donchano
+https://open.spotify.com/track/67DGJfTDDLYqx9377joNdN∉Steve Lacy∉jazz∉2:40∉108∉C Major∉50∉0.77∉0.82∉0.72∉0.0∉0.01∉0.3∉0.05∉False∉Hate CD
+https://open.spotify.com/track/2QBTZXuc6t4TqqN2W5gUhF∉Steve Lacy∉jazz∉2:01∉121∉A Minor∉47∉0.49∉0.61∉0.43∉0.98∉0.0∉0.44∉0.03∉True∉In Lust We Trust
+https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x∉Steve Lacy∉jazz∉4:55∉151∉A Minor∉64∉0.89∉0.7∉0.75∉0.54∉0.01∉0.33∉0.05∉True∉Mercury
+https://open.spotify.com/track/7c0Q2pl81oeMwc9Yhc9WxF∉Miles Davis∉jazz∉2:52∉109∉A Minor∉33∉0.35∉0.51∉0.1∉0.91∉0.78∉0.24∉0.04∉False∉On The Champs Elysees
+https://open.spotify.com/track/0AMye8ukFtoSi4qmYJkFu1∉Miles Davis∉jazz∉3:21∉108∉F Minor∉0∉0.42∉0.47∉0.14∉0.69∉0∉0.09∉0.03∉False∉Summertime
+https://open.spotify.com/track/4AvBfNYgmgr1slawgbnrCS∉Miles Davis∉jazz∉2:50∉68∉A Minor∉31∉0.15∉0.32∉0.12∉0.96∉0.94∉0.26∉0.03∉False∉Lift To The Scaffold
+https://open.spotify.com/track/3rWBDik1VBZWkEJrAMB1x3∉Miles Davis∉jazz∉3:10∉173∉G#/Ab Major∉27∉0.64∉0.41∉0.33∉0.85∉0.02∉0.12∉0.05∉False∉Godchild
+https://open.spotify.com/track/4OtXw7fTLV53s7kYlhqUDP∉Miles Davis∉jazz∉3:40∉173∉D Major∉30∉0.13∉0.34∉0.05∉0.99∉0.33∉0.14∉0.04∉False∉What's New
+https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV∉Miles Davis∉jazz∉5:17∉71∉G Minor∉41∉0.5∉0.63∉0.42∉0.12∉0.59∉0.11∉0.05∉False∉Tutu
+https://open.spotify.com/track/0YyFtU5ZicYiCGxUxLF4JY∉Miles Davis∉jazz∉2:54∉127∉D Minor∉29∉0.42∉0.48∉0.29∉0.73∉0.94∉0.13∉0.04∉False∉Petit Bac Blues
+https://open.spotify.com/track/58j7DzsKSoDMzhDTZVsTnG∉Miles Davis∉jazz∉3:14∉176∉D#/Eb Major∉25∉0.69∉0.4∉0.29∉0.78∉0.15∉0.14∉0.05∉False∉Jeru
+https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi∉Miles Davis∉jazz∉5:38∉110∉D Minor∉64∉0.15∉0.42∉0.02∉0.81∉0.0∉0.1∉0.04∉False∉Blue in Green (feat. John Coltrane & Bill Evans)
+https://open.spotify.com/track/7BLPUR7CU0O4YFqIVCYgIS∉Miles Davis∉jazz∉5:42∉154∉C Minor∉0∉0.35∉0.51∉0.28∉0.71∉0.0∉0.1∉0.05∉False∉Someday My Prince Will Come
+https://open.spotify.com/track/3HYgDhbalObcbMM9zzZpP6∉Miles Davis∉jazz∉2:36∉121∉G#/Ab Major∉24∉0.76∉0.52∉0.35∉0.86∉0.01∉0.13∉0.06∉False∉Budo
+https://open.spotify.com/track/5xweKGXJSwNpu8SgVoN6Zu∉Miles Davis∉jazz∉9:25∉136∉C Major∉0∉0.24∉0.54∉0.22∉0.64∉0.0∉0.12∉0.04∉False∉So What
+https://open.spotify.com/track/7841hHRDFkpQBGLlXb3pGl∉Miles Davis∉jazz∉4:37∉100∉D#/Eb Major∉23∉0.81∉0.57∉0.53∉0.79∉0.01∉0.19∉0.03∉False∉But Not For Me
+https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz∉Miles Davis∉jazz∉4:29∉91∉B Minor∉39∉0.57∉0.66∉0.32∉0.49∉0.06∉0.08∉0.03∉False∉Human Nature (2022 Remaster)
+https://open.spotify.com/track/06QM3t6hCjTWMSYR32JVcG∉Miles Davis∉jazz∉7:02∉136∉G Major∉26∉0.49∉0.59∉0.32∉0.92∉0.02∉0.33∉0.05∉False∉Bags Groove
+https://open.spotify.com/track/5OmIuplwp4x5LT8HXPq6wP∉Miles Davis∉jazz∉4:56∉121∉F Major∉22∉0.48∉0.65∉0.35∉0.89∉0.05∉0.13∉0.04∉False∉Doxy
+https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9∉Miles Davis∉jazz∉4:14∉125∉F Major∉33∉0.17∉0.25∉0.03∉0.96∉0.0∉0.08∉0.04∉False∉I Loves You, Porgy (From "Porgy & Bess")
+https://open.spotify.com/track/5WZ4lFiVN6Kq1XmWXmpn1d∉Miles Davis∉jazz∉5:16∉112∉F Major∉21∉0.74∉0.59∉0.38∉0.8∉0.02∉0.1∉0.05∉False∉Oleo
+https://open.spotify.com/track/4aeS75mjv4XA9iklcIvsV4∉Miles Davis∉jazz∉3:59∉76∉G#/Ab Major∉25∉0.63∉0.64∉0.43∉0.06∉0.0∉0.42∉0.15∉False∉A Dinner In Town
+https://open.spotify.com/track/7aWJjMNh1UjaC59uAj7AHE∉Miles Davis∉jazz∉7:03∉82∉G#/Ab Major∉0∉0.6∉0.64∉0.25∉0.42∉0.0∉0.23∉0.04∉False∉All of You
+https://open.spotify.com/track/6FqTlRhmQpU8zN6D4TrBax∉Miles Davis∉jazz∉5:53∉122∉D Minor∉20∉0.86∉0.55∉0.56∉0.43∉0∉0.31∉0.04∉False∉A Leu Cha
+https://open.spotify.com/track/2DZRzRFNjVqSgZZE2hXalf∉Miles Davis∉jazz∉4:57∉113∉G Major∉23∉0.7∉0.46∉0.6∉0.82∉0.0∉0.26∉0.07∉False∉Woodyn You
+https://open.spotify.com/track/2nCQllprSAOvFtOOAf4315∉Miles Davis∉jazz∉11:35∉140∉C Major∉0∉0.36∉0.49∉0.2∉0.78∉0.0∉0.07∉0.03∉False∉All Blues
+https://open.spotify.com/track/3G8WAU91lwkBtncfikyVI4∉Miles Davis∉jazz∉3:02∉136∉F Major∉19∉0.45∉0.48∉0.25∉0.94∉0.13∉0.07∉0.04∉False∉Boplicity
+https://open.spotify.com/track/2PQURzvp6lfldGIqzGkc0W∉Miles Davis∉jazz∉4:28∉124∉G#/Ab Major∉22∉0.72∉0.44∉0.5∉0.93∉0.93∉0.36∉0.05∉False∉S'il Vous Plait
+https://open.spotify.com/track/6lSkdQFwWz0PRCPs5lbR6o∉Miles Davis∉jazz∉3:45∉116∉G#/Ab Major∉18∉0.85∉0.55∉0.49∉0.67∉0.0∉0.35∉0.05∉False∉Two Bass Hit
+https://open.spotify.com/track/69t8gyzP5HnvFeKvIw0rZA∉Miles Davis∉jazz∉5:58∉114∉A#/Bb Minor∉0∉0.21∉0.5∉0.17∉0.78∉0.0∉0.14∉0.04∉False∉Round' Midnight
+https://open.spotify.com/track/3abEv6s9C36cc9MMaP1aDj∉Miles Davis∉jazz∉5:03∉119∉F Minor∉18∉0.74∉0.57∉0.55∉0.82∉0.0∉0.22∉0.03∉False∉Airegin
+https://open.spotify.com/track/66vrjgMvWOLyeKBuMGA0Cz∉Miles Davis∉jazz∉11:47∉106∉F Minor∉40∉0.67∉0.66∉0.44∉0.7∉0.0∉0.17∉0.05∉False∉Love For Sale
+https://open.spotify.com/track/5uuf6yveViRjGEzok0aR23∉Miles Davis∉jazz∉3:07∉72∉C Minor∉17∉0.45∉0.4∉0.32∉0.74∉0∉0.22∉0.04∉False∉Rocker
+https://open.spotify.com/track/2TuP4hlHJ8At1s1vl85tmd∉Miles Davis∉jazz∉2:19∉170∉G#/Ab Major∉21∉0.78∉0.48∉0.55∉0.21∉0.02∉0.29∉0.32∉False∉On The Highway
+https://open.spotify.com/track/1LK1RNKeWIEAbPDSwgb6vP∉Miles Davis∉jazz∉2:34∉137∉D#/Eb Major∉17∉0.84∉0.49∉0.42∉0.7∉0.0∉0.11∉0.06∉False∉Move
+https://open.spotify.com/track/2kEGpbtAKJTm4XRyMgpV1K∉Miles Davis∉jazz∉3:55∉64∉D Minor∉21∉0.24∉0.38∉0.07∉0.81∉0.0∉0.11∉0.04∉False∉The Photographer
+https://open.spotify.com/track/3Zo7tyMiBpBb679tc0eXHr∉Miles Davis∉jazz∉6:03∉69∉C Minor∉0∉0.25∉0.49∉0.1∉0.9∉0.0∉0.12∉0.04∉False∉My Funny Valentine
+https://open.spotify.com/track/6M4SSaWKlNr9Bgpe5q0Lgt∉Miles Davis∉jazz∉5:46∉117∉A Minor∉0∉0.69∉0.55∉0.52∉0.47∉0.0∉0.1∉0.03∉False∉Milestones
+https://open.spotify.com/track/2hJOsrtmtyZvDaiyFa8bsm∉Miles Davis∉jazz∉3:15∉170∉G Major∉16∉0.53∉0.35∉0.38∉0.89∉0.05∉0.13∉0.05∉False∉Rouge
+https://open.spotify.com/track/5bPB6QHQUpsJZ0R3UISW7h∉Miles Davis∉jazz∉7:55∉126∉G Major∉0∉0.7∉0.61∉0.47∉0.65∉0.0∉0.07∉0.04∉False∉I'll Remember April
+https://open.spotify.com/track/5ge2Uzj6OYdqKtcS4HhJ02∉Miles Davis∉jazz∉3:20∉107∉E Minor∉16∉0.08∉0.29∉0.08∉0.98∉0.7∉0.11∉0.03∉False∉Moon Dreams
+https://open.spotify.com/track/1b611xqy4nUI0qIqe3vE6f∉Miles Davis∉jazz∉7:57∉122∉C Major∉0∉0.36∉0.62∉0.3∉0.55∉0.0∉0.09∉0.05∉False∉Bye Bye Blackbird
+https://open.spotify.com/track/2nQ6aYZnTVL3teNRyY0e3p∉Miles Davis∉jazz∉4:25∉136∉G Major∉0∉0.56∉0.43∉0.26∉0.48∉0.0∉0.07∉0.03∉False∉It Ain't Necessarily So
+https://open.spotify.com/track/6jeOujBsRITJjGzrLqUhiE∉Miles Davis∉jazz∉5:25∉122∉F Major∉0∉0.55∉0.54∉0.42∉0.45∉0∉0.07∉0.04∉False∉Well You Needn't
+https://open.spotify.com/track/1HJRXJAxT9gzQ8J9GN7LbG∉Miles Davis∉jazz∉6:15∉123∉D#/Eb Major∉0∉0.09∉0.35∉0.07∉0.95∉0.0∉0.12∉0.04∉False∉Nature Boy
+https://open.spotify.com/track/3STNtYUBO8PM8bitMHA8zw∉Miles Davis∉jazz∉3:26∉180∉A#/Bb Major∉0∉0.42∉0.33∉0.52∉0.69∉0.24∉0.1∉0.07∉False∉There Is a Boat That's Leavin Soon for New York
+https://open.spotify.com/track/2xocr7vtcKEYbgFZKMSD19∉Miles Davis∉jazz∉6:36∉76∉G Major∉20∉0.64∉0.57∉0.27∉0.83∉0.0∉0.46∉0.05∉False∉But Not For Me

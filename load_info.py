@@ -13,10 +13,10 @@ client_secret = '2239ed9d1133428bb7b8333c04922424'
 # client_secret = '4f814bb60ea24a60b10d4aa81acbc6a3'
 url = 'https://accounts.spotify.com/api/token'
 scope = "user-read-playback-state,user-modify-playback-state,user-top-read"
-playlist_link = "https://open.spotify.com/playlist/37i9dQZF1DX5KpP2LN299J?si=a100ec7f99a345f4"
-separator = ','
-limit = 10
-target_genre = ''
+playlist_link = "https://open.spotify.com/playlist/1CuwRrTpmKnV98J6lpsram?si=dbc4c354ca2c4da7"
+separator = '∉'
+limit = 0
+target_genre = 'jazz'
 
 codes = []
 n = 0
@@ -91,20 +91,21 @@ def get_genre(song_genres):
 
 def write_info(song, f, tracks_features):
     artist = sp.artist(song['artists'][0]['uri'])
-    genre = get_genre(artist['genres'])
+    # genre = get_genre(artist['genres'])
+    genre = target_genre
 
-    if genre == '':
-        return
+    # if genre == '':  not really nedeed for fixed genre
+    #     return
 
     print(song['name'])
-    f.write(f"https://open.spotify.com/track/{song['id']}{separator}")  # link
-    f.write(f"{artist['name']}{separator}{song['name']}{separator}{genre}{separator}")
+    f.write(f"https://open.spotify.com/track/{song['id']}{separator}".encode('utf8'))  # link
+    f.write(f"{artist['name']}{separator}{genre}{separator}".encode('utf8'))
 
     secs = round(song['duration_ms'] / 1000)
     mins = int(secs / 60)
     a = ""
     if secs % 60 < 10: a = "0"
-    f.write(f"{mins}:{a}{secs % 60}{separator}")
+    f.write(f"{mins}:{a}{secs % 60}{separator}".encode('utf8'))
 
     tf = tracks_features[(n % 100) - 1]  # it's track features, guy, chill...
     if tf['mode'] == 1:
@@ -115,9 +116,9 @@ def write_info(song, f, tracks_features):
         f"{round(tf['tempo'])}{separator}{keys_dict[tf['key']]} {mode}{separator}{song['popularity']}{separator}{round(tf['valence'], 2)}{separator}"
         f"{round(tf['danceability'], 2)}{separator}{round(tf['energy'], 2)}{separator}{round(tf['acousticness'], 2)}{separator}"
         f"{round(tf['instrumentalness'], 2)}{separator}{round(tf['liveness'], 2)}{separator}{round(tf['speechiness'], 2)}{separator}"
-        f"{song['explicit']}")
+        f"{song['explicit']}{separator}{song['name']}".encode('utf8'))
 
-    f.write("\n")
+    f.write("\n".encode('utf8'))
 
 
 # ############### TO-DO ###############
@@ -139,9 +140,9 @@ def write_info(song, f, tracks_features):
 # with open("songs.txt", "r") as f:
 #     t = f.readlines()
 
-with open("songs_info.txt", "a") as f:
-    # f.write("Link;Autor;Tytuł;Rodzaj;Duration;Tempo(BPM);Key;Popularity;Happiness;Danceability;Energy;Acousticness;"
-    #         "Instrumentalness;Liveness;Speechiness;Explicit\n")
+with open("songs_info.txt", "ab") as f:
+    # f.write("Link∉Autor∉Gatunek∉Duration∉Tempo(BPM)∉Key∉Popularity∉Happiness∉Danceability∉Energy∉Acousticness∉
+    # Instrumentalness∉Liveness∉Speechiness∉Explicit∉Tytuł\n")
 
     playlist = sp.playlist(playlist_id)
     if limit > 0: pl_length = limit
@@ -152,9 +153,10 @@ with open("songs_info.txt", "a") as f:
     while pl_length > 0:
         ids = []
         playlist = sp.playlist_tracks(playlist_id, offset=offset)
+        print(len(playlist["items"]))
         offset += 100
 
-        if n >= limit:
+        if limit > 0 and n >= limit:
             break
 
         for song in playlist["items"]:
@@ -167,7 +169,7 @@ with open("songs_info.txt", "a") as f:
 
         # print({f'offset: {offset}'})
         for song in playlist["items"]:
-            if n >= limit:
+            if limit > 0 and n >= limit:
                 break
             n += 1
             if n % 20 == 0:

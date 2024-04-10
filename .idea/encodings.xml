@@ -2,7 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/genres_page.html" charset="windows-1250" />
-    <file url="file://$PROJECT_DIR$/songs_info.txt" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/songs_info.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/testfile01.txt" charset="windows-1250" />
     <file url="file://$PROJECT_DIR$/testfile02.txt" charset="windows-1250" />
   </component>
